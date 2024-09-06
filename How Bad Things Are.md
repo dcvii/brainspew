@@ -1,4 +1,3 @@
-
 # [You don't know how bad most things are nor precisely how they're bad.](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
 
 by [Solenoid_Entity](https://www.lesswrong.com/users/solenoid_entity?from=post_header)
