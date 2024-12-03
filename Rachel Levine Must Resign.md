@@ -5,11 +5,8 @@ A case study in politics and ideology overruling science. With children as victi
 ---
 
 By Andrew Sullivan
-
 Oct 18, 2024 11:04 AM
-
 12 min. read
-
 View original
 
 ---
