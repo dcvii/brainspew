@@ -1,15 +1,14 @@
-
-
-For more than a year, a loosely organized coalition of operatives scrambled to shore up America’s institutions
-
 ---
-
-By Molly Ball
-27 min. read
-[View original](https://time.com/5936036/secret-2020-election-campaign/)
-
+title: "The Secret History of the Shadow Campaign That Saved the 2020 Election"
+source: "https://time.com/5936036/secret-2020-election-campaign/"
+author:
+  - "[[Molly Ball]]"
+published: 2021-02-04
+created: 2025-02-07
+description: "The extraordinary effort was dedicated to ensuring the election would be free and fair, credible and uncorrupted. Here's how it was done"
+tags:
+  - "clippings domestic-affairs"
 ---
-
 A weird thing happened right after the Nov. 3 election: nothing.
 
 The nation was braced for chaos. Liberal groups had vowed to take to the streets, planning hundreds of protests across the country. Right-wing militias were girding for battle. In a poll before Election Day, 75% of Americans voiced concern about violence.
@@ -19,22 +18,6 @@ Instead, an eerie quiet descended. As President Trump refused to concede, the re
 A second odd thing happened amid Trump’s attempts to reverse the result: corporate America turned on him. Hundreds of major business leaders, many of whom had backed Trump’s candidacy and supported his policies, called on him to concede. To the President, something felt amiss. “It was all very, very strange,” Trump said on Dec. 2. “Within days after the election, we witnessed an orchestrated effort to anoint the winner, even while many key states were still being counted.”
 
 In a way, Trump was right.
-
-Reactions Throughout the U.S. After Biden Wins Presidential Race in Unprecedented Election
-
-0 of 3 minutes, 24 secondsVolume 0%
-
-Copied
-
-Next Up: In Dramatic Vote, McCarthy Becomes First House Speaker to be Ousted in U.S. History
-
-Live
-
-01:08
-
-02:15
-
-03:24
 
 There was a conspiracy unfolding behind the scenes, one that both curtailed the protests and coordinated the resistance from CEOs. Both surprises were the result of an informal alliance between left-wing activists and business titans. The pact was formalized in a terse, little-noticed joint statement of the U.S. Chamber of Commerce and AFL-CIO published on Election Day. Both sides would come to see it as a sort of implicit bargain–inspired by the summer’s massive, sometimes destructive racial-justice protests–in which the forces of labor came together with the forces of capital to keep the peace and oppose Trump’s assault on democracy.
 
@@ -176,7 +159,7 @@ In Podhorzer’s presentations, winning the vote was only the first step to winn
 
 It was around 10 p.m. on election night in Detroit when a flurry of texts lit up the phone of Art Reyes III. A busload of Republican election observers had arrived at the TCF Center, where votes were being tallied. They were crowding the vote-counting tables, refusing to wear masks, heckling the mostly Black workers. Reyes, a Flint native who leads We the People Michigan, was expecting this. For months, conservative groups had been sowing suspicion about urban vote fraud. “The language was, ‘They’re going to steal the election; there will be fraud in Detroit,’ long before any vote was cast,” Reyes says.
 
-![Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-02.jpg?quality=75&w=2400 "Michigan Election Workers Continue To Work Counting Absentee Ballots")
+![Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-02.jpg?quality=75&w=2400)
 
 Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4Elaine Cromie—Getty Images
 
@@ -198,7 +181,7 @@ Reyes’ activists scanned flight schedules and flocked to the airports on both 
 
 That left one last step: the state canvassing board, made up of two Democrats and two Republicans. One Republican, a Trumper employed by the DeVos family’s political nonprofit, was not expected to vote for certification. The other Republican on the board was a little-known lawyer named Aaron Van Langevelde. He sent no signals about what he planned to do, leaving everyone on edge.
 
-When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, (#alleyesonmi). A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
+When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, #alleyesonmi. A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
 
 After that, the dominoes fell. Pennsylvania, Wisconsin and the rest of the states certified their electors. Republican officials in Arizona and Georgia stood up to Trump’s bullying. And the Electoral College voted on schedule on Dec. 14.
 
@@ -207,12 +190,6 @@ After that, the dominoes fell. Pennsylvania, Wisconsin and the rest of the state
 There was one last milestone on Podhorzer’s mind: Jan. 6. On the day Congress would meet to tally the electoral count, Trump summoned his supporters to D.C. for a rally.
 
 Much to their surprise, the thousands who answered his call were met by virtually no counterdemonstrators. To preserve safety and ensure they couldn’t be blamed for any mayhem, the activist left was “strenuously discouraging counter activity,” Podhorzer texted me the morning of Jan. 6, with a crossed-fingers emoji.
-
-Incited by the President, Trump Supporters Violently Storm the Capitol
-
-0 seconds of 2 minutes, 29 secondsVolume 0%
-
-Copied
 
 Trump addressed the crowd that afternoon, peddling the lie that lawmakers or Vice President Mike Pence could reject states’ electoral votes. He told them to go to the Capitol and “fight like hell.” Then he returned to the White House as they sacked the building. As lawmakers fled for their lives and his own supporters were shot and trampled, Trump praised the rioters as “very special.”
 
@@ -226,6 +203,4 @@ Democracy won in the end. The will of the people prevailed. But it’s crazy, in
 
 –With reporting by LESLIE DICKSTEIN, MARIAH ESPADA and SIMMONE SHAH
 
-_Correction appended, Feb. 5: The original version of this story misstated the name of Norm Eisen’s organization. It is the Voter Protection Program, not the Voter Protection Project. The original version of this story also misstated Jeff Timmer’s former position with the Michigan Republican Party. He was the executive director, not the chairman._
-
-![](chrome-extension://eppedlbobmdflmhleafebmahnbphgipb/assets/icons/icon-128.png)
+*Correction appended, Feb. 5: The original version of this story misstated the name of Norm Eisen’s organization. It is the Voter Protection Program, not the Voter Protection Project. The original version of this story also misstated Jeff Timmer’s former position with the Michigan Republican Party. He was the executive director, not the chairman.*
