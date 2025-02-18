@@ -1,6 +1,6 @@
 ---
 author:
-  - "[[MichaelBowen]]"
+  - "[[Michael Bowen]]"
 tags:
   - sci-fi
   - literature

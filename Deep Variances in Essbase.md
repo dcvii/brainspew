@@ -3,7 +3,7 @@ title: Deep Variances in Essbase
 source: https://www.cubegeek.com/2019/01/deep-variances-in-essbase.html
 author:
   - "[[Cubegeek]]"
-  - "[[MichaelBowen]]"
+  - "[[Michael Bowen]]"
 published: 1996-09-14
 created: 2025-02-08
 description: (from the archives - Fall 1996) In my travels, I have just come upon a neat trick. I've never seen it posted anywhere and it solves a problem I remember being unable to solve a few years ago. Consider a...
