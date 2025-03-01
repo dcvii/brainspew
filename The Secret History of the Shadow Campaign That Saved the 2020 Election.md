@@ -198,7 +198,11 @@ Reyes’ activists scanned flight schedules and flocked to the airports on both 
 
 That left one last step: the state canvassing board, made up of two Democrats and two Republicans. One Republican, a Trumper employed by the DeVos family’s political nonprofit, was not expected to vote for certification. The other Republican on the board was a little-known lawyer named Aaron Van Langevelde. He sent no signals about what he planned to do, leaving everyone on edge.
 
+<<<<<<< Updated upstream
 When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, #alleyesonmi. A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
+=======
+When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, (#alleyesonmi). A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
+>>>>>>> Stashed changes
 
 After that, the dominoes fell. Pennsylvania, Wisconsin and the rest of the states certified their electors. Republican officials in Arizona and Georgia stood up to Trump’s bullying. And the Electoral College voted on schedule on Dec. 14.
 

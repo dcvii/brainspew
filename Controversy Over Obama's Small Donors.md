@@ -1,0 +1,16 @@
+---
+title: "Controversy Over Obama's Small Donors"
+source: "https://www.newsweek.com/controversy-over-obamas-small-donors-91747"
+author:
+  - "[[Michael Isikoff]]"
+published: 2008-10-03
+created: 2025-02-10
+description: "The Obama campaign has shattered all fund-raising records, raking in $458 million so far, with about half the bounty coming from donors who contribute $200 or less."
+tags:
+  - "clippings"
+---
+The Obama campaign has shattered all fund-raising records, raking in $458 million so far, with about half the bounty coming from donors who contribute $200 or less. Aides say that's an illustration of a truly democratic campaign. To critics, though, it can be an invitation for fraud and illegal foreign cash because donors giving individual sums of $200 or less don't have to be publicly reported. Consider the cases of Obama donors "Doodad Pro" of Nunda, N.Y., who gave $17,130, and "Good Will" of Austin, Texas, who gave more than $11,000—both in excess of the $2,300-per-person federal limit. In two recent letters to the Obama campaign, Federal Election Commission auditors flagged those (and other) donors and informed the campaign that the sums had to be returned. Neither name had ever been publicly reported because both individuals made online donations in $10 and $25 increments. "Good Will" listed his employer as "Loving" and his occupation as "You," while supplying as his address 1015 Norwood Park Boulevard, which is shared by the Austin nonprofit Goodwill Industries. Suzanha Burmeister, marketing director for Goodwill, said the group had "no clue" who the donor was. She added, however, that the group had received five puzzling thank-you letters from the Obama campaign this year, prompting it to send the campaign an e-mail in September pointing out the apparent fraudulent use of its name.
+
+"Doodad Pro" listed no occupation or employer; the contributor's listed address is shared by Lloyd and Lynn's Liquor Store in Nunda. "I have never heard of such an individual," says Diane Beardsley, who works at the store and is the mother of one of the owners. "Nobody at this store has that much money to contribute." (She added that a Doodad's Boutique, located next door, had closed a year ago, before the donations were made.)
+
+Obama spokesman Ben LaBolt said the campaign has no idea who the individuals are and has returned all the donations, using the credit-card numbers they gave to the campaign. (In a similar case earlier this year, the campaign returned $33,000 to two Palestinian brothers in the Gaza Strip who had bought T shirts in bulk from the campaign's online store. They had listed their address as "Ga.," which the campaign took to mean Georgia rather than Gaza.) "While no organization is completely protected from Internet fraud, we will continue to review our fund-raising procedures," LaBolt said. Some critics say the campaign hasn't done enough. This summer, watchdog groups asked both campaigns to share more information about its small donors. The McCain campaign agreed; the Obama campaign did not. "They could've done themselves a service" by heeding the suggestions, said Massie Ritsch of the Center for Responsive Politics.

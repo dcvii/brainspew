@@ -1,0 +1,24 @@
+---
+title: How To Cloud A Mainframe
+source: https://www.cubegeek.com/2017/10/how-to-cloud-a-mainframe.html
+author:
+  - "[[Cubegeek]]"
+published: 2017-10-18
+created: 2025-02-20
+description: Once upon a time there was a mainframe computer. I ignored it. So did you. We were wrong. My mighty mainframe was a CDC Cyber running NOS. It was such a craptastic machine that I hated doing homework precisely because...
+tags:
+  - clippings
+---
+[![Mainframe](https://cobb.typepad.com/.a/6a00d834515ae969e201b7c92b58ff970b-320wi "Mainframe")](http://cobb.typepad.com/.a/6a00d834515ae969e201b7c92b58ff970b-popup)Once upon a time there was a mainframe computer. I ignored it. So did you. We were wrong.
+
+My mighty mainframe was a CDC Cyber running NOS. It was such a craptastic machine that I hated doing homework precisely because the damned thing wasn't reliable enough for me to slack off until I was ready. Surely when I got into a groove of programming in fricking ADA, it would be broke. I hated my college's datacenter and the frogs who worked there. It was enough to make me love microcode and BNF. But that was 30 years ago, literally. Nevertheless, it left a bad taste in my mouth particularly because I loved DEC Vaxen and client server. After all, I did work at Xerox. 
+
+But while I was at the big X, I did come to love and appreciate VM/CMS. What a cool idea. And there was always a weird kind of appeal to ISPF, I have to say. Plus it was also very cool to use a channel attached Overland Data tape drive that worked with IND$FILE. Ok enough reminiscing. We all know that IBM was an early embracer of Linux, and became even cool again when I read about something called a Beowolf cluster of Linux nodes running on a System 390. And of course the RS 6000. Yada. Yeah. They understand hardware. I even listened up to the time when they started on about The Grid and grid computing in general. Why? Because I have always been a big data fanatic. Ok, devotee. 
+
+So this morning I'm talking to my engineering manager colleague down in LATAM and he's helping me to understand what sharp elements of his team have been doing over the past few years. I know a bit about it, but now I'm responsible to communicate that. Non trivial. It turns out that they've essentially been packing puffy clouds around mainframes. Huh? What?
+
+***We have come up with a way to put legacy mainframe data systems into cloud native architectures.***
+
+One of the things we do is work with airlines. I don't have to tell you again. You know. And a whole lot of airline reservation information, flight routing, frequent flyer currency, etc are on a multiplicity of divergent systems and architectures. We don't have patience with all of that. We're a systems integrator doing what needs doing in the AWS cloud. Of course a lot of this data is deeply embedded in complex systems that it will never make sense to re-engineer. So we said, leave it where it stands. We built stuff around it. Our offerings are called **API Modernization** and **Middleware Modernization Blueprint**. And what we've been able to do is engineer and rationalize what lives best where in an extended hybrid cloud environment. One of the things we've done is applied [Scala Akka](https://akka.io/) frameworks to create RESTful interfaces and [GraphQL](http://graphql.org/) to smooth out the rough edges of ancient mainframe subsystems and scale them up to deal with the new real world of cloud & webscale applications. Another thing we've done is take complex business rule logic which was once a legacy monolith, generalized and retooled it to work in multiple applications. We've augmented or replaced IBM MQ message queues and worked them into both Kafka and Kinesis. We prefer the headache free [Kinesis](https://aws.amazon.com/kinesis/). We don't have patience with zookeeping. Naturally, we've used the power of Cloudwatch to provide more reliable and customizable system monitoring capabilities, and of course we've used the power of AWS Availability Zones to make the whole thing robust against failure. So yeah, we can think of your mainframes as a middleware component in our ever-evolving data management architecture. 
+
+Obviously this is not cutting and pasting technology. It requires deep thought, patience and understanding. We've got our share of that and it's working out nicely. It's not easy to communicate all of those details, but I wanted to give you a heads up so you could consider some of the interesting directions our quest for data perfection has taken us. It has taken us back to the legacy of centralized computing, and we have recast that command and control to fit into contemporary cloud architecture. What a journey. Hey mainframe, we're pals again.

@@ -1,0 +1,59 @@
+---
+title: "Alex Karp: We Need a New Manhattan Project"
+source: "https://www.thefp.com/p/new-manhattan-project?utm_campaign=260347&utm_source=cross-post&r=7br8e&utm_medium=email"
+author:
+  - "[[Alexander C. Karp]]"
+  - "[[Nicholas W. Zamiska]]"
+published: 2025-02-22
+created: 2025-02-22
+description: "Alex Karp and Nicholas W. Zamiska of Palantir argue that our tech industry is capable of building a weapon that could ensure peace in Israel, Ukraine, and beyond."
+tags:
+  - "NATSEC"
+---
+***“The only thing that will ever prevent nations from beginning war is terror.” So wrote Alfred Nobel, who gave his name to the world’s most famous peace prize—but who also invented dynamite.***
+
+***This quote appears in a brand-new book co-authored by Alexander C. Karp and Nicholas W. Zamiska, of Palantir Technologies, which we’re excerpting today. “[The Technological Republic](https://bookshop.org/a/93116/9780593798690),” published this week, argues that the future of the West depends on America having the best weapons in the world—and it could not be more timely. In the last seven days, President Donald Trump has made [extraordinary concessions](https://www.thefp.com/p/niall-ferguson-jd-vances-fighting) to Russia’s authoritarian regime. His defense secretary, Pete Hegseth, has [called for](https://apnews.com/article/trump-pentagon-cuts-8-troops-budget-09ed8f0f5ae92a93b3c1705c9d2dcc1c) $50 billion in budget cuts to the U.S. military. And Hamas [flagrantly violated](https://www.reuters.com/world/middle-east/israel-prepares-receive-bodies-youngest-gaza-hostages-2025-02-20/) the already fragile ceasefire deal in Gaza.***
+
+***America’s enemies are strong. Our allies are vulnerable. What we need, argues Alex in the following essay, is a new [Manhattan Project](https://www.britannica.com/event/Manhattan-Project): a collaboration between our government and our technology sector that will keep America, and the world, safe. Why isn’t this happening already? Read on to find out. —The Editors***
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2fd8572-86f4-4433-a184-0c3e8db47e74_1320x30.webp)
+
+On July 16, 1945, in the darkness before dawn, a group of scientists and government officials gathered at a desolate stretch of sand in the New Mexico desert to witness humanity’s [first test of a nuclear weapon](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/#:~:text=Department%20of%20Energy\)-,The%20world's%20first%20nuclear%20explosion%20occurred%20on%20July%2016%2C%201945,the%20test%20was%20%22Trinity.%22). It was a pivotal moment in the timeline of the Manhattan Project, the World War II government program in which scientists collaborated with the U.S. military to develop the first atomic bomb before Nazi Germany. That morning, the nuclear physicist J. Robert Oppenheimer reportedly wondered aloud if a weapon this destructive might somehow contribute to an enduring peace—recalling the hope of Swedish industrialist Alfred Nobel that dynamite, which Nobel had invented, “would end wars.”
+
+It has been nearly 80 years since the first test of an atomic bomb, and nuclear weapons have been used in war only twice, at Hiroshima and Nagasaki in Japan. The horror of that day, August 6, 1945, has grown distant and faint, almost abstract, for many.
+
+Yet too many have also forgotten, or perhaps take for granted, that nearly a century of some version of peace has prevailed in the world without a great power military conflict. For this period of relative tranquility, it would be unreasonable to give all of the credit to a single weapon. The supremacy of American military power over the past century has undoubtedly helped guard the current, albeit fragile, peace.
+
+A commitment to the maintenance of such supremacy, however, has become increasingly unfashionable in the West. And deterrence, as a doctrine, is at risk of losing its moral appeal. This leaves us in grave danger. The United States and its allies should, without delay, commit to launching a new Manhattan Project.
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4ab47e9-50d4-4df1-8b06-17d21903614b_348x522.jpeg)
+
+(Crown Currency)
+
+That doesn’t mean investment in nuclear technologies. The atomic age is now coming to a close. This is the software century, and the decisive wars of the future will be driven by artificial intelligence, which is developing on a far different, and faster, timeline than weapons of the past. The hardware that defined warfare in the last era—the aircraft carriers and fighter jets—will become accessories to software such as AI, so that increasingly intelligent systems wield power in the world.
+
+[Swarms of drones](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3197193/countering-swarms-strategic-considerations-and-opportunities-in-drone-warfare/) will soon be capable of targeting and killing an adversary, all at a fraction of the cost of conventional weapons. Yet the level of investment in such technologies, and the software systems that will be required for them to operate, is far from sufficient. Our defense budget, and the legions of personnel charged with overseeing it, are out of date by decades. The U.S. Department of Defense requested a total of [$1.8 billion to fund artificial intelligence capabilities](https://defensescoop.com/2023/03/13/pentagon-requesting-more-than-3b-for-ai-jadc2/) in 2024, representing only 0.2 percent—a fifth of 1 percent—of the country’s total proposed defense budget of $886 billion.
+
+The trouble is that many of the people most capable of building the software that will be the deterrent of this century—in the way that the nuclear bomb was, in the last—are also the most ambivalent about working with the U.S. military.
+
+OpenAI has invested billions of dollars into the development of large language models such as ChatGPT, a spectacular advance in the way computing intelligence approaches problems. Yet in November 2022, when the company first released its AI interface to the public, it prohibited the use of its technologies for “military and warfare” purposes. The company was more than happy to lend the power of its creation to corporations selling consumer goods, but hesitated when asked to provide more effective software to those who defend our nation.
+
+After the company [changed course in early 2024](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/), protesters promptly gathered in San Francisco, outside the office of CEO Sam Altman, and [demanded that](https://pauseai.info/2024-february) OpenAI “end its relationship with the Pentagon and not take any military clients.”
+
+The ascendant elite in Silicon Valley preach the value of actively seeking out risk, but when it comes to investing in significant societal challenges, caution often prevails. While pockets of support for defense work have emerged in recent years, the vast majority of money and talent continues to stream toward the consumer, rather than the country. An entire generation of software engineers, capable of building the next generation of AI weaponry, has turned its back on the nation-state, disinterested in the messiness and moral complexity of geopolitics. Why court controversy, or enter a public relations maze, when you can build another app?
+
+And build apps they have. The proliferation of social media empires across the United States—which systematically prey on the human desire for status, programming the young to seek the often fickle approval of their peers—has consumed a great deal of Silicon Valley’s resources. The technological class does not hesitate to track and monetize our every movement online, burrowing its way into our lives. Yet these same engineers often balk at the idea that their work might benefit the U.S. military.
+
+In February 2018, [employees at Google demanded](https://www.icrac.net/open-letter-in-support-of-google-employees-and-tech-workers/) that the company stop collaborating with the U.S. Department of Defense on [Project Maven](https://www.bloomberg.com/features/2024-ai-warfare-project-maven/?srnd=homepage-americas&sref=62t700Zl)—a system designed to analyze satellite photographs, and other reconnaissance imagery, to aid special forces operations around the world. “Building this technology to assist the U.S. government in military surveillance—and potentially lethal outcomes—is not acceptable,” Google employees wrote in a letter, which received more than 3,000 signatures. Two months later, Google announced it would pause its work on the government project.
+
+The following year, in 2019, after Microsoft was selected to provide virtual headsets to soldiers, employees at the company objected. In an open letter to management, they argued: “We did not sign up to develop weapons.” In this case, the company stood firm. (Earlier this month, Anduril [took over](https://www.cnbc.com/2025/02/11/anduril-to-take-over-microsofts-22-billion-us-army-headset-program.html) the headset program.) But the threat of protest still hangs over leaders and investors across technology companies. America’s technology industry for years has almost entirely been guided by the whims of the market; it declines to consider what ought to be built, only what can.
+
+There are exceptions to this decline in ambition. Elon Musk, for example, has founded Tesla and SpaceX, both of which have stepped forward to fill glaring innovation gaps, where national governments have stepped back. Yet the culture almost snickers at Musk’s interest in grand narrative, as if billionaires ought to stay in their lane of enriching themselves and perhaps providing occasional fodder for celebrity gossip columns. The irony is that many of those who profess most strenuously that they oppose the excesses of capitalism are often the first in line to skewer those who have the audacity to attempt building something that the market has failed to provide. Musk’s critics are often far from the arena; in the words of Theodore Roosevelt, they are “those cold and timid souls” who know “neither victory nor defeat.”
+
+And here is another irony: Those in Silicon Valley who oppose working with the U.S. military enjoy a peace and freedom that is made possible only by that same military’s credible threat of force. The allure of pacifism, and a potential retreat from deterrence, is that it relieves us of the need to navigate among the difficult and imperfect trade-offs that the world presents. It allows us to ignore the uncomfortable fact that our adversaries will proceed with the development of software for the battlefield whether or not we do. The broader question we face is not whether a new generation of increasingly autonomous weapons incorporating artificial intelligence will be built. It is: Will America do what it takes to preserve global peace, or be left utterly exposed?
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19fd85d8-397d-4d39-a7f2-465baff9d4df_1320x30.png)
+
+***This is an adapted excerpt from [The Technological Republic: Hard Power, Soft Belief, and the Future of the West](https://bookshop.org/a/93116/9780593798690), by Alexander C. Karp and Nicholas W. Zamiska, which was published on February 18 by Crown Currency.***
+
+###### ***The Free Press earns a commission from any purchases made through all book links in this article.***

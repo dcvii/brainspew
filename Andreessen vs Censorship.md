@@ -1,4 +1,14 @@
+<<<<<<< Updated upstream
 #domestic-affairs 
+=======
+---
+tags:
+  - domestic-affairs
+  - T50
+created: 2024-12-10
+---
+
+>>>>>>> Stashed changes
 
 Marc Andreessen on AI, Tech, Censorship, and Dining with Trump
 

@@ -1,6 +1,19 @@
+<<<<<<< Updated upstream
 #russian
 #archetype
 #narrative
+=======
+---
+tags:
+  - russian
+  - narrative
+  - archetypes
+source: Wikipedia
+published: 2024-06-28
+---
+
+
+>>>>>>> Stashed changes
 
 ---
 

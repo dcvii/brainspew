@@ -10,7 +10,11 @@ The Newb has no idea but he's absolutely dumbstruck by the possibilities. He kno
   
 
 **The Apprentice**  
+<<<<<<< Updated upstream
 The apprentice knows what he wants to do, but not quite how. He has skills but not experience. He has ambition and drive and he's out to prove something. He's full of 'I can do this' and he hates making mistakes. He's looking for ways to do what he knows can be done, and he sets out to find the right tools. He hates hearing that it's been done and that his thoughts have been thought before, but his callsign is determinate. He's aiming to be graceful. What the Apprentice needs most is a win.
+=======
+The apprentice knows what he wants to do, but not quite how. He has skills but not experience. He has ambition and drive and he's out to prove something. He's full of 'I can do this' and he hates making mistakes. He's looking for ways to do what he knows can be done, and he sets out to find the right tools. He hates hearing that it's been done and that his thoughts have been thought before, but his callsign is determination. He's aiming to be graceful. What the Apprentice needs most is a win.
+>>>>>>> Stashed changes
  
 
 **The Workhorse**  
@@ -24,7 +28,10 @@ The Hotshot has achieved Mastery. He has explored the limits of his tool and has
 
 At this level we reach the plateau of Mastery. When a tool stops changing, there is nowhere to go , The first step above mastery has two forms. One is the Guru and the other is the Goto Guy.
 
+<<<<<<< Updated upstream
   
+=======
+>>>>>>> Stashed changes
 
 **The Goto Guy**  
 The Goto Guy is the one to you go to for results. He is the Hotshot who is now dedicated to creating others in his own image. He is all about market domination. He has earned the respect of most and the envy of Hotshots. He is the first person a Newbie wants to talk to. The Goto Guy must be approachable and gregarious. He can see the big picture but is focused on results. The Goto Guy needs resources and opportunity. He builds momentum and seeks to establish permanence through engendering real-world dependence.
@@ -48,9 +55,12 @@ The Demiurge is the [Second Soul](http://www.everything2.com/index.pl?node_id=17
 **The Primary**  
 The Demiurge builds the amusement park, the Lord makes you wear proper clothing, pay admission and stand in line and checks to see if you are tall enough for each ride. The Primary is why you are all there in the first place. The Primary needn't exist and sometimes does not. The Primary is the Reason, the Idea. The Primary motivates everything. He is unquestionable and irresistible. He is not only Master of the tools but Master of the environment. He stands with his finger on the center of gravity of his domain, he balances the Tao. Everyone believes they know the Primary, and everyone thinks they know what he wants, but only the Lord and the Demiurge get that close. And on occasion they find that there is nobody there. The Primary takes all the credit and all the blame. He is Servant of the system of his creation, he directs its creation and destruction.
 
+<<<<<<< Updated upstream
   
 
   
+=======
+>>>>>>> Stashed changes
 
 ### The Way of the Servant
 So now that you've lasted this far, we arrive at the way of Servitude, Service and Servility. I haven't decided the best term, but the concept is clear. The lessons of middle age are that Servitude is a result of power. It rather goes full circle. As Primary, Demiurge or Lord, you are subject to attack. The mistake of the Gangster is that he wants to be all three, but a Hegemon disappears into his system. He becomes at one with the process and can assume any role. He is in service to his creation, his tools, his system and at a certain point, doesn't care which role he takes. His only concern is the success and integrity of the system of which he partakes.

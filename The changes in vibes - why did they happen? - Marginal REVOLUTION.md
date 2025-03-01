@@ -61,7 +61,11 @@ You might add to this:
 
 19. Biden’s recent troubles, and the realization that he and his team had been running a con at least as big as the Trump one.  It has become a trust issue, not only an age or cognition issue.
 
+<<<<<<< Updated upstream
 On the other side of the ledger, you might argue, as do many intelligent people, that the Democrats are better at technocracy, and also that Democrats are more respectful of traditional political processes, especially transitions after elections.  I’m not here to debate those issues!  I know many MAGA supporters are not convinced, most of all on the latter.  I’ll simply note that, in the minds of many Americans, those factors do not necessarily outweigh #1-19.
+=======
+On the other side of the ledger, you might argue, as do many intelligent people, that the Democrats are better at technocracy, and also that Democrats are more respectful of traditional political processes, especially transitions after elections.  I’m not here to debate those issues!  I know many MAGA supporters are not convinced, most of all on the latter.  I’ll simply note that, in the minds of many Americans, those factors do not necessarily outweigh item 19
+>>>>>>> Stashed changes
 
 And there you go.
 
