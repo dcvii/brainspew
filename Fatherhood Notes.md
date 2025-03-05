@@ -1,0 +1,10 @@
+- Dads at The Point
+- T-shirts & Cargo Shorts
+- A Seat at Church
+- Camping, Carpentry & Clean Rooms
+- Man of the House
+- Whoopins & Command Voice vs Gossip & Cancellation
+- The N Word
+- Sushi
+- Trips with Dad
+- The Tricycle and Autonomy. 
