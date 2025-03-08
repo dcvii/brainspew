@@ -1,0 +1,7 @@
+**DARVO** (an [acronym](https://en.wikipedia.org/wiki/Acronym "Acronym") for "deny, attack, and reverse victim and offender") is a reaction that perpetrators of wrongdoing, such as sexual offenders may display in response to being held accountable for their behavior.[[1]](https://en.wikipedia.org/wiki/DARVO#cite_note-1) Some researchers indicate that it is a common manipulation strategy of [psychological abusers](https://en.wikipedia.org/wiki/Psychological_abuse "Psychological abuse").[[2]](https://en.wikipedia.org/wiki/DARVO#cite_note-Freyd-2)[[3]](https://en.wikipedia.org/wiki/DARVO#cite_note-Harsey-3)[[4]](https://en.wikipedia.org/wiki/DARVO#cite_note-:1-4)
+
+As the acronym suggests, the common steps involved are:
+
+1. The abuser **denies** the abuse ever took place
+2. When confronted with evidence, the abuser then **attacks** the person that was abused (and/or the person's family and/or friends) for attempting to hold the abuser accountable for their actions, and finally
+3. The abuser claims that they are actually the victim in the situation, thus **reversing** the positions of **victim** and **offender**.[[2]](https://en.wikipedia.org/wiki/DARVO#cite_note-Freyd-2)[[4]](https://en.wikipedia.org/wiki/DARVO#cite_note-:1-4) It often involves not just [playing the victim](https://en.wikipedia.org/wiki/Playing_the_victim "Playing the victim") but also [victim blaming](https://en.wikipedia.org/wiki/Victim_blaming "Victim blaming").[[3]](https://en.wikipedia.org/wiki/DARVO#cite_note-Harsey-3)

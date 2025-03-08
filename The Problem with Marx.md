@@ -1,0 +1,3 @@
+mdcb 
+
+The classical assumption that value is some intrinsic property of capital, land, or labor inescapably implies that there will be winners and losers in the game of macroeconomics. If value is based on the subjective determination of individuals, however, the mutually beneficial nature of cooperative exchange is revealed. If everyone valued everything the same, there would be a winner and a loser in every exchange. In reality though, our valuations of goods and services are unequal. It is this inequality in valuation that explains why capitalists and workers can profit from a relationship Marx would have us believe is inherently exploitative.
