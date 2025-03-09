@@ -1,5 +1,5 @@
 ---
-title: "🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥"
+title: "🫰Clickvote: Open-source upvotes, likes, and reviews to any context"
 source: https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9
 author:
   - "[[Nevo David]]"
