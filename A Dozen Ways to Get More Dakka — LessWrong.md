@@ -1,4 +1,16 @@
-![[A Dozen Ways to Get More Dakka — LessWrong.pdf]]
+---
+title: "A Dozen Ways to Get More Dakka — LessWrong"
+source: "https://www.lesswrong.com/posts/KgFNwBuaDpfGSJktM/a-dozen-ways-to-get-more-dakka"
+author:
+published: 2024-04-07
+created: 2025-03-09
+description: "As the dictum goes, “If it helps but doesn’t solve your problem, perhaps you’re not using enough.” But I still find that I’m sometimes not using enou…"
+tags:
+  - "clippings"
+---
+## [A Dozen Ways to Get More Dakka](https://www.lesswrong.com/posts/KgFNwBuaDpfGSJktM/a-dozen-ways-to-get-more-dakka)
+
+## 132
 
 As [the dictum goes](https://www.lesswrong.com/posts/z8usYeKX7dtTWsEnk/more-dakka), “If it helps but doesn’t solve your problem, perhaps you’re not using enough.” But I still find that I’m sometimes not using enough effort, not doing enough of what works, simply put, not using enough dakka. And if reading one post isn’t enough to get me to do something… perhaps there isn’t enough guidance, or examples, or repetition, or maybe me writing it will help reinforce it more. And I hope this post is useful for more than just myself.
 
@@ -7,6 +19,8 @@ Of course, the ideas below are not all useful in any given situation, and many a
 So if you’re doing something, and it isn’t working well enough, here’s a dozen ways to generate more dakka, and how each could apply if you’re a) exercising, or b) learning new mathematics.
 
 ## A Dozen Ways
+
+A Dozen Ways
 
 1. Do it again.
     1. Instead of doing one set of repetitions of the exercise, do two.
@@ -44,6 +58,7 @@ So if you’re doing something, and it isn’t working well enough, here’s a d
 12. Add people.
     1. Have the whole team exercise. Find a group, gym, or exercise class.
     2. Collaborate with others in solving problems. Take a course instead of self-teaching. Get others to learn with you, or teach someone else to solidify your understanding.
+
 
 ## Bonus Notes
 
