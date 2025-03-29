@@ -2,7 +2,7 @@
 title: World Coal Production
 source: https://cobb.typepad.com/cobb/2007/02/world_coal_prod.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2007-02-19
 created: 2025-02-10
 description: 1999 production of top 10 countries (in 1000 tonnes) Country Total Percent to Total China 1030000 23.72 United States of America 997090 22.96 India 314415 7.24 Australia 304000 7 Russian Federation 249400 5.74 South Africa 223510 5.15 Germany 201782 4.65...
