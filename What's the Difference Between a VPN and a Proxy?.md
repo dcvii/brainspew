@@ -8,7 +8,7 @@ created: 2025-02-16
 description: A proxy connects you to a remote computer and a VPN connects you to a remote computer so they must be, more or less, the same thing, right? Not exactly.
 tags:
   - clippings
-  - homelab
+  - southwall/homelab
 ---
 ### Quick Links
 

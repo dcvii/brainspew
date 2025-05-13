@@ -1,3 +1,7 @@
+---
+tags:
+  - slavery
+---
 
 
 Alexis de Tocqueville, _Democracy in America_. Book III Chapter 5 - [How Democracy Affects the Relations of Masters and Servants](http://xroads.virginia.edu/~HYPER/DETOC/ch3_05.htm):
