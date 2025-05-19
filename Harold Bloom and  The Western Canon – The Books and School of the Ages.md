@@ -1,13 +1,13 @@
 ---
-title: "Harold Bloom and  The Western Canon – The Books and School of the Ages"
-source: "https://cobb.typepad.com/cobb/2012/01/harold-bloom-and-the-western-canon-the-books-and-school-of-the-ages.html"
+title: Harold Bloom and  The Western Canon – The Books and School of the Ages
+source: https://cobb.typepad.com/cobb/2012/01/harold-bloom-and-the-western-canon-the-books-and-school-of-the-ages.html
 author:
-  - "[[Cobb]]"
-published:
+  - "[[MDCB/Self/Cobb]]"
+published: 
 created: 2025-02-23
-description: "shamelessly stolen from Pops Without fear of contradiction or being accused of unwarranted hubris, I start here by saying that I have something in common with the illustrious and famed critic, Harold Bloom. First, we were both born during the..."
+description: shamelessly stolen from Pops Without fear of contradiction or being accused of unwarranted hubris, I start here by saying that I have something in common with the illustrious and famed critic, Harold Bloom. First, we were both born during the...
 tags:
-  - "clippings"
+  - clippings
 ---
 **shamelessly stolen from Pops**
 

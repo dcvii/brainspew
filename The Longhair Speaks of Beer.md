@@ -2,7 +2,7 @@
 title: The Longhair Speaks of Beer
 source: https://cobb.typepad.com/cobb/2009/07/the-longhair-speaks.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2009-07-31
 created: 2025-02-23
 description: It has been such a long time since I have been at Michel and Jimi's Barbershop that I'm starting to feel guilty about having their icon on my page. I have been tied up in the business of making ducats...
