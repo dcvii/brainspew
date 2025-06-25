@@ -2,7 +2,7 @@
 title: "A Blockchain Update: Bitcoin Rules"
 source: https://www.cubegeek.com/2017/09/a-blockchain-update-bitcoin-rules.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2017-09-18
 created: 2025-02-19
 description: I have recently discovered yet another superstar Bitcoin maximalist. His name is Richard Heart. He reminds me of another brilliant guy I know and have worked with for many years. As a result of watching him speak for several hours...

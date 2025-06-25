@@ -2,7 +2,7 @@
 title: Where Have All the Xeroids Gone?
 source: https://www.cubegeek.com/2018/01/where-have-all-the-xeroids-gone.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 
 created: 2025-02-20
 description: (from the archives 2005) I talked to my boy Marty this long weekend. He runs part of the facilities department over at Xerox El Segundo. His was a tale of woe. I owe a lot of my professional development to...

@@ -2,7 +2,7 @@
 title: Some References by Allan Bloom
 source: https://cobb.typepad.com/cobb/2019/01/some-references-by-allan-bloom.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2019-01-03
 created: 2025-02-23
 description: The civil rights movement provides a good example of this change in thought. In its early days almost all the significant leaders, in spite of tactical and temperamental differences, relied on the Declaration of Independence and the Constitution. They could...

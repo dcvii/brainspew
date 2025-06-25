@@ -1,12 +1,12 @@
 ---
-title: "Waiting for Dot Gov"
-source: "https://www.cubegeek.com/2018/01/waiting-for-dot-gov.html"
+title: Waiting for Dot Gov
+source: https://www.cubegeek.com/2018/01/waiting-for-dot-gov.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2018-01-17
 created: 2025-02-20
 description: "Somebody asked me: Could blockchain technology be used to implement Social Security or Universal Basic Income? I sez: Yes, it’s possible. It’s coming from a side angle though. Basically Congress is going to have to admit at some point that..."
-tags:
+tags: 
 ---
 Somebody asked me: [Could blockchain technology be used to implement Social Security or Universal Basic Income?](https://www.quora.com/unanswered/Could-blockchain-technology-be-used-to-implement-Social-Security-or-Universal-Basic-Income)
 

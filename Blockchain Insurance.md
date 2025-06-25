@@ -2,7 +2,7 @@
 title: Blockchain Insurance
 source: https://www.cubegeek.com/2017/07/blockchain-insurance.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 07/18/2017
 created: 2025-02-19
 description: It turns out that Vinay Gupta is smarter than I thought he was, which is pretty goddamned smart. He points out something that excites me in a way I haven't been in a while. So let me tell you a...

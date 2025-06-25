@@ -2,7 +2,7 @@
 title: "Obama: Not Magic"
 source: https://cobb.typepad.com/cobb/2008/03/obama-not-magic.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2008-03-18
 created: 2025-02-23
 description: Barack Obama already lost when he took the stage in Philadelphia today. But he acquitted himself as admirably as any Democrat possibly can. If I were a liberal and a supporter of Barack Obama, I would feel fully vindicated. I...

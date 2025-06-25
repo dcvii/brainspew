@@ -2,7 +2,7 @@
 title: Amazon as Conglomerate
 source: https://www.cubegeek.com/2018/02/amazon-as-conglomerate.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2018-02-08
 created: 2025-02-20
 description: Here's the highlight reel. When Peter Drucker invented the MBA part of the idea of professional business management was that ordinary individuals could be trained to run a business. Not a generalized business, but a specialized business in some category....

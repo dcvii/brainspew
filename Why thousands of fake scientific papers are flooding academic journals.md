@@ -1,13 +1,14 @@
 ---
-title: "Why thousands of fake scientific papers are flooding academic journals"
-source: "https://blog.medium.com/why-thousands-of-fake-scientific-papers-are-flooding-academic-journals-0ca31aa9882a"
+title: Why thousands of fake scientific papers are flooding academic journals
+source: https://blog.medium.com/why-thousands-of-fake-scientific-papers-are-flooding-academic-journals-0ca31aa9882a
 author:
   - "[[The Medium Newsletter]]"
 published: 2025-02-11
 created: 2025-02-11
 description: "👋 Hello!Issue #265: auditioning for SNL, an engineer’s Hippocratic Oath, and waking up at 5 a.m.By Harris Sockel Building on yesterday’s theme of not taking what you read online at face value, I…"
 tags:
-  - "clippings"
+  - clippings
+  - academia
 ---
 [
 
