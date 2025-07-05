@@ -2,7 +2,7 @@
 title: Obligatory Seriousness on Goldman Sachs Interest in Bitcoin
 source: https://www.cubegeek.com/2017/10/obligatory-seriousness-on-goldman-sachs-interest-in-bitcoin.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2017-10-03
 created: 2025-02-19
 description: So this happened. Goldman Sachs Group Inc. is weighing a new trading operation dedicated to bitcoin and other digital currencies, the first blue-chip Wall Street firm preparing to deal directly in this burgeoning yet controversial market, according to people familiar...
