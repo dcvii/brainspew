@@ -2,8 +2,8 @@
 title: Expensive Disk in the 80s
 source: https://www.cubegeek.com/2017/06/expensive-disk-in-the-80s.html
 author:
-  - "[[Cubegeek]]"
-published:
+  - "[[Writings/Cubegeek]]"
+published: 
 created: 2025-02-19
 description: (Q) Why was RDBMS invented? I know that RDBMS is all about normalization and relationships. This maintains a strongly connected dataset. Today, I read that originally RDBMS was invented to reduce the footprint of data on disk. Apparently, disk was...
 tags:

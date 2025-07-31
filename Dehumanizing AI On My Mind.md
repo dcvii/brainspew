@@ -2,7 +2,7 @@
 title: Dehumanizing AI On My Mind
 source: https://www.cubegeek.com/2018/03/dehumanizing-ai-on-my-mind.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2018-03-19
 created: 2025-02-20
 description: Last week I was in Bogota again. It was less interesting than IAH. In Houston's new terminal I was accosted by the 'Stacked' business model. Stacked is a restaurant chain that got started here in Southern California several years ago....

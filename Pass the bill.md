@@ -1,0 +1,33 @@
+---
+title: "Pass the bill"
+source: "https://donaldhtaylorjr.blogspot.com/2010/03/pass-bill.html"
+author:
+published:
+created: 2025-03-16
+description: "I have read through the side car bill, and will read it closely tomorrow on a train ride to Washington, D.C. This is mostly as reported and ..."
+tags:
+  - "clippings"
+---
+[skip to main](https://donaldhtaylorjr.blogspot.com/2010/03/#main) | [skip to sidebar](https://donaldhtaylorjr.blogspot.com/2010/03/#sidebar)
+
+I have read through the side car bill, and will read it closely tomorrow on a train ride to Washington, D.C. This is mostly as reported and noted in the document released by the President prior to the summit in late February. The most notable change compared to what has been discussed over the last 10 days or so is the exclusion of a new federal role to regulate insurance premiums for private insurance companies; that is not in the side car/reconciliation bill.  
+  
+The thing I like the least about the side car is the delay of the tax on high cost insurance (until 2018 for all policies) becuse this reduces the cost saving potential of the bill. The lost revenue is made up via applying the Medicare payroll tax to unearned income for those with incomes above $250,000. The cost savings of the high cost insurance tax provision is increased in the second decade and the subsidies reduced in the second decade, making the cost saving attributes of the legislation get stronger over time.  
+  
+I would gladly vote for this bill because I believe it provides a clear step toward developing a sustainable health care system. We wouldn't be there (to sustainability) if this was the last step, but it is a good step. I should say clearly that I don't believe there is any hope of dealing with cost inflation without moving toward covering everyone first. Or at least there is no practical way to do so....meaning that if we systematically denied care to the uninsured and they got nothing you could slow cost inflation, but I don't believe we as a society will or should do that. We are now in no man's land. The rescue principle operates, but we do not have a practical way of guaranteeing cover for everyone.  
+  
+As with much of the debate the past year, the focus now is on process. The deem and pass strategy is dumb and bad politics so far as I can tell. But, I strongly prefer the bill passing with this strategy to no bill.  
+  
+The real focus of what will happen this weekend should be this: either the Senate bill will become law, or it will be defeated once and for all. If the Senate bill is passed and signed by President Obama, 90% of this years reform discussion is over. The reconciliation bill could be defeated in the Senate, or amended and sent back to the House for more discussion, but the Senate bill will be law under either of these scenarios. And if the side car/reconciliation passes as is, the essence of the policy is still contained in the Senate bill.  
+  
+The Senate bill does six fundamental things. First, it creates an individual mandate to purchase insurance. Second, it reforms insurance to ban pre-existing conditions and recission. Third, it sets up an insurance market in which uninsured persons and small businesses can shop for policies and hopefully benefit from competition among insureres. Fourth, it provides income-based subsidies for middle class persons (families ~$28,000-$88,000, sliding scale) to purchase private insurance and expands Medicaid for lower income persons. 32 Million persons will have insurance in 2019 who will otherwise be uninsured, taking us to 95% coverage of persons legally in the country. Fifth, the bill cuts planned Medicare spending and raises taxes to pay for the increased spending. The CBO says it reduces the deficit by $138 Billion over the first 10 years and $1.2 Trillion over the next 10. Care has been taken to do this in a responsible manner, certainly as compared to legislative actions of the past decade. Sixth, it has a kitchen sink approach to trying to slow health care cost inflation. Most of the big ideas are included.  
+  
+A vogue argument is that it doesn't do enough to address costs. This is undoubtedly true as compared to an ideal reform (I am *certain* I know exactly how to fix it if you would just listen to me!), but totally false as compared to the status quo.  
+  
+Republicans say they will run the Fall 2010 campaign on repeal of the Senate bill should it pass. I hope they do so. We need to work out a way forward. If this passes though, the burden will shift a bit to the Republicans to make the case for what they would do. They will have to shift from defense, to offense. I submit that while they are expert on defense, they have no offense, but maybe I am wrong. They definitely have their big chance to say what they would do with health care if they win the House and Senate. In short, bring it.  
+  
+And I hope there is a challenge of the constitutionality of the individual mandate. If the Supreme is going to rule it unconstitutional then we need to know that and move ahead. This seems absurd to me, but I am no constitutional scholar. And many members of the Republican party were on record as late as last Summer supporting an individual mandate. If they are truly and absoultely opposed now, I hope they make that clear during the upcoming campaign. I see obvious ways within the Senate framework to make the bill more palatable to conservatives; I don't believe it will be repealed even if the Republicans take over Congress. The framework sets up private insurance market and more than doubles the number of Americans purchasing their own policy....I think if you had been asleep for 2 years and were told that, you would assume it was a Republican plan that was on the cusp of passage.  
+  
+Passing this bill is step 1 to a sustainable health care system. Step 2 will likely come from the Deficit Reduction Commission as a look at the deficit cannot help but focus on health care, no matter whether the Senate bill lives or dies on Sunday. There will be many steps necessary from now until I reach Medicare age if we are to have a sustainable health care system. The next steps will be inevitable if the Senate bill is passed as we have a framework to return to and tweak. If it fails, it is hard for me to see the next step, how we return to this issue.  
+  
+My thoughts as this year's reform discussion has gone on are chronicled in the columns and blogs I have posted. As we approach a vote this Sunday, I feel a certain amount of exhaustion, but also a sense of clarity. It is time to act. Pass the bill.

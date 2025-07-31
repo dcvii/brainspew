@@ -2,7 +2,7 @@
 title: Back on the Chain Gang
 source: https://www.cubegeek.com/2017/08/back-on-the-chain-gang.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 08/08/2017
 created: 2025-02-19
 description: It has been a while since I've updated the blog on what's been percolating in my noggin on the blockchain front. Here's a rundown. First off, it turns out that my new friend Mark Jeffrey is putting together folks and...
