@@ -7,7 +7,11 @@ published: 2025-01-14
 created: 2025-04-04
 description: Following the Supreme Court’s guidance, we’ll reverse a decadeslong executive power grab.
 tags:
+<<<<<<< Updated upstream
   - clippings
+=======
+  - domestic-affairs
+>>>>>>> Stashed changes
 ---
 ##### Following the Supreme Court’s guidance, we’ll reverse a decadeslong executive power grab.
 
