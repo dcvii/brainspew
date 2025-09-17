@@ -2,7 +2,7 @@
 title: Side Burners
 source: https://www.cubegeek.com/2017/08/side-burners.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 08/07/2017
 created: 2025-02-19
 description: I'm somewhat liberated and doing more heads up work these days. Taking an opportunity to do a bit of coding reminds me that I have gotten rusty. So I will be burning more time doing the tech thing because as...

@@ -2,7 +2,7 @@
 title: Against Historicism
 source: https://cobb.typepad.com/cobb/2012/08/against-historicism.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2012-08-28
 created: 2025-02-23
 description: I picked up Harold Bloom last night. He's got quotable quotes that say brilliantly and concisely what I needed to have heard several years ago, but better late than never. To recap. Several years ago maybe 4 or 5, I...

@@ -2,7 +2,7 @@
 title: The Galston Memorandum
 source: https://cobb.typepad.com/cobb/2012/01/the-galston-memorandum.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 
 created: 2025-02-10
 description: I have reached the point in my research where I pretty much know the outlines of the useful arguments in my areas of interest down to the level of citable text. That is to say, I've become pretty good at...

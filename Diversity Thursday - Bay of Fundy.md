@@ -37,7 +37,7 @@ It isn’t just the bad actors in the DEI space that are getting hit. True belie
 
 One example you can find of how this is being felt in the field is in an article in *Breaking Defense* by [Valerie Insinna](https://x.com/ValerieInsinna) and [Michael Marrow](https://x.com/michaeldmarrow), *[DEI, DOA: How the defense industry is racing to bury its diversity efforts](https://breakingdefense.com/2025/02/dei-doa-how-the-defense-industry-is-racing-to-bury-its-diversity-efforts/).*
 
-> A month ahead of the #NatSecGirlSquad conference in March, organizer Maggie Feldman-Piltch is facing a problem that has been unprecedented in her 10 years of putting on the event.
+> A month ahead of the /#NatSecGirlSquad conference in March, organizer Maggie Feldman-Piltch is facing a problem that has been unprecedented in her 10 years of putting on the event.
 > 
 > In the wake of President Donald Trump’s Jan. 21 executive order, which directs federal contractors to roll back diversity, equity and inclusion (DEI) practices, there has been radio silence from defense companies who previously bought exhibit space, underwrote meals and otherwise sponsored the conference.
 > 
@@ -65,6 +65,3 @@ Remember, we’re only a month in. There is a lot more to follow. Everyone—reg
 
 Also, along the way, let’s treat each other with at least neutral respect. If someone gets exceptionally personal or mean, that’s different—but that’s not the case here. Business is business. Adults understand it. Return the email. Pick up the phone. It is a challenging year for everyone.
 
-[Leave a comment](https://cdrsalamander.substack.com/p/diversity-thursday-ab0/comments)
-
-[Share](https://cdrsalamander.substack.com/p/diversity-thursday-ab0?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMjMwNTgyMiwicG9zdF9pZCI6MTU3NTExMTYzLCJpYXQiOjE3NDAwOTQzMjQsImV4cCI6MTc0MjY4NjMyNCwiaXNzIjoicHViLTI0Nzc2MSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.uj_2wYlWxSs-2tWWFRKfuLRXmz3DuUXov96JmyzaWwo)

@@ -1,0 +1,14 @@
+---
+title: "A Unifying Framework for Robust and Efficient Inference with Unstructured Data"
+source: "https://marginalrevolution.com/marginalrevolution/2025/07/a-unifying-framework-for-robust-and-efficient-inference-with-unstructured-data.html"
+author:
+  - "[[Tyler Cowen]]"
+published: 2025-07-11
+created: 2025-07-13
+description: "This paper presents a general framework for conducting efficient inference on parameters derived from unstructured data, which include text, images, audio, and video. Economists have long used unstructured data by first extracting low-dimensional structured features (e.g., the topic or sentiment of a text), since the raw data are too high-dimensional and uninterpretable to include directly […]"
+tags:
+  - "clippings"
+---
+> This paper presents a general framework for conducting efficient inference on parameters derived from unstructured data, which include text, images, audio, and video. Economists have long used unstructured data by first extracting low-dimensional structured features (e.g., the topic or sentiment of a text), since the raw data are too high-dimensional and uninterpretable to include directly in empirical analyses. The rise of deep neural networks has accelerated this practice by greatly reducing the costs of extracting structured data at scale, but neural networks do not make generically unbiased predictions. This potentially propagates bias to the downstream estimators that incorporate imputed structured data, and the availability of different off-the-shelf neural networks with different biases moreover raises p-hacking concerns. To address these challenges, we reframe inference with unstructured data as a problem of missing structured data, where structured variables are imputed from high-dimensional unstructured inputs. This perspective allows us to apply classic results from semiparametric inference, leading to estimators that are valid, efficient, and robust. We formalize this approach with MAR-S, a framework that unifies and extends existing methods for debiased inference using machine learning predictions, connecting them to familiar problems such as causal inference. Within this framework, we develop robust and efficient estimators for both descriptive and causal estimands and address challenges like inference with aggregated and transformed missing structured data-a common scenario that is not covered by existing work. These methods-and the accompanying implementation package-provide economists with accessible tools for constructing unbiased estimators using unstructured data in a wide range of applications, as we demonstrate by re-analyzing several influential studies.
+
+That is from [a recent paper by Jacob Carlson and Melissa Dell](https://arxiv.org/abs/2505.00282).  Via [Kevin Bryan](https://x.com/Afinetheorem/status/1943848995597824109).

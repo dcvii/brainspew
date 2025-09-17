@@ -1,0 +1,102 @@
+---
+title: "International Gender Disparities in Math"
+source: "https://hxstem.substack.com/p/international-gender-disparities?publication_id=618970&post_id=169279537&isFreemail=true&r=7br8e&triedRedirect=true"
+author:
+  - "[[Kent Osband]]"
+published: 2025-08-17
+created: 2025-08-17
+description: "Evidence from students tested in 81 countries points with remarkable consistency to a mean male-to-female advantage in math of 0.1 standard deviations along with an average 12% higher standard deviation."
+tags:
+  - "clippings"
+---
+*Evidence from students tested in 81 countries points with remarkable consistency to a mean male-to-female advantage in math of 0.1 standard deviations along with an average 12% higher standard deviation. Gender generally has much less influence than nationality and socioeconomic class. However, it does affect representation at extremes. At the low end, girls are less likely than boys to have severe difficulties with math. At the high end, pool of top math talent will almost surely remain disproportionately male even if, as hoped, math proficiency generally improves. Equal representation is not an appropriate goal in math-heavy fields, as the required lowering of standards would impede discovery and cast doubt on highly capable women in the field.*
+
+The OECD launched an ambitious Programme for International Student Assessment (PISA) in 1997. Its first assessment was administered in 2000, its seventh and latest in 2022. [The latest covers 81 countries or autonomous regions](https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en/full-report.html), of which most are middle-to-high-income countries. Russia, mainland China, India, Pakistan, Iran are not covered. Morocco is the only country covered in Africa. The target population is 15-year-olds, with tests given in math, reading, and science with a target 75%+ response rate. I will focus on math results, and particularly on the differences between boys and girls.
+
+PISA math scores fell by an average 3% in 2022 compared with 2018, mainly due to Covid restrictions on schooling. Most other features of the distribution of scores persisted. In particular,
+
+- Each country’s results show a wide distribution of scores. Standard deviations within countries average about 20% of the country means, with relatively small differences (the standard deviation of the standard deviations is less than 2%).
+- The mean results vary a lot across countries, with a standard deviation of 13% relative to the simple average. Singapore’s mean is highest, 30% above the simple average.
+- Country means are 0.78 correlated with the logarithms of GDP per capita, which indicates that the latter “explains” about 60% of the variation. I put “explains” in quotes because the causality is unclear. At best, each 1% rise in mean math scores induces a 4% increase in real GDP per capita. At worst, each doubling of GDP per capita induces a 10% rise in math scores with no feedback to productivity.
+- The US score is 6% above the simple average but 5% below what its GDP suggests it should be.
+- Male/female differentials in mean are typically only a few percent, quite mild compared to other within-country variations or variations among country means. However, male/female differentials are significant at extremes.
+
+## Male/Female Differentials
+
+One of the most consistent regularities in the PISA data on math is lower variance for girls than boys. No country reported equal or higher female variance in test scores. Suppose we measure “broader male diversity”—welcome at one extreme, distressing at the other—as male standard deviation over female standard deviation less one. (Thanks to Anna Krylov for the expression and for other helpful comments.) For the 81 countries it averages 10.2% and is highly significant statistically, even though in many contexts it will hardly be noticed.
+
+![A graph of a city
+
+AI-generated content may be incorrect.](https://substackcdn.com/image/fetch/$s_!oNVR!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd606ea0-3a5f-4981-966e-63d5288c3657_690x402.png)
+
+A graph of a city AI-generated content may be incorrect.
+
+Might the difference reflect greater pressures on girls for uniformity? If so, it should be less in countries with strong commitments to women’s rights. [A quick Google search pointed to Iceland, Norway, Sweden, Finland and New Zealand as top performers in this regard](https://www.lano.io/blog/best-countries-for-women-to-work-and-live). In all those countries, the extra male diversity is even higher than the world average, with values ranging from 11.1% to 16.0%. Worried that these might be peculiar exceptions, I drew on the UNDP Gender Inequality Index (GII), which provided measures for 75 countries on the PISA list. The correlation is highly significant and indicates that the diversity gap widens as gender inequality narrows.
+
+Hence, there are no statistical grounds for attributing higher male variance in math to discrimination against girls or a talented subset of girls. However, I am not persuaded that gender equality per se widens the gap. The GII is about -0.85 correlated with the logarithms of either girls’ mean math scores or GDP per capita as measured by purchasing power parity (PPP), and I do not understand how inequality might make girls more proficient in math and their countries richer.
+
+I will focus instead on the 0.46 correlation between the observed male extra diversity and the logarithm of GDP per capita in PPP terms. The predicted value for richer countries is 10.6% to 13.5%. The correlation is highly significant statistically (t-stat 4.6) and it is worth considering why. One hypothesis is that training at low levels decreases observed variance while training at high levels increases it. It is the difference between learning to do something basic (like swimming in a lake or playing a simple piano tune) and developing mastery. The main point of selective admissions to high-level academic or sports training is to focus on candidates who can benefit most from it.
+
+Let us now turn to possible gender differences in mean math scores. Along the lines of my previous [essays on group disparities](https://hxstem.substack.com/p/disparate-impacts-in-two-sports), I will define *Margin* for each country as the ratio of the mean extra score of boys to the standard deviation of girls’ scores. The simple average *Margin* is less than 0.05. However, negative *Margins* are concentrated among countries that are relatively weak in math and poor. Below is a bar chart of *Margins* organized by descending per capita GDP in PPP terms.
+
+![A graph of a graph
+
+AI-generated content may be incorrect.](https://substackcdn.com/image/fetch/$s_!s4tD!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe97d67d0-a6c7-431d-bf31-39babc9946ee_695x413.png)
+
+A graph of a graph AI-generated content may be incorrect.
+
+Furthermore, most of the countries with highly negative *Margins* —i.e., girls tending to outperform boys in math—are predominantly Muslim. This phenomenon has been widely noted; [here](https://www.theatlantic.com/education/archive/2017/09/boys-are-not-defective/540204/) is a longer discussion. Whatever the core causes, they do not include high commitment to women’s rights or ample opportunities for women to work outside the home.
+
+Regressing *Margins* against log GDP per capita in PPP terms and a binary model for Muslim accounts for nearly a third of variance. The impact of the Muslim variable is -0.15 and highly significant (t-stat 5.1). For richer non-Muslim countries, the predicted *Margin* is 0.08-0.12.
+
+Qualitatively, the estimated parameters point to three main international regularities. First, for most students the gender differences are mild. (For random boy/girl pairs within a country, there is a 47% chance the girl is better at math.) Second, boys tend to moderately outnumber girls at the low end. Third, boys tend to significantly outnumber girls at the higher end.
+
+This triad is popularly attributed to systemic oppression and discrimination against girls, who are discouraged from pursuing math, have few role models, and are socialized into doing girly things instead. The evidence noted above from Scandinavia, from Muslim countries, and from gender inequality indices tells against that. Here is some additional evidence:
+
+- [XX chromosome pairings dampen variability more than XY](https://www.amazon.com/Sex-How-Chromosome-Controls-Lives/dp/0674010280), because each X type dominates roughly half of cells and the Y contribution is more specialized. This does not imply general inferiority. [On the contrary, the extra X provides superior robustness, e.g., longer lives and stronger immune systems](https://www.amazon.com/Better-Half-Genetic-Superiority-Women/dp/1250782732/ref=sr_1_1?dib=eyJ2IjoiMSJ9.J8_AaHkLDkXO2EElWFRAWQ.0WkTG1clsOtRnRSs7FhLEH72Uwu-KUlPdJfd0b3fJIk&dib_tag=se&keywords=moalem+better+half&qid=1752975887&sr=8-1).
+- [Tenure-track women in STEM are advantaged in hiring](https://journals.sagepub.com/doi/10.1177/15291006231163179).
+- [STEM faculty in top universities do not discriminate against female assistants](https://unsafescience.substack.com/p/reversal-science-facultys-subtle).
+- [US middle school math teachers tend to favor girls in their evaluations](https://www.sciencedirect.com/science/article/abs/pii/S0272775718307714?via%3Dihub). “Girls who benefit from gender bias in math are more likely to select a science track in high school.”
+- [Italian teachers systematically grade girls more generously than boys](https://www.tandfonline.com/doi/abs/10.1080/01425692.2022.2122942).
+- [Top-level chess, which is often viewed as math-like, continues to be dominated by men despite serious efforts to encourage top women](https://quillette.com/2024/03/22/why-do-men-dominate-chess/).
+- Even without differences in math aptitudes, women might fall behind in both math *Margin* and variability if because the [women’s relatively great extra preference to work with people rathe than things](https://pubmed.ncbi.nlm.nih.gov/19883140/) diverts them developing their full math potential
+
+Gaussian approximations (aka, normal bell curves) offer the easiest way to estimate the quantitative implications. They usually work ok for the probabilities of tails that start 1-2 standard deviations from the mean. Let’s check this on a proxy that averages the values for the 40 richest non-Muslim countries in the PISA sample. I use rounded benchmark predictions of 0.10 for male *Margin* and 0.12 for broader diversity. For each male tail as percent of all males, I infer the cutoff in standard deviations assuming a Gaussian distribution, predict the corresponding cutoff for the female tail, and estimate the female tail as percent of all females. We can then compare this estimate to the observed female tail. Here are some results for the 40-country proxy:
+
+- For the 4.2% of boys who achieved the highest Level 6, the corresponding predicted share of girls was 2.1% versus an actual share of 2.3%.
+- For the 13.7% of boys who achieved Level 5 or higher, the corresponding predicted share of girls was 9.3% versus an actual share of 9.4%.
+- For the 10.9% of boys who scored at Level 1b or lower, the corresponding predicted share of girls was 10.0% versus an actual share of 9.6%.
+- For the 2.5% of boys who scored at Level 1c or lower, the corresponding predicted share of girls was 1.8% versus an actual share of 2.0%.
+
+## Disparities at the High End
+
+Suppose that both the boys’ and the girls’ distributions of math acumen are perfectly Gaussian in richer non-Muslim countries, with male *Margin* and relatively higher standard deviation given by the (0.10,0.12) pair estimated above. Suppose too that the female and male pools are equal in size. Then we can easily calculate the expected female shares in the top echelons of math talent. They are 27% for the top 1% of talent, 17% for the top 0.1%, 10% for the top 0.01%, and 6% for the top 0.001%.
+
+The projected steep decline in female shares toward the top is driven mainly by higher male variance. If *Margin* vanishes but the variance gap stays the same, the female shares rise modestly to 33% for the top 1% of talent and 9% for the top 0.001%. If the variance gap vanishes but *Margin* remains the same, the female shares soar to 43% for the top 1% of talent and 39% for the top 0.001%.
+
+However, projections like these are inherently unreliable. Gaussian approximations often fail badly in the outer tails, as [anyone who has dealt with financial risk knows](https://www.amazon.com/Iceberg-Risk-Adventure-Portfolio-Theory/dp/1587990687). I will spare you the formal reasoning. Informally, think of the contrast between interpolation, which usually works well, and extrapolation, which often doesn’t. [As Mark Twain humorously explained](http://www.twainquotes.com/Conjecture.html),
+
+> “In the space of one hundred and seventy-six years the Lower Mississippi has shortened itself two hundred and forty-two miles. That is an average of a trifle over one mile and a third per year. Therefore, any calm person, who is not blind or idiotic, can see that in the Old Oolitic Silurian Period, just a million years ago next November, the Lower Mississippi River was upwards of one million three hundred thousand miles long, and stuck out over the Gulf of Mexico like a fishing-rod…. There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact.”
+
+In the US, one widely taken test of higher-level math competency is the math section of the SAT. The SAT is owned and managed by the College Board, which is increasingly sensitive about group disparities in performance as critics accuse it of stigmatizing underperformers. One consequence is coarser summaries in its published reports. However, [sufficient detail is available for 2011](https://www.aei.org/carpe-diem/huge-gender-differences-persist-on-sat-math-test/) to conclude that 1.69% of males and 0.75% of females scored 780 or higher on the math section. If our purely Gaussian estimators applied, the 1.69% of males would be associated with 0.66% of females if SAT takers were representative of the whole pool and 0.55% of females if SAT takers represented only the top half of the pool. Hence our Gaussian projections understated top female performance, but not by much. They implied male outperformance by a factor of 2.6-3.1 when the actual factor was 2.3.
+
+For higher-level comparisons, [the best US study I found was published in 2010](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.24.2.109). It focused on gender gaps in the American Mathematics Competitions (AMC 12) given to 11 <sup>th</sup> and 12 <sup>th</sup> graders in 2007. The authors guesstimated that scoring 100+ on the AMC 12, which only 6% of test takers managed to do, corresponded to 780+ on the math SAT. Males outperformed females at that level by a factor of 3.3, which exceeds the factors mentioned above. Males outperformed by a factor of 4.9 in the top 1% of the AMC 12, compared with the Gaussian prediction of 4.0-4.9. Males outperformed by a factor of 7.3 in the top 0.1%, compared with the Gaussian prediction of 7.3-8.9.
+
+The highest-level math competition for students is the International Math Olympiad (IMO), which admits 6 contestants per country from over 100 countries and awards a gold medal to one in 12. ChatGPT estimates that roughly 100 million students graduate high school each year, and IMO is open to multiple grades, but relatively few students have both access to sophisticated math education and interest in pursuing it. I will guesstimate the relevant pool size at 10 million to 100 million. In that range, making the Gaussian assumptions noted above, an estimated 2.4% to 4.4% of IMO gold medalists will be girls. This brackets [the reported actual share of 3.3% between 1959 and 2021](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad?utm_source=chatgpt.com). Turning to participation in the IMO, girls are projected to comprise 4.5% to 8.0% of the top 600 contestants; the actual 9.2% female share was higher. However, due to the 6 per country limitation, IMO participants likely include many below the top 600, and that will nudge the projected female shares higher.
+
+## Conclusion
+
+In short, the projections above fit better than I expected. There are many grounds for criticizing my calculations and I will not defend them with any zeal. All I want to show is that a Gaussian model fitted to international data, with only modest estimates of male *Margins* and broader diversity, can account for huge underrepresentation of women in higher math-heavy ranks.
+
+Does this excuse mistreatment of those women, condescension about their capabilities, or discouragement of girls thinking of STEM careers? Of course not. Is it worth trying new methods of instruction to shrink the male *Margin* and enhance female diversity? I believe it is. Two things we do know are that [math learning responds best to higher teacher quality](https://www.wired.com/2008/12/gladwell-on-spotting-great-teachers/?utm_source=chatgpt.com) and that [the US significantly lags the country leaders in teacher numeracy](https://international-education.blog/en/smarter-teachers-produce-smarter-students-this-partly-explains-the-country-rankings-in-pisa/?utm_source=chatgpt.com). Let’s upgrade math teacher skills and hope that girls benefit even more than boys. [Emphasize the universality of math](https://www.cambridge.org/core/journals/european-review/article/universalism-of-mathematics-and-its-detractors-relativism-and-radical-equalitarianism-threaten-stem-disciplines-in-the-us/078F01971468ECE15A7AD8ACE9C5949F) and [stop obsessing over DEI](https://quillette.com/2021/08/19/as-us-schools-prioritize-diversity-over-merit-china-is-becoming-the-worlds-stem-leader/). Insist on basic competency tests for current math teachers, dismiss those who fail, and replace them with better-trained young teachers—hopefully including some retrained [liberal arts grads who can’t otherwise find good jobs](https://hxstem.substack.com/p/the-anti-productive-crisis-in-us).
+
+However, let’s not dismiss the international evidence as irrelevant. Let’s not assume that if we wish hard and click our heels together like Dorothy in *The Wizard of Oz* that our ballooning hopes will take us where we want to go. Equal representation is not a reasonable goal.
+
+In fact, pushing for parity is bound to hurt more than it helps. For starters, it will further crimp support for top mathematicians, [who contribute more to future STEM development than most Americans realize](https://hxstem.substack.com/p/in-defense-of-curiosity-driven-research). It will encourage political gamesmanship, which is anathema to math itself. It will impair the training of the next generation in higher math.
+
+It also stands to aggravate the Bayesian biases that already bedevil women in math-heavy fields. By “Bayesian bias” I mean the inherent tendency to impute group correlations to exceptional individuals, simply because one is too ignorant or undiscerning to investigate more closely. The single best antidote is learning about the absurd discrimination against [the mathematical genius Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) because she was a woman, and a Jewish woman at that. However, repeated encounters have far more influence than rare ones. So let me ask you to compare two scenarios and consider which is more likely to promote Bayesian biases against women in math:
+
+- Half of math professors are women but their average quality is distinctly less than men’s.
+- Only 10% to 20% of professors in math-heavy fields are women but gender has little evident correlation with quality.
+
+I consider the former far more dangerous than the latter. It reinforces the very prejudices that it ostensibly abhors. It casts suspicion on the women who won their positions on academic merit. It makes gender a partly useful proxy for professional quality when we want to make it useless.

@@ -1,0 +1,47 @@
+---
+title: "Why Have Sentence Lengths Decreased? — LessWrong"
+source: "https://www.lesswrong.com/posts/xYn3CKir4bTMzY5eb/why-have-sentence-lengths-decreased"
+author:
+published: 2025-04-03
+created: 2025-04-19
+description: "> “In the loveliest town of all, where the houses were white and high and the elms trees were green and higher than the houses, where the front yards…"
+tags:
+  - "clippings"
+---
+> “In the loveliest town of all, where the houses were white and high and the elms trees were green and higher than the houses, where the front yards were wide and pleasant and the back yards were bushy and worth finding out about, where the streets sloped down to the stream and the stream flowed quietly under the bridge, where the lawns ended in orchards and the orchards ended in fields and the fields ended in pastures and the pastures climbed the hill and disappeared over the top toward the wonderful wide sky, in this loveliest of all towns Stuart stopped to get a drink of sarsaparilla.”  
+> — 107-word sentence from *Stuart Little* (1945)
+
+Sentence lengths have declined. The average sentence length was (died 1400), [50 for Spenser](https://www.americanscientist.org/sites/americanscientist.org/files/201461312335910468-2014-07CompSci.pdf#:~:text=Robert%20Fabyan%2C%20writing%20circa%201500%2C,es%5D%20evidence) (died 1599), [42 for Austen](https://www.lancaster.ac.uk/fass/projects/stylistics/topic6b/auth_style/8auth2.htm) (died 1817), (died 1870), [21 for Emerson](https://www.americanscientist.org/sites/americanscientist.org/files/201461312335910468-2014-07CompSci.pdf#:~:text=Robert%20Fabyan%2C%20writing%20circa%201500%2C,es%5D%20evidence) (died 1882), [14 for D.H. Lawrence](https://www.lancaster.ac.uk/fass/projects/stylistics/topic6b/auth_style/8auth2.htm) (died 1930), and [18 for Steinbeck](https://www.lancaster.ac.uk/fass/projects/stylistics/topic6b/auth_style/8auth2.htm) (died 1968). words per sentence (wps) writing the Harry Potter books 25 years ago.
+
+So the decline predates television, the radio, and the telegraph—it’s been going on for centuries. The average sentence length in newspapers [fell from 35wps to 20wps](https://projects.panickssery.com/docs/bergs-2012-english_and_the_media.pdf) between 1700 and 2000. The presidential State of the Union address has gone [from 40wps down to under 20wps](https://languagelog.ldc.upenn.edu/nll/?p=3534#:~:text=The%20results%20suggest%20that%20mean,cumulative%20drop%20of%20perhaps%2050), and the inaugural addresses had a similar decline. (From Jefferson through T. Roosevelt, the SOTU address was delivered to Congress without any speech, and print was the main way that inaugural addresses were consumed for most of their history.) Warren Buffett’s annual letter to shareholders [dropped from 17.4wps to 13.4wps](https://www.managementtoday.co.uk/three-ways-write-warren-buffett/article/1334430) between 1974 and 2013.
+
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xYn3CKir4bTMzY5eb/atk0odnzya5ynz8hhvwl)
+
+SlateStarCodex’s [ten recommended blog posts](https://slatestarcodex.com/about/) have 22wps. My own [top 10 posts](https://arjunpanickssery.substack.com/?sort=top) have 20wps. Even [top medical journals have under 25wps](https://europeanscienceediting.org.uk/wp-content/uploads/2016/05/41-1-orig_readability.pdf). The FAA, the European Commission, and various legal institutions have style guides recommending to stay under 20wps. Skimming r/writing, it looks like people recommend 10-15wps for fiction ([HPMOR](https://hpmor.com/) has 15wps). It’s possible that sentence lengths will stop declining only when we hit a physical limit on how short sentences can reasonably become. The best-selling hardboiled novella *The Postman Always Rings Twice* (1934) has 11wps, while I saw one source claiming that *Jurassic Park* (1990) has only 9wps.
+
+Several explanations present themselves for why sentence lengths have decreased. They aren’t mutually exclusive; it could be that all of them contributed.
+
+1. The average reader has gotten dumber and prefers shorter, simpler sentences.
+2. Longer sentences are more suitable for reading out loud, but shorter sentences are more suitable for reading silently.
+3. Shorter sentences are just better, i.e. they promote faster reading and better comprehension.
+
+The reason the average reader could have been smarter in the past is because **literacy used to be more limited**.
+
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xYn3CKir4bTMzY5eb/uskkyxzluqsgsgwp5acc)
+
+Full literacy didn’t appear until the turn of the 20th century in England. America had an earlier rise in literacy and the vast majority of free men could read by the 1800s, though like England it took until the 1900s to reach full literacy. It does seem broadly true that sentence lengths are higher in areas with more advanced readers; *Stuart Little*, the 1945 children’s book quoted at the top, has 13wps, while scientific journals often have 25wps. On the other hand, sentence lengths continued to decline throughout the 1900s, well after we reached full literacy.
+
+Another theory is that **journalists inspired a terser style**. The newspaper industry grew throughout the 19th century and they saved money when they used fewer words. Many great American writers like Twain, Whitman, Hemingway, and Steinbeck were journalists and influenced by newspaper style. There are whole grammatical structures like the appositive noun phrase (the part set off by commas in “Mr. Smith, a Manhattan accountant, said…”) that are associated with newspapers and clearly have brevity in mind.
+
+Another theory has to do with a **transition from reading aloud to reading silently**. Reading texts aloud to a group continued as a social practice into the Victorian era, and illiterates would even pay to listen to readings of Dickens. Works written up to this period would have often been written with listeners in mind. [An interesting 2008 paper](https://projects.panickssery.com/docs/gray-2010-writing_complexity_elaborated_compressed.pdf) discusses how Dickens in particular uses punctuation and other markers to help orators read his novels. But eventually it became most common to read silently and one consequence was that punctuation became standardized on syntactic (i.e. grammatical) rather than prosodic grounds. I’m not sure if it follows that sentence lengths would also go down. Spoken language is surprisingly complex and actually contains more subordinate clauses than professional/academic writing. For example, I found some transcripts of interviews from Brandon Sanderson—a popular fantasy author whose *Stormlight Archive* series averages only 9 words per sentence—and measured his extemporaneous speech at ~20 words per sentence (and that includes a bunch of short sentences like “Yeah” or “I don’t know”).
+
+The simplest theory is just that **shorter sentences reflect better writing**. When you see those ratings of a text’s reading difficulty in terms of a 4th-grade reading level or 10th-grade reading level and so on, those ratings are based on the Flesh-Kincaid readability score, which is just a weighted sum of the text’s words-per-sentence and syllables-per-word measures. A decrease of one grade level in readability thus comes from ~10 additional words per sentence or ~0.11 additional syllables per word. Studies invariably show that sentences with fewer words are easier for readers to understand quickly.
+
+Others have suggested this for a long time; in one of the earliest analyses of sentence length, Lucius Sherman in *Analytics of Literature* (1893) wrote that the “heaviness” of sentences also decreased over time as sentence lengths decreased, and that “Elizabeth writers “are prevailingly either crabbed or heavy … ordinary modern prose, on the other hand, is clear, and almost as effective to the understanding as oral speech.”
+
+Part of this was because older writers affected a Latinate style. The “periodic sentence,” which saves the main clause for the end after multiple dependent clauses are presented first, was common and exemplified in the extreme by writers like Samuel Johnson and Henry James. Consider the *Stuart Little* quote at the top: the main clause “Stuart stopped to get a drink of sarsaparilla” is preceded by a prepositional phrase “in the loveliest town of all” and four lengthy dependent clauses starting with “where.” This Latinate style included a preference for hypotaxis (connecting clauses with conjunctions or relative pronouns) over parataxis (presenting clauses sequentially without subordination):
+
+> **Hypotaxis:** When the alarm sounded, the firefighters, who had been sleeping, quickly jumped into action.  
+> **Parataxis:** The alarm sounded. The firefighters had been sleeping. They quickly jumped into action.
+
+It seems like the improved-readability effect provides most of the explanation. As more readers appeared and read more often (and read silently), selective pressure increased for styles that could be read and understood quickly. The telegraph and newspapers encouraged brevity as well. In principle, you could imagine that the Internet would have enabled a wordier style because it removed the financial costs of physically printing more words, but any effect like that hasn’t overcome the other trends.

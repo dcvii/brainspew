@@ -1,0 +1,56 @@
+---
+title: "Why Was This Groundbreaking Study on DEI Silenced?"
+source: "https://unsafescience.substack.com/p/why-was-this-groundbreaking-study"
+author:
+  - "[[D. Paul Sullins]]"
+published: 2024-11-27
+created: 2025-08-20
+description: "Two leading media organizations abruptly shelved coverage of a groundbreaking study that went against their narrative."
+tags:
+  - "clippings"
+---
+### Two leading media organizations abruptly shelved coverage of a groundbreaking study that went against their narrative.
+
+This post was written by Colin Wright and [originally appeared](https://www.realityslaststand.com/p/why-was-this-groundbreaking-study) at his Substack site, [Reality’s Last Stand](https://www.realityslaststand.com/). It is on [our research](https://networkcontagion.us/wp-content/uploads/Instructing-Animosity_11.13.24.pdf) on the negative consequences of Diversity, Equity and Inclusion pedagogy and rhetoric based on ideas promoted by Ibram Kendi and Robin DiAngelo (whose work was quoted exactly in our experimental manipulations). I was planning to do a post on this, but his was so good, I had little to add. Lee
+
+---
+
+![](https://substackcdn.com/image/fetch/$s_!Mb6w!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed8935ba-c6b9-4edd-9abe-2da29d8ad7fd_645x168.png)
+
+In a stunning series of events, two leading media organizations— *The New York Times* and Bloomberg—abruptly shelved coverage of a [groundbreaking study](https://networkcontagion.us/wp-content/uploads/Instructing-Animosity_11.13.24.pdf) that raises serious concerns about the psychological impacts of Diversity, Equity, and Inclusion (DEI) pedagogy. The [study](https://networkcontagion.us/wp-content/uploads/Instructing-Animosity_11.13.24.pdf), conducted by the Network Contagion Research Institute (NCRI) in collaboration with Rutgers University, found that certain DEI practices could induce hostility, increase authoritarian tendencies, and foster agreement with extreme rhetoric. With billions of dollars invested annually in these initiatives, the public has a right to know if such programs—heralded as effective moral solutions to bigotry and hate—might instead be fueling the very problems they claim to solve. The decision to withhold coverage raises serious questions about transparency, editorial independence, and the growing influence of ideological biases in the media.
+
+The NCRI study investigated the psychological effects of DEI pedagogy, specifically training programs that draw heavily from texts like Ibram X. Kendi’s *How to Be an Antiracist* and Robin DiAngelo’s *White Fragility*. The findings were unsettling, though perhaps not surprising to longstanding opponents of such programs. Through carefully controlled experiments, the researchers demonstrated that exposure to anti-oppressive (i.e., anti-racist) rhetoric—common in many DEI initiatives—consistently amplified perceptions of bias where none existed. Participants were more likely to see prejudice in neutral scenarios and to support punitive actions against imagined offenders. These effects were not marginal; hostility and punitive tendencies increased by double-digit percentages across multiple measures. Perhaps most troubling, the study revealed a chilling convergence with authoritarian attitudes, suggesting that such training is fostering not empathy, but coercion and control.
+
+The implications of these findings cannot be downplayed. DEI programs have become a fixture in workplaces, schools, and universities across the United States, with a 2023 Pew Research Center [report](https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/) indicating that more than half of U.S. workers have attended some form of DEI training. Institutions collectively spend approximately [$8 billion](https://www.mckinsey.com/featured-insights/gender-equality/focusing-on-what-works-for-workplace-diversity) annually on these initiatives, yet the NCRI study underscores how little scrutiny they receive. While proponents of DEI argue that these programs are essential to achieving equity and dismantling systemic oppression, the NCRI’s data suggests that such efforts may actually be deepening divisions and cultivating hostility.
+
+This context makes the suppression of the study even more alarming. *The New York Times*, which has cited NCRI’s work in nearly 20 previous articles, suddenly demanded that this particular research undergo peer review—a requirement that had never been imposed on the institute’s earlier findings, even on similarly sensitive topics like extremism or online hate. At *Bloomberg*, the story was quashed outright by an editor known for public support of DEI initiatives. The editorial decisions were ostensibly justified as routine discretion, yet they align conspicuously with the ideological leanings of those involved. Are these major outlets succumbing to pressures to protect certain narratives at the expense of truth?
+
+For Joel Finkelstein, the NCRI researcher leading the study, the editorial reversals are as revealing as the data itself. In communications with reporters, he described the findings as “sobering with likely impact for DEI policy, as well as congressional impacts and potentially civil litigation.” Finkelstein further stated that, “This seems like an effort to suppress research that challenges prevailing narratives around DEI and worryingly, implicates standard practices for egregious harms.”
+
+The harm in question goes far beyond the scope of individual programs. Across multiple experiments, the study documented a consistent pattern: exposure to anti-oppressive DEI rhetoric heightened participants’ tendency to attribute hostility and bias to ambiguous situations. In one experiment, participants read excerpts from Robin DiAngelo and Ibram X. Kendi, juxtaposed against a neutral control text about corn production. Afterward, they were asked to evaluate a hypothetical scenario: an applicant being rejected from an elite university. Those exposed to the DEI materials were far more likely to perceive racism in the admissions process, despite no evidence to support such a conclusion.
+
+![](https://substackcdn.com/image/fetch/$s_!CMW8!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27819349-5786-4d43-a563-dcf45c4a73e0_1382x806.png)
+
+They were also more likely to advocate punitive measures, such as suspending the admissions officer or mandating additional DEI training.
+
+![](https://substackcdn.com/image/fetch/$s_!BTZI!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83297a8f-b60a-456c-9b1a-4a633b5b9729_1406x800.png)
+
+A particularly revealing aspect of the study focused on DEI training centered on Islamophobia, using materials developed by the Institute for Social Policy and Understanding (ISPU). The findings echoed the broader concerns of the study but offered unique insights into how DEI programming shapes perceptions of bias and fairness. Participants were presented with a scenario involving two fictional individuals, Ahmed Akhtar and George Green, both convicted of identical terrorism charges. When participants were exposed to the ISPU-inspired training materials, their perception of Ahmed’s trial was significantly altered—they rated it as far less fair than George’s, despite the trials being described in identical terms.
+
+![](https://substackcdn.com/image/fetch/$s_!n7JF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F949a9355-6141-4d13-a5a6-8b19d518b4a7_1244x932.png)
+
+This discrepancy highlights a core issue with DEI narratives that emphasize systemic oppression. By priming participants to see injustice against specific groups, these trainings appear to cultivate a “hostile attribution bias”—a tendency to perceive prejudice and discrimination even where none exists. While sensitivity to genuine bias is critical, the NCRI findings suggest that DEI interventions like the ISPU materials may create unwarranted distrust in institutions and undermine confidence in objective fairness.
+
+Another alarming aspect of the NCRI study involved DEI training on caste discrimination. Participants exposed to materials from Equality Labs—a prominent provider of anti-caste training—were significantly more likely to perceive bias and endorse dehumanizing rhetoric, including adapted quotes from Adolf Hitler where the term “Jew” was replaced with “Brahmin.” The findings suggest that these programs may not only fail to address systemic injustice but actively cultivate divisive and authoritarian mindsets.
+
+![](https://substackcdn.com/image/fetch/$s_!Lx8H!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2506fe35-ce70-4990-a8c3-6f15ff8f13aa_1246x802.png)
+
+![](https://substackcdn.com/image/fetch/$s_!yJBh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d0fa95-e903-4c3c-9506-bca5221647ab_1244x920.png)
+
+Critics of DEI have long pointed to its lack of empirical support, and the NCRI study adds weight to those concerns. Research cited in the report highlights how many DEI programs rely on untested theories or unverified self-reports, with little oversight or accountability. A [2021 meta-analysis](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-071620-030619;jsessionid=_JkF8gMZpzs5Gelx0WZkpOJA8EzwR5tqNlvEmbLD.annurevlive-10-241-10-100) found that some initiatives not only fail to reduce prejudice but actually exacerbate it, fueling resentment and perceptions of unfairness. The NCRI study’s findings echo these conclusions, suggesting that far from fostering inclusion, DEI programs may perpetuate a cycle of suspicion and punitive retribution.
+
+Yet, as troubling as the study’s findings are, its suppression may be even more consequential. The decision to withhold this research from public discourse speaks to a larger issue: the growing entanglement of ideology and information. In a moment when public trust in institutions is already fragile, the media’s role as a gatekeeper of information becomes all the more worrying. When powerful outlets like *The New York Times* and *Bloomberg* withhold stories of such significance, they fracture trust with the American people.
+
+The public deserves to know if the tools being deployed to foster “equity” and “anti-racism” are instead causing harm. The NCRI study raises urgent questions about the real social consequences of DEI programming, but it also underscores the need for transparency and accountability in how we address these issues. Suppressing this research does not further the goal of making society more inclusive and accepting—it undermines it.
+
+As DEI programs continue to expand across schools, workplaces, and governments, the stakes could not be higher. Whether this research sparks a broader reckoning or remains buried will depend on whether institutions—and the media that hold them accountable—are willing to confront uncomfortable truths.

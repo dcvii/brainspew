@@ -2,7 +2,7 @@
 title: "'Natural' Constituencies"
 source: https://cobb.typepad.com/cobb/2009/01/natural-constituencies.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2009-01-12
 created: 2025-02-23
 description: The center of gravity of my concern today on Farai's show was radicalization. When the producers called me last week and gave the list of topics, I was somewhat disappointed to hear that we were going to talk about two...

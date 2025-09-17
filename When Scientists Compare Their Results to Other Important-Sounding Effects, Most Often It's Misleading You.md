@@ -1,0 +1,46 @@
+---
+title: When Scientists Compare Their Results to Other Important-Sounding Effects, Most Often It's Misleading You
+source: https://grimoiremanor.substack.com/p/when-scientists-compare-their-results?publication_id=445044&post_id=167206909&isFreemail=true&r=7br8e&triedRedirect=true
+author:
+  - "[[Christopher J Ferguson]]"
+published: 2025-06-30
+created: 2025-06-30
+description: It's becoming harder to argue that the public should trust social sciensts any more than they do a Magic 8 Ball.
+tags:
+  - clippings
+---
+### It's becoming harder to argue that the public should trust social sciensts any more than they do a Magic 8 Ball.
+
+This weekend, a Twitter/X [post went viral](https://x.com/clinjar/status/1938949265893827066) discussing a new study claiming to find that reducing time on social media improved mental health. Only the study did no such thing. In fact, the effect sizes from the study were near zero. It actually provided better evidence *against* this hypothesis than for it.
+
+In a classic failure of social scientists, the authors of the study failed to consider that almost everything becomes “statistically significant” when one runs thousands of participants through a study, and the effect sizes (roughly *d* \=.06) are so small as to be, at best, indistinguishable from the statistical noise we expect from messy social science studies. There are other critiques (the measures they used for mental health are not clinically validated for instance), but we’ll stick with this issue [^1].
+
+Regrettably, as too often happens in social science, the study authors claimed that quitting social media was 15-22% as effective as getting therapy, a (nonsense) point the Twitter post seized upon. This continues an unfortunate trend of study authors probably realizing that their results are trivial, but then trying to rescue them by pointing to some other thing that people think has a strong effect but maybe doesn’t.
+
+For instance, in a classic example of this in the same “social media is bad” space, psychologist Jean Twenge [^2] [ran a study](https://www.sciencedirect.com/science/article/pii/S0001691822000270) that basically found little evidence that social media predicted mental health in youth (particularly when appropriate control variables were applied), but tries to defend these weak results by claiming that here results were stronger than those between mental health and binge drinking, along with other predictors. The problem with this analogy is, well…binge drinking [doesn’t predict](https://www.sciencedirect.com/science/article/pii/S1054139X19304379?casa_token=ADvFxr204VoAAAAA:CgPkwZeotnoCnDb4G5ZE7qZgjV_XYJY827cyjJq8kypnMNgc29dnLL6z9R2XJbXfk25DoV8Jw-0) mental health in youth, particularly in recent years. So…sure it’s about the same effect, meaning none.
+
+A lot of these comparisons, I think, tend to capitalize on negativity bias. If two things both sound bad, we assume they must be correlated. Binge drinking is bad on its own, but it’s also common and social and not something that depressed kids in particular do. Thus, comparing one trivial result to another trivial relationship tells us nothing other than people are often gullible to bad reasoning.
+
+In years past, many psychologists tried to claim that psychological research was impressive because it produced higher effect sizes than important medical effects such as smoking on lung cancer, aspirins on heart attacks or the Salk vaccine on preventing polio. However, it turned out that this was based on a [number of miscalculations](https://christopherjferguson.com/effectsRoGP.pdf) and, in fact, the medical effects were much higher. Whoops! Do you think there’s every been a public reckoning on this where psychologists or the APA have acknowledged to the public that they messed up some basic statistics for decades because it cast psychology in a falsely positive light? Nope. People just slid away quietly to other nonsense defenses of weak effect sizes.
+
+But back to this particular comparison to therapy, there are several obvious problems. First, the social media effect here is so small we actually don’t know it’s “real”, whereas the effect sizes quoted for therapy are outside of that noise threshold. Comparing unreliable possibly zero effects to those which are more substantial is meaningless. It just can’t be done in any informative way. But also, the authors appear to collapse various types of therapy together into a single effect size for their calculation [^3].
+
+There’s an obvious problem with these kinds of “does therapy work” questions. Work on what, for whom, and in what context? Behavioral therapy for phobias has a very high success rate, whereas therapy for chronic mental illnesses are pretty ineffective. Most things fall somewhat in between. To be sure, television shows often treat “you should go into therapy” as a kind of magic wand for all sorts of problems, but the truth is that therapy overall probably works a lot less well than we’d hope.
+
+I’m also not sure they make their calculation appropriately. Assuming they went with benchmarks of d =.06 for social media reduction and.27 for therapy (their combined value), simply dividing one value by the other actually isn’t appropriate [^4]. Let’s set aside whether this effect size for therapy is correct (I suspect it is not, see footnote 5). But in fact to make a comparison, they’d need to actually switch to percentage variance explained. I’ll skip the inside stats baseball, but that would be,.09% for social media reductions (yes, that means changing one’s social media habits explains about 1/10 a percent in the variance in mental health, assuming the effects aren’t noise, which of course they are. But for therapy that would be about 1.8%...still not exactly something to hurrah about [^5]. Yet this would mean that social media reduction, if it’s not merely noise (which it probably is) would 5% as effective as therapy (with what is likely a low-ball estimate of therapy’s effectiveness) which itself is not super effective. Why are we bothering to make this comparison?
+
+But basically, their argument is that their intervention is about 5% as effective as something that’s already not super effective.
+
+I think the general public needs to be informed that when they hear these “effects from our study are almost as good as thing Y which you think is important”, you’re almost certainly about to be sold a bag of nonsense. Studies that actually find strong, important results don’t need to make these kinds of comparisons. These arguments are typically a form of emotional manipulation that is used when a study’s results are weak and unimpressive and likely not reliable.
+
+I wish I could say this was unique to the field of social media effects, but unfortunately, it’s common throughout social science. All such arguments should be a red flag. Be alert, and don’t be fooled.
+
+[^1]: It’s worth noting that the study is, thus far, a preprint and I’m not aware it’s been accepted for publication anywhere. This trend of social scientists publicly releasing non-peer-reviewed research is also dubious. Granted peer-review is hardly an efficient gatekeeper of bad science, but at least it’s something. We just had a similar episode of a dodgy “ [consensus](https://www.science.org/content/article/social-media-consensus-paper-causes-social-media-uproar) ” paper being released in similar non-peer-reviewed cirumstances for which even the authors on the paper don’t agree there’s any consensus. This blatantly sloppiness really needs to stop.
+
+[^2]: I usually try to keep out of the realm of the personal, but Twenge has made serious bank making pejorative claims about younger generations. Hey, everybody has the right to make a dime, but not thaaaat long ago, she scared people about a Narcissism Epidemic among Millennials, a finding which proved [difficult to replicate](https://www.psychologytoday.com/us/blog/psych-unseen/201710/new-research-finds-no-evidence-narcissism-epidemic) and which everyone quickly forgot as soon as Millennials got old enough to buy books, newspapers, and vote. At this point, depending on convenience, social media has been blamed both for, in effect, making them too happy about themselves, then later, not happy enough about themselves.
+
+[^3]: TBF, I’m really not quite sure how they did these calculations…they do report a range, but I’m not sure sure how that compares to the range of effect sizes they report for therapy. Either way, I don’t think these calculations are correct.
+
+[^4]: Again, they seem to breeze over this point, so I’m not sure sure what they did.
+
+[^5]: I’ve also seen higher effect sizes for therapy in some meta-analyses, around the range of [d =.85](https://pubmed.ncbi.nlm.nih.gov/14596479/) or so, so the authors’ here may be low-balling the therapy effect sizes. This seems to be another issue…study authors either high-balling or low-balling effect sizes from a range of meta-analyses, depending on which is most convenient for their current narrative. But now we’re in the range of comparing a d of.06 to a d of.85. Why are we doing this mindless exercise?
