@@ -2,7 +2,7 @@
 title: A Visit To NPR
 source: https://cobb.typepad.com/cobb/2007/04/a_visit_to_npr.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2007-04-09
 created: 2025-02-23
 description: So my fledgling media career is up one more step as I was invited to participate in the new experimental radio show at NPR. You might know it as Rough Cuts or The Barbershop. It's Michel Martin's baby and we're...

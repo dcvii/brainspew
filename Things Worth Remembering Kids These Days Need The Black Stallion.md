@@ -1,0 +1,44 @@
+---
+title: "Things Worth Remembering: Kids These Days Need The Black Stallion"
+source: "https://www.thefp.com/p/things-worth-remembering-the-black-stallion?r=7br8e"
+author:
+  - "[[Larissa Phillips]]"
+published: 2025-04-05
+created: 2025-04-07
+description: "Kids' books should remind children that there are rewards for persevering past pain and fear. This is the actual heart of adventure stories, and the heart of life."
+tags:
+  - "clippings"
+---
+***Welcome to Things Worth Remembering, in which writers recall wisdom from the past that we should commit to heart. Last week, Abigail Shrier [reflected on](https://www.thefp.com/p/things-worth-remembering-when-harry-met-sally) the greatest romantic comedy of all time, “When Harry Met Sally.” This week, our farm correspondent [Larissa Phillips](https://www.thefp.com/w/larissa-phillips) celebrates another genre that’s out of vogue these days: the young adult adventure novel.***
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09170ed4-1e48-47c2-b855-bc73635f5c31_1320x30.png)
+
+I had an adventurous childhood.
+
+Before I even finished elementary school, I had tracked a monster bear through the Pennsylvania woods with a spectacular dog at my side. I’d climbed a precipice to steal a falcon hatchling from its nest in upstate New York. I’d helped my older brother use his incredible brain to rescue some lost boys who’d gotten trapped in a cave in Utah.
+
+Of course, I didn’t do any of these things in *reality*. I experienced them all vicariously, through characters in my favorite books: *[Big Red](https://bookshop.org/a/93116/9780823449521)* by Jim Kjelgaard. *[My Side of the Mountain](https://bookshop.org/a/93116/9780141312422)* by Jean Craighead George. *[The Great Brain](https://bookshop.org/a/93116/9780142400586)* series by John D. Fitzgerald. I was lucky: In the ’70s, the young adult adventure novel was still widely read, and I loved these action-packed books.
+
+Usually, they featured a boy who, through some calamitous or surprising event, was thrust into a harrowing situation. Shipwrecks and plane crashes were common, but a parent leaving home could also do the trick. The safe parameters of childhood dissolve. The boy is on his own. He might go hungry, or be wounded, or temporarily lose hope. But over the course of the novel he eventually emerges, scathed and scarred, and on the way to becoming an adult.
+
+These stories were like a portal for me. I was a shy child, the youngest in a chaotic home. I often read in secret places, nestled into the cubby under the basement stairs, or in the branches of a favorite climbing tree. But in the pages of these books I could go anywhere in the world and prevail over any obstacle.
+
+There was one book in particular I never got tired of. I borrowed it from the library so many times that the check-out card inside its cover showed a long list of my name over and over again. It was *[The](https://bookshop.org/a/93116/9780679813439)* *[Black Stallion](https://bookshop.org/a/93116/9780679813439)*, by Walter Farley, and I wish more children today were familiar with it, because it might remind the [anxious generation](https://www.thefp.com/p/taking-back-childhood-from-phones-jonathan-haidt) not only that they’re strong enough to cope with bad things—but that facing up to them can be a source of the fiercest kind of joy.
+
+Written in 1941, *The* *Black Stallion* follows the adventures of Alec, who is marooned on a deserted island after, yes, a shipwreck. Also marooned is a wild horse, which he calls the Black, and which he longs to tame.
+
+When I think about it today, I can still remember the opening scenes: the cacophonous sounds of the Arabian port, the screams of the passengers as the ship split in half and began sinking, and the feel of the thrashing ocean waves in which Alec struggles to survive. But there’s one section of the book that is especially burned into my mind. Alec spends days trying to ride the horse: He is thrown off repeatedly, but he doesn’t lose hope. And at last he manages to hoist himself up, then hang on while the horse takes off down the beach “like a shot from a gun.”
+
+“Alec clung to the stallion’s mane for his life. The wind screamed by and he couldn’t see!” writes Farley. The danger is part of what makes this scene so satisfying—as is the boy’s response to it. “Alec’s blurred vision made out a black object in front of them, and as a flash he remembered the deep gully that was there. He felt the stallion gather himself; instinctively he leaned forward and held the Black firm and steady with his hands and knees. Then they were in the air, sailing over the black hole.”
+
+I still get emotional reading these scenes. The whole point of the classic adventure novel is that, when the time comes, the protagonist discovers his inner strength; and as the reader, we get to soar with him.
+
+Yet these stories exist in stark contrast with the current trend in young adult books—whereby the grim, primary goal of the story is to raise the young reader’s awareness of injustice, racism, and even global misery. When she was in sixth grade, my now-adult daughter was assigned to read [a novel called](https://www.npr.org/2019/03/16/703814048/20-years-after-speak-laurie-halse-anderson-tells-her-own-story-in-shout) *[Speak](https://www.npr.org/2019/03/16/703814048/20-years-after-speak-laurie-halse-anderson-tells-her-own-story-in-shout)*, about a girl who loses her voice after being first raped and then ostracized by her friends. More recently, I’ve met numerous middle schoolers—and one fifth grader—who were assigned to read *[Refugee](https://bookshop.org/a/93116/9780545880831)* [by Alan Gratz](https://bookshop.org/a/93116/9780545880831), which tells three separate stories of children fleeing oppressive regimes: ’30s Germany, ’90s Cuba, and Syria in 2015. It’s a book that makes children feel that their lives may be permanently derailed by dark forces over which they have no control. (As an eighth grader told me after reading it: “If it had a happy ending, it wouldn’t be realistic.”) It’s not good for them. As Robert Pondiscio, senior fellow at the American Enterprise Institute, argued in 2022: The effort to expose children to larger forces of oppression, war, and discrimination is backfiring. “We are mostly succeeding in creating a generation of overwhelmed young people paralyzed into learned helplessness,” [he wrote](https://www.commentary.org/articles/robert-pondiscio/american-schooling-bleak-broken/).
+
+I’m not saying we should protect children from the hard realities of life; I’m saying we should offer them stories in which people can live good lives despite these things. In another favorite book from my childhood, *Follow My Leader*, the protagonist is blinded in an accident in the first few pages—a tragedy—but the story is about his incredible, empowering relationship with a seeing-eye dog, as he slowly reclaims his independence. Although I haven’t read James B. Garfield’s novel in more than 40 years, I still remember the scene where the boy almost walks into something that could have seriously injured him, but when he complains about it, the seeing-eye dog’s trainer tells him he can’t expect the world to change for him. He’s blind, and he’s the one who has to adapt. And he does.
+
+Painful setbacks are a part of life. But we should remind kids that there are often rewards to persevering past pain and fear. This is the actual heart of adventure stories, and the heart of life.
+
+For Alec, escaping the island is only half the adventure. After he and the Black are rescued, they return home to Flushing, New York, and rather than dwell on his horrible experience, Alec gets to work. He wants the Black to be a star of the racetrack. There are painful crashes and bloodied hands, but the hard work adds up, and when their first test comes, [the experience is thrilling](https://www.thefp.com/p/fear-is-good-for-you). “Alec didn’t attempt to hold the stallion. ‘Run, run!’ he yelled, but the tearing wind blew the words back down his throat.”
+
+If [Joan Didion](https://bookshop.org/a/93116/9780307264879) is to be believed, we tell ourselves stories in order to live; I think children need stories in order to grow—especially the kinds with adventures and heroes and success. When you’re teetering on the edge of childhood, still unsure of your potential, you need to be tested, to be put to the fire, to pick up the quiver and stand up to the monster. And we all need stories to show us how that’s done.

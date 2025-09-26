@@ -1,6 +1,6 @@
 ---
 tags:
-  - homelab
+  - southwall/homelab
 created: 2016-11-23
 ---
 

@@ -1,13 +1,14 @@
 ---
-title: "How to turn off System Integrity Protection on your Mac"
-source: "https://www.imore.com/how-turn-system-integrity-protection-macos"
+title: How to turn off System Integrity Protection on your Mac
+source: https://www.imore.com/how-turn-system-integrity-protection-macos
 author:
   - "[[Joseph Keller]]"
 published: 2020-08-28
 created: 2025-02-12
-description: "System Integrity Protection exists to keep your Mac safe. If you absolutely need to turn it off, however, here's how you do it."
+description: System Integrity Protection exists to keep your Mac safe. If you absolutely need to turn it off, however, here's how you do it.
 tags:
-  - "clippings"
+  - clippings
+  - southwall/homelab
 ---
 ![macOS Catalina](https://cdn.mos.cms.futurecdn.net/a75HKbAkdD3WbSsyWZZVSY-1200-80.jpg)
 

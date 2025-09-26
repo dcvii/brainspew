@@ -1,13 +1,13 @@
 ---
-title: "Data Analysis is Hell"
-source: "https://dataengineeringcentral.substack.com/p/data-analysis-is-hell?utm_source=post-email-title&publication_id=1224799&post_id=157927136&utm_campaign=email-post-title&isFreemail=false&r=7br8e&triedRedirect=true&utm_medium=email"
+title: Data Analysis is Hell
+source: https://dataengineeringcentral.substack.com/p/data-analysis-is-hell?utm_source=post-email-title&publication_id=1224799&post_id=157927136&utm_campaign=email-post-title&isFreemail=false&r=7br8e&triedRedirect=true&utm_medium=email
 author:
-  - "[[Daniel Beach]]"
+  - "[[T50/Daniel Beach]]"
 published: 2025-02-27
 created: 2025-02-27
-description: "... nothing you can do about it."
+description: ... nothing you can do about it.
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfe229e-4175-48ba-a9b4-47855bdb7709_1024x1024.webp)
 

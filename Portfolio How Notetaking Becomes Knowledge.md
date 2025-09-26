@@ -1,13 +1,13 @@
 ---
 title: "Portfolio: How Notetaking Becomes Knowledge"
-source: "https://www.workings.co/p/portfolio-how-notetaking-becomes?utm_source=post-email-title&publication_id=375885&post_id=158317231&utm_campaign=email-post-title&isFreemail=true&r=7br8e&triedRedirect=true&utm_medium=email"
+source: https://www.workings.co/p/portfolio-how-notetaking-becomes?utm_source=post-email-title&publication_id=375885&post_id=158317231&utm_campaign=email-post-title&isFreemail=true&r=7br8e&triedRedirect=true&utm_medium=email
 author:
-  - "[[Stowe Boyd]]"
+  - "[[Stowe Boyd 1]]"
 published: 2025-03-05
 created: 2025-03-05
 description: "First in a series on Portfolio: a comprehensive system for notetaking in Obsidian."
 tags:
-  - "clippings"
+  - clippings
 ---
 If you’ve followed my writing about notetaking over the past few years, the title of this post — *Portfolio: How Notetaking Becomes Knowledge* — may be familiar. In May 2024, I published *[Folio: How Notetaking Becomes Knowledge](https://www.workings.co/p/folio-how-notetaking-becomes-knowledge)*, in which I laid out some of the principles of a system I’d developed over the preceding few years, built on the underlying Obsidian platform, which I called Folio. Today, I am introducing what could have been called Folio 2.0, but the changes I’ve made are significant enough to warrant a new name: **Portfolio**. (Also, the whole 2.0 thing is kind of played out, don’t you think?)
 

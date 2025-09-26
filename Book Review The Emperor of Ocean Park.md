@@ -1,13 +1,13 @@
 ---
 title: "Book Review: The Emperor of Ocean Park"
-source: "https://cobb.typepad.com/cobb/2003/10/book_review_the.html"
+source: https://cobb.typepad.com/cobb/2003/10/book_review_the.html
 author:
-  - "[[Cobb]]"
-published:
+  - "[[MDCB/Self/Cobb]]"
+published: 
 created: 2025-03-01
-description: "The Emperor of Ocean Park by Stephen L. Carter. is a quite compelling if not evenly flowing or artistic read. It's an ambitious book that works on many different levels. As a first time novelist, Carter should have stuck to..."
+description: The Emperor of Ocean Park by Stephen L. Carter. is a quite compelling if not evenly flowing or artistic read. It's an ambitious book that works on many different levels. As a first time novelist, Carter should have stuck to...
 tags:
-  - "clippings"
+  - clippings
 ---
 The Emperor of Ocean Park by Stephen L. Carter. is a quite compelling if not evenly flowing or artistic read. It's an ambitious book that works on many different levels. As a first time novelist, Carter should have stuck to one or two, but in the end you are glad that he didn't.
 

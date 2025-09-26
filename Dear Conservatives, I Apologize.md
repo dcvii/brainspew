@@ -1,13 +1,14 @@
 ---
-title: "Dear Conservatives, I Apologize"
-source: "https://naomiwolf.substack.com/p/dear-conservatives-i-am-sorry"
+title: Dear Conservatives, I Apologize
+source: https://naomiwolf.substack.com/p/dear-conservatives-i-am-sorry
 author:
   - "[[Dr Naomi Wolf]]"
 published: 2023-03-09
 created: 2025-02-17
-description: "My \"Team\" was Taken in By Full-Spectrum Propaganda"
+description: My "Team" was Taken in By Full-Spectrum Propaganda
 tags:
-  - "clippings"
+  - clippings
+  - domestic-affairs
 ---
 There is no way to avoid this moment. The formal letter of apology. From me. To Conservatives and to those who “put America first” everywhere.
 

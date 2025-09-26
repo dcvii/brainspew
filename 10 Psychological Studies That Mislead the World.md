@@ -1,0 +1,51 @@
+---
+title: 10 Psychological Studies That Mislead the World
+source: https://grimoiremanor.substack.com/p/10-psychological-studies-that-mislead?publication_id=445044&post_id=163563562&isFreemail=true&r=7br8e&triedRedirect=true
+author:
+  - "[[Christopher J Ferguson]]"
+  - "[[Ph.D.]]"
+published: 
+created: 2025-05-14
+description: Bad science can create false ideas about how people work that are difficult to retract.
+tags:
+  - evpsych
+---
+### Bad science can create false ideas about how people work that are difficult to retract.
+
+At its best, psychological science can reveal the secrets of the human mind and illuminate treatments that can ease the suffering of individuals experiencing mental health problems. But psychological science has had more than its fair share of wrong turns, some of which continue to misinform people to the present. I don’t mean simply imperfect science building upon itself in the manner by which Newtonian physics set the stage for General Relativity. But rather, simply bad science, or gross misinterpretations of data, or sometimes simply outright fraud and shenanigans.
+
+![](https://substackcdn.com/image/fetch/w_424)
+
+Pop psychology naturally tells us quite a bit of nonsense. But we expect actual scientific psychology to do better. Unfortunately, it often does not live up to those standards. Here are 10 big studies (or study areas) in psychology that, whether due to the scholars’ actions, or simply a massive public misread, resulted in considerable misinformation and sometimes outright hurt people.
+
+**Rosenhan’s Psychiatric Hospital Experiment**.
+
+This one stings perhaps more than any other given it’s a great story and largely fits with my own suspicions about the accuracy of psychiatric diagnoses. In my book *[How Madness Shaped History](https://www.amazon.com/How-Madness-Shaped-History-Narcissists/dp/1633885747/ref=sr_1_1?crid=12P0JGFMJJDLO&dib=eyJ2IjoiMSJ9._Nln6Cdg8CPxMe39JCSsLPMdsIVEvNBPlLAHUN2MzM_RHXlfCz1IQoHAvq2ACz9Q.VMm6nAleH1yHL-dfP3s4Mpon0oSgwBOh58UoqvWPV38&dib_tag=se&keywords=how+madness+shaped+history&qid=1746967923&sprefix=how+madness+%2Caps%2C131&sr=8-1)* I even cited it, though fortunately the controversies had come to light during production such that I was able to add a footnote about them.
+
+The conceit of [this study](https://www.simplypsychology.org/rosenhan_experiment.html#Procedure), from 1973, was that Rosenhan and eight students presented themselves (using fake names and occupations) to psychiatric hospitals complaining of hearing voices, but otherwise acting normal. After they were admitted into the hospital, they dropped those symptoms and simply behaved normally. The hospitals nonetheless refused to release them, typically at least for several weeks. This study created the perception that psychiatric hospitals are overdiagnosing patients and keeping them locked away without due process.
+
+To be fair, the deinstitutionalization movement, closing down asylums in favor of community care for those with chronic mental illness was already well underway. But Rosenhan’s experiment certainly added fuel to the fire that asylums were unnecessary and authoritarian. Unfortunately, the deinstitutionalization movement proved to be a spectacular failure, leading to many homeless individuals with chronic mental illness on our streets. His experiment also led to revisions of psychiatry’s Diagnostic and Statistical Manual (DSM) into more of a symptom checklist approach which persists to this day. Whether that has led to more reliable diagnoses is rather debatable.
+
+Far too late, journalistic probing has suggested that this experiment may simply [never have happened](https://pubmed.ncbi.nlm.nih.gov/36737877/). Only one of Rosenhan’s students has ever been located, and the journalist’s investigations revealed other suspicious manipulations of facts in Rosenhan's study. In other words, it’s alleged that Rosenhan’s experiment is a remarkable case of scientific fraud. If so, it is one that has affected millions of lives, and not for the better.
+
+**Milgram’s Obedience Experiment.**
+
+Perhaps no study is quite as “classic” and beloved in psychology as Milgram’s studies of obedience. The 50-cent version of these is that Milgram had ordinary participants shock another person (the “learner”) as punishment for failing to learn in an experiment. The shocks increased in strength past the point where the learner was begging to be let go, then went silent, appearing to have a heart attack. Most of the participants continued to shock the learner despite the apparent distress the learner was experiencing. This experiment is taken as demonstrating most people’s willingness to obey, so long as an authority figure (an experimenter in a lab coat, for instance) is telling them what to do, and they can say they were just following orders. Milgram himself [made comparisons](https://www.simplypsychology.org/milgram.html) between his participants and the Nazis of WW2.
+
+There, of course, was no actual learner, the whole thing was a setup.
+
+But more recent scholarship suggests that Milgram may have fudged the numbers, exaggerating the degree to which people believed they were actually shocking a real human being. Put simply, it appears that Milgram [failed to disclose](https://journals.sagepub.com/doi/abs/10.1177/0190272519861952) that many of his participants were suspicious that the experiment was fake and that these suspicious participants were more likely to deliver the “deadly” shocks. Defenders of Milgram point out that his early experiments have been replicated many times in many contexts. However, if the replication crisis taught us anything, it’s that psychological science is willing to go down long rabbit holes to shore up weak theories. So I think there’s a “fruit of the poisoned tree” effect here that likely led to numerous obligatory replications, and also likely publication bias against studies that didn’t replicate Milgram.
+
+Ultimately, whether the Milgram’s studies are absolute garbage is less clear than some other studies on this list, but at very least it should only be taught with the significant asterisk that his main findings could simply be chalked up to participants going along with a study they knew to be fake.
+
+**The Fijian Body Image Study**
+
+Our first two cases regard famous studies where different levels of dodginess may invalidate the study’s findings altogether. The Fijian study [1](https://grimoiremanor.substack.com/p/10-psychological-studies-that-mislead?publication_id=445044&post_id=163563562&isFreemail=true&r=7br8e&triedRedirect=true#footnote-1-163563562) is a different animal. It’s actually a pretty good idea, the study isn’t necessarily bad, and the results are probably real enough, given the limitations of any basically self-report psychological study. The problem is of a different kind…the [study’s “story” simply don’t match](https://centerforinquiry.org/blog/a_closer_look_at_a_famous_study_linking_tv_exposure_to_eating_disorders/) the results. And nobody seems interested in correcting the story.
+
+The basis of the study was actually pretty cool. Television was not introduced to the island of Fiji until 1995. This allowed for a pre/post quasi-experiment. Would Fijian girls’ body dissatisfaction increase three years after the introduction of television, due to being exposed to Western thin-ideal media images? The narrative about this study says this is what the study proved: that television created body dissatisfaction and eating disorders in a population of girls formerly innocent of these outcomes. Except, that’s not what the actual data show.
+
+The study authors, in fact, engage in a number of analyses, most of which were non-significant. The girls, for instance, did not become thinner. Nor did they engage in more bingeing behavior, characteristic of bulimia nervosa. Overall eating disorder symptoms, such as trying to reduce weight (many eating disorder symptoms on self-report measures are quite minor [2](https://grimoiremanor.substack.com/p/10-psychological-studies-that-mislead?publication_id=445044&post_id=163563562&isFreemail=true&r=7br8e&triedRedirect=true#footnote-2-163563562)), was only marginally significant (*p* \=.03) and this too would have been non-significant had they properly controlled for multiple comparisons (in other words this has a decent probability of being a false positive error). There were no changes in the use of diuretics or laxative use to lose weight, nor did any girls have anorexia nervosa either in 1995 or 1998. They did find that self-induced vomiting to lose weight had increased. They also did find higher eating disorder symptoms among girls with a TV in their home, although this became non-significant after controlling for year (*p* \=.057). Further, that point seems undermined by the authors themselves pointing out that Fijians tended to community-watch TV in the homes that had TVs.
+
+So, if I’ve got my count right, they did eight separate tests of their hypotheses. Five were clearly non-significant, with a sixth becoming non-significant after controlling for study year. A seventh would have been non-significant had they applied proper statistical controls. So that makes only one of eight outcomes consistent with the hypothesis. That’s a bad showing for any hypothesis and should have led the authors to a more cautious, nuanced conclusion. Yet, as they say, don’t let the data get in the way of a good story, and this study is still often highlighted as remarkable proof of TV’s effects on girls’ body dissatisfaction. It’s not.
+
+To be clear, there’s nothing fraudulent here, and the authors appear honest in reporting their data. It just seems they ignored much of their data (certainly the societal narrative has) in order to stick with the pre-determined narrative. This is another type of common problem in psychological research: often big claims are based on inconsistent and gossamer data. It pays to actually read the results section of an article with a skeptical eye.

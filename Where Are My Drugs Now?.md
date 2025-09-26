@@ -2,7 +2,7 @@
 title: Where Are My Drugs Now?
 source: https://www.cubegeek.com/2018/02/where-are-my-drugs-now.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 
 created: 2025-02-20
 description: I have had the unique opportunity to be involved in shepherding members of my family through a maze of healthcare delivery systems. I can't tell you how much I'm looking forward to Amazon to gain a presence in this industry....

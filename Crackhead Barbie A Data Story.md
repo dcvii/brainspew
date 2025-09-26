@@ -2,7 +2,7 @@
 title: "Crackhead Barbie: A Data Story"
 source: https://www.cubegeek.com/2017/08/crackhead-barbie.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 08/11/2017
 created: 2025-02-19
 description: (True Story circa 1991) I have spent the past 30 years building Business Intelligence systems. The very basic idea is that there are some things humans do well, and there are things computers do well. The magic is found when...

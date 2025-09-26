@@ -2,7 +2,7 @@
 title: Circles of Trust
 source: https://cobb.typepad.com/cobb/2016/08/circles-of-trust.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 
 created: 2025-02-11
 description: So I've decided to get hard. This means I'm hardening the security around all the stuff that I do. I have decided that the only way forward for me it to start getting into my own circles of trust. I...

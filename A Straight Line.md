@@ -2,7 +2,7 @@
 title: A Straight Line
 source: https://cobb.typepad.com/cobb/2017/08/a-straight-line.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2017-08-16
 created: 2025-02-22
 description: What has gotten me most upset over the past few days in the time I've spent chatting with my fellows in the Chatting Class is the temptation towards vigilantism by proxy. I am annoyed by their indications that they want...

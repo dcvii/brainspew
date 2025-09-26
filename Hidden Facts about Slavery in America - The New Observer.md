@@ -1,13 +1,14 @@
 ---
-title: "Hidden Facts about Slavery in America - The New Observer"
-source: "https://web.archive.org/web/20170217084518/http://newobserveronline.com/hidden-facts-about-slavery-in-america/"
+title: Hidden Facts about Slavery in America - The New Observer
+source: https://web.archive.org/web/20170217084518/http://newobserveronline.com/hidden-facts-about-slavery-in-america/
 author:
   - "[[The New Observer]]"
 published: 2013-06-16
 created: 2025-02-17
-description: "The first official slave owner in colonial America was a black man, not white; the Arab slave trade in Negroes was far greater and much longer lasting than the transatlantic…"
+description: The first official slave owner in colonial America was a black man, not white; the Arab slave trade in Negroes was far greater and much longer lasting than the transatlantic…
 tags:
-  - "clippings"
+  - clippings
+  - slavery
 ---
 The first official slave owner in colonial America was a black man, not white; the Arab slave trade in Negroes was far greater and much longer lasting than the transatlantic slave trade; the founder of the southern state of Georgia banned both slavery and Africans from the state; large numbers of “free blacks” owned black slaves; and less than 5 percent of pre-Civil War American families actually had slaves.
 

@@ -2,7 +2,7 @@
 title: The Bitcoin Power Equation
 source: https://www.cubegeek.com/2017/12/the-bitcoin-power-equation.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2017-12-26
 created: 2025-02-20
 description: "Q: How much power does the production of Bitcoin cost the planet? A: In my HashFlare Scenario[1] I did some calculation to figure out how much it would cost to mine Bitcoin. I used the example of the fastest commercially..."
