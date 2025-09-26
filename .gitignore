@@ -1,1 +1,55 @@
 _CCC\ SafetyNet/*
+
+# Git repository metadata exclusions
+# Prevent conflicts with any git repos referenced or linked in vault
+.git/
+*.git/
+**/.git/
+.gitignore
+.gitmodules
+.gitattributes
+
+# Obsidian vault-specific files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/graph.json
+.obsidian/canvas.json
+
+# System files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Development environment files
+.env
+.envrc
+.direnv/
+
+# Python environment exclusions (if Python projects referenced)
+__pycache__/
+*.py[oc]
+.venv/
+*.egg-info/
+
+# Node.js exclusions (if JS projects referenced)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+logs/
