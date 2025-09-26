@@ -2,7 +2,7 @@
 title: Barack Obama Doesn't Care About White People
 source: https://cobb.typepad.com/cobb/2008/03/barack-obama-do.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2008-03-18
 created: 2025-02-23
 description: I have been unable to post any comments over at Protein Wisdom today. Odd. Here is the post I have been trying to get published over at the Pub, with some extensions... It was suggested at the Pub that Obama...

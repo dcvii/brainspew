@@ -2,7 +2,7 @@
 title: Today's Barbershop
 source: https://cobb.typepad.com/cobb/2007/06/todays-barbersh.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2007-06-29
 created: 2025-02-23
 description: "A great show if I must say so myself. We talk about: Dick Cheney's Tribulations Ralph Nader's Trials Video Game Addiction It's a really tight show, funny and informative. Do check it out."

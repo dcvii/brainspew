@@ -2,7 +2,7 @@
 title: "MDCB on NPR: Juneteenth"
 source: https://cobb.typepad.com/cobb/2007/06/mdcb-on-npr-jun.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2007-06-22
 created: 2025-02-23
 description: Today's Tell Me More show will feature yours truly. All about Juneteenth. As I thought about the subject some more, again way overthinking what turned out to be about 30 seconds of airtime, my mind went in several interesting directions...

@@ -2,7 +2,7 @@
 title: BlockCon Trip Report
 source: https://www.cubegeek.com/2017/10/blockcon-trip-report.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2017-10-16
 created: 2025-02-20
 description: So those of you who know me know that I know something about BI / DW and VLDB aka Big Data. I think I may continue to use VLDB to distinguish big structured data from high heaps of Hadoop which...

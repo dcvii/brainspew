@@ -2,7 +2,7 @@
 title: How To Cloud A Mainframe
 source: https://www.cubegeek.com/2017/10/how-to-cloud-a-mainframe.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 2017-10-18
 created: 2025-02-20
 description: Once upon a time there was a mainframe computer. I ignored it. So did you. We were wrong. My mighty mainframe was a CDC Cyber running NOS. It was such a craptastic machine that I hated doing homework precisely because...

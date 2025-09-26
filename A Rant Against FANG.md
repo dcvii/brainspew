@@ -2,7 +2,7 @@
 title: A Rant Against FANG
 source: https://www.cubegeek.com/2017/07/a-rant-against-fang.html
 author:
-  - "[[Cubegeek]]"
+  - "[[Writings/Cubegeek]]"
 published: 07/17/2017
 created: 2025-02-19
 description: Not the companies, the term. (somebody asked me if FANG (Facebook, Amazon, Netflix, Google) should be the targets of anti-trust action.) FANG is, in the first case, only a term used by Wall Street traders and hedge fund managers to...

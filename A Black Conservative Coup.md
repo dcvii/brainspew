@@ -2,7 +2,7 @@
 title: A Black Conservative Coup
 source: https://cobb.typepad.com/cobb/2008/07/a-black-conserv.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2008-07-07
 created: 2025-02-23
 description: Today I sat with Kevin Ross and Christopher Bracey on News and Notes and had what I consider one of the most civilized, if not the first, good discussion about black conservatives on the radio. Farai and her producers did...

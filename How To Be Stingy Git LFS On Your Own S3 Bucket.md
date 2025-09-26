@@ -1,6 +1,6 @@
 ---
 tags:
-  - homelab
+  - southwall/homelab
 title: "How To Be Stingy: Git LFS On Your Own S3 Bucket"
 author:
   - blog.dermah.com

@@ -2,7 +2,7 @@
 title: It's a Battle for the Hearts and Minds
 source: https://cobb.typepad.com/cobb/2014/12/its-a-battle-for-the-hearts-and-minds.html
 author:
-  - "[[Cobb]]"
+  - "[[MDCB/Self/Cobb]]"
 published: 2014-12-27
 created: 2025-02-23
 description: JK is one of the good looking dudes from my old neighborhood. We are fraternity brothers, and like most people from the old neighborhood he's exceptional. Almost nobody from my 'hood disappeared into mediocrity, we're all somewhat extreme. I met...

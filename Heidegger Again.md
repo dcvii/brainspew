@@ -1,0 +1,34 @@
+---
+title: Heidegger Again
+source: https://mdcbowen.substack.com/p/heidegger-again?utm_campaign=reaction&utm_medium=email&utm_source=substack&utm_content=post
+author:
+  - "[[Michael David Cobb Bowen]]"
+published: 2025-02-05
+created: 2025-02-06
+description: He knew exactly what is wrong with AI.
+tags:
+  - clippings
+  - philosophy
+---
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc466733-c35d-4137-a678-b8eac87353f3_695x983.png)
+
+Mind blown. So I’ve had books by George Steiner on the shelf for at least a year. I got really bored of the Thirty Years War and started on [Steiner’s book on Heidegger](https://www.goodreads.com/book/show/309623.Martin_Heidegger) and almost immediately I get this:
+
+> Witnesses, such as Löwith, as Gadamer, as Hannah Arendt, are of one voice in saying that those who did not hear Martin Heidegger lecture or conduct his seminars can have only an imperfect, even distorted notion of his purpose. It is the lectures, the seminars already prior to Sein und Zeit, which, in Marburg in the very early 1920s, came as a shock of revelation to colleagues and students. The “secret king of thought,” as Arendt memorably called her master, acted through the spoken word. Gadamer characterizes the experience of hearing Heidegger as one of “Einbruch und Umbruch,” of “break-in and of \[destructive-foundational\] transformation.” The rare recordings we have of the ageing Heidegger’s voice and mode of speech retain their spell. Critics have referred to a kind of histrionic sorcery, masked as questioning simplicity. This charge has, we know, an ancient ring. And the Socratic motif is of utmost relevance. Socrates is, rules Heidegger, the “purest” of all Western thinkers; that purity is immediate to the fact “that he does not write.” Plato’s Phaedrus and the Platonic VIIth Letter express the primal contradiction between the serious pursuit of the Logos, of philosophic insight on the one hand, and writing on the other. The letter kills the spirit. The written text is mute in the face of responding challenge. It does not admit of inward growth and correction. Texts subvert the absolutely vital role of memory (Heidegger’s key-term, Erinnerung). It is the sophist, the rhetorician, the venial orator who commit their craft to writing. The true poet is an oral rhapsode. The true thinker, the authentic pedagogue above all, relies on face-to-face speech, on the uniquely focused dynamics of direct address, as these knit question to answer, and living voice to living reception. This theme of the abstention from writing of all responsible philosophic teaching is perennial in the Western tradition (as it is also in the Orient). We find it in a sharp guise in the practices of Wittgenstein, himself, like Heidegger, an anti-academic academic and scorner of the “profession of philosophy” in its conventional and publicist sense. (It is, I believe, the conjunctions in depth between Wittgenstein and Heidegger, the two foremost philosophic-linguistic thinkers of the age, so seemingly antithetical, which offer the most fertile ground for coming investigation and comprehension.)
+
+***This is what is wrong with AI, and it is something that will always be wrong with AI.***
+
+And similarly, it will be what is always wrong with the Internet, as it is what Heidegger said long ago when I first read Michael Heim’s *[Metaphysics of Virtual Reality](https://www.goodreads.com/book/show/1879758.The_Metaphysics_of_Virtual_Reality)* in the 90s.
+
+> "According to Heidegger, we notice the eclipse of the truth of being occurring already in Plato's metaphysics. Once the truth of being becomes equated with the light of unchanging intelligibility, the nature of truth shifts to the ability of statements to reflect or refer reliably to entities. With the steadiness of propositional truth comes the tendency to relate to being as a type, a form, or an anticipated shape. With being as a steady form, entities gain their reality through their being typified. Already in Plato we see the seeds of the Western drive to standardize things, to find what is dependable and typical in them. Truth as the disclosure process, as the play of revealing/ concealing dissappears behind the scene in which the conscious mind grasps bright objects apprehended as clear, unwavering, rational forms. As humans develop the ability to typify and apprehend formal realities, the loss of truth as emergent disclosure goes unnoticed. All is light and form. Nothing hides behind the truth of beings. But this "nothing" finally makes an appearance after the whole world has become a rigid grid of standardized forms and shapes conceived and engineered by humans. As the wasteland grows, we see the devastation of our fully explicit truths. We see that there is, must be, more. The hidden extra cannot be consciously produced. Only by seeing the limits of standardization can we begin to respond to it. We have to realize that each advance in typifying and standardizing things also implies a tradeoff. When we first reach forward and grasp things, we only see the benefits of our standardization, only the positive side of greater clarity and utility. it is difficult to accept the paradox that not matter how alluring, every gain in fixed intelligibility brings with it a corresponding loss of vivacity. Because we are finite, every gain we make also implies a lost possibility. The loss is especially devastating to those living in the technological world, for here they enjoy everything conveniently at their disposal -- everything that is, except the playful process of discovery itself."
+
+Thus I have always remembered that playful process of discovery, and it remains a key virtue as I write today.
+
+It’s not just the misinformation, disinformation and propaganda. It’s instant gratification of disingenuous curiosity. Nothing marks a charlatan so much as their rapid-fire recitations. So now I’m looking into the context of intellectual production in the destroyed Germany after WW1. Listen to the disillusioned and the destroyed who are screaming about The Struggle.
+
+PS. I hereby officially disclaim Ernst Bloch’s exhortation, although I kinda did before.
+
+"Humankind still lives in prehistory everywhere, indeed everything awaits the creation of the world as a genuine one... if human beings have grasped themselves, and what is theirs, without depersonalization and alienation, founded in real democracy, then something comes into being in the world that shines into everyone's childhood and where no one has yet been -- home."  
+\--*Ernest Bloch*
+
+The world is good today. Just avoid the evil. Easier said than done.

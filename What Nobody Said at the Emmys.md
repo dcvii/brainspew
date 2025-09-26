@@ -1,0 +1,50 @@
+---
+title: "What Nobody Said at the Emmys"
+source: "https://www.thefp.com/p/what-nobody-said-at-the-emmys?r=7br8e"
+author:
+  - "[[By Suzy Weiss]]"
+published:
+created: 2025-09-15
+description:
+tags:
+  - "clippings"
+---
+---
+
+---
+
+“ [Go, Birds](https://www.youtube.com/watch?v=Xn1s8FEpDkA&t=9s), fuck ICE, and free Palestine.”
+
+That’s how the actress Hannah Einbinder ended her acceptance speech for her first Emmy last night. (She played a struggling writer in the HBO show *Hacks*.) When pressed by reporters to expand on that final point, Einbinder, in her silvery gown, with the self-righteousness of a million actresses before her, explained that it was her sacred duty as a Jew, and as the newest Best Supporting Actress in a Comedy, to call out the Jewish state.
+
+“I thought it was important to talk about Palestine because it’s an issue that’s very dear to my heart,” [she said](https://www.nbcnews.com/news/us-news/hacks-star-hannah-einbinder-criticized-ice-shouted-free-palestine-emmy-rcna231320), her co-star Jean Smart by her side. “I feel like it is my obligation as a Jewish person to distinguish Jews from the state of Israel, because our religion and our culture is such an important and long-standing... institution that is really separate to this sort of ethno-nationalist state.”
+
+And just like that: peace in the Middle East.
+
+Not a single word was uttered during the awards ceremony about the assassination, days before, of [Charlie Kirk](https://www.thefp.com/p/je-suis-charlie-kirk), arguably the most high-profile killing of a political figure since the ’60s in this country. You know, the one where the Emmys take place, and where its nominees presumably live. What happened to Kirk, in the minds of the actors at the Emmys, was perhaps something that happened online, to someone uncool and on the wrong side of history. Kirk does not exist in their glittering snow globe. But, curiously, Israel looms very large in it.
+
+Einbinder wasn’t the only one who took on the thankless job of settling a centuries-long land war while wearing couture. Javier Bardem marched down the red carpet wearing a keffiyeh with his fist raised, and [told](https://variety.com/2025/tv/news/javier-bardem-gaza-genocide-palestine-film-workers-1236518172/) *[Variety](https://variety.com/2025/tv/news/javier-bardem-gaza-genocide-palestine-film-workers-1236518172/)*, “I cannot work with someone that justifies or supports the genocide.” [A few others](https://www.thecut.com/article/celebs-emmys-red-carpet-advocate-gaza.html) wore red “Artists4Ceasefire” pins to complement their gowns and dress shirts. Meg Stalter, who starred in Lena Dunham’s *Too Much*,carried a black purse that had “ [Cease fire!” scrawled over it](https://people.com/meg-stalter-wears-jeans-tshirt-2025-emmys-11809686). “We have to use our platforms and say what’s important to us. What’s the point of being at these big events if you’re not going to use your privilege? [said Stalter](https://www.instagram.com/reel/DOnAObKiVCK/). Then, to the camera, about her outfit, she said: “Get a ass shot! Get a ass shot!”
+
+“While an orgy of champagne anti-Zionism was taking place at the Emmys, something very different was happening in the nation’s capital,” writes Suzy Weiss. (Robert Gauthier/ *Los Angeles Times* via Getty Images)
+
+All this comes days after about [3,000 Hollywoood insiders](https://www.jta.org/2025/09/10/culture/emma-stone-jonathan-glazer-join-growing-list-of-hollywood-figures-boycotting-israeli-film-institutions) —including Einbinder, Bardem, Emma Stone, and Bowen Yang—signed on to a boycott of Israeli filmmakers and institutions that are alleged to be “implicated in genocide and apartheid against the Palestinian people.” (To its credit, Paramount [strongly denounced](https://variety.com/2025/film/news/paramount-condemns-israeli-film-boycott-1236516511/) the boycott). [The signatories](https://www.jta.org/2025/09/08/culture/gael-garcia-bernal-ilana-glazer-ayo-edebiri-among-hollywood-a-listers-pledging-to-boycott-israeli-film-institutions) are quick to point out that it’s not Israeli individuals that they’re boycotting, but institutions they say are “implicated,” along with the government. They are less quick to grapple with the “implications” of equating a country’s cultural institutions with the actions of their government.
+
+While an orgy of champagne anti-Zionism was taking place at the Emmys, something very different was happening in the nation’s capital: A vigil was held for Charlie Kirk at the Kennedy Center in D.C. There, Speaker Mike Johnson [praised Kirk’s commitment](https://www.youtube.com/watch?v=tPf9mQLz-cI) to the “free marketplace of ideas.” RFK Jr. called Kirk his “ [spiritual brother](https://people.com/rfk-jr-calls-charlie-kirk-his-soulmate-at-massive-kennedy-center-vigil-11809926).” The audience chanted: “U-S-A.”
+
+Have two events ever illuminated the two realities that Americans find themselves in in 2025? On one hand, you have cultural elites throwing their star power behind a war that America isn’t actually fighting in. On the other, [hundreds of normal people](https://www.usatoday.com/story/news/nation/2025/09/14/charlie-kirk-kennedy-center-vigil/86156026007/), in addition to politicians, gathered in real life, to mourn a political assassination on U.S. soil.
+
+Are the leaders of Hamas that are holed up in high-rises in Qatar waiting to hear what Einbinder has to say? Or what’s written on Stalter’s purse? Of course not.
+
+The irony is that, much more than recent prestige television, Kirk was able to hold the focus of young Americans—with [his podcast](https://thecharliekirkshow.com/podcasts/the-charlie-kirk-show) and the debates he would have on college campuses and his videos. [YouTube,](https://www.wsj.com/business/media/how-youtube-won-the-battle-for-tv-viewers-346d05b8?gaa_at=eafs&gaa_n=ASWzDAjnpK61BpwchUjC__IaTi2p9kk6EQSlpEQJgpSr8-SzlH5OwWYFYDmSTaBPgKY%3D&gaa_ts=68c858ff&gaa_sig=B1k_0dcAl2qfyPsMO7vezdAMmZa2CCcWqWgvS39ZJ15h-IMB4shtWYLXfovQB4N5N5CF7kOZJRtV42K5G0cInA%3D%3D) not cable, is where more and more young people find their entertainment. Kirk ascended to the ranks of political power so quickly and so effectively in part because Hollywood decided to talk more and more only to itself. As my colleagues reported last week, young Americans who felt alienated from their peers [flocked to Kirk](https://www.thefp.com/p/what-charlie-kirk-meant-to-me-youth-college-politics), and soon enough, they made their own media ecosystem.
+
+What strikes me about the kvetching at this year’s Emmys is the casualness of it. It seems these actors are doing more to trivialize what’s going on in Gaza—“Go, Birds? Get a ass shot?”—than they are bringing any new awareness or nuance to the conflict. Are the leaders of Hamas that are holed up in high-rises in Qatar waiting to hear what Einbinder has to say? Or what’s written on Stalter’s purse? Of course not. Einbinder is speaking instead to another crowd: the in-crowd, the people with whom she is desperate to communicate that she is one of the good Jews. That she isn’t one of *them*, over there. She doesn’t like that place where they have to bitterly fight, and fear for their families, and on top of all that—get put down by Einbinder from a theater in LA.
+
+Actors speaking out of turn on heavy subjects is as storied a legacy as saying, “Break a leg.” Who can forget when Marlon Brando had [Sacheen Littlefeather](https://www.sfchronicle.com/opinion/openforum/article/Sacheen-Littlefeather-oscar-Native-pretendian-17520648.php), in a full indigenous getup, accept his Oscar for *The Godfather* to protest the siege of Wounded Knee and Native American representation in film? (It later came out that Littlefeather lied about her heritage.) Or even last year when Jonathan Glazer, the director of *The Zone of Interest* —a film about the actual Holocaust—complained that his Jewish identity was being “ [hijacked by an occupation](https://www.nytimes.com/2024/03/10/movies/jonathan-glazer-the-zone-of-interest-oscars-speech-israel-gaza.html) ”? I’m reminded of the brilliant instructions of Ricky Gervais at the [Golden Globes in 2020](https://www.youtube.com/watch?v=LCNdTLHZAeo). “Accept your little award, thank your agent, and your God, and fuck off.”
+
+But at this year’s Emmys, it was the gleeful vilification—combined with the willful ignorance of the terrifying political reality in our own country—that was so chilling. And in the end, maybe the Hamas leaders are watching via the TVs in the Doha Hilton: After the awards show—while Einbinder [bravely did an outfit change](https://www.instagram.com/p/DOoTPa6iep2/?img_index=1), lounged on a sofa, smoked a cigarette, and got a haircut—she was praised uproariously online, including by the [Quds News Network](https://qudsnen.co/free-palestine-hannah-einbinder-javier-bardem-among-emmy-stars-calling-for-end-to-israels-gaza-genocide/), an organization that’s [affiliated with](https://www.state.gov/report/custom/1cca9228eb) Hamas (although the network [claims to be](https://qudsnen.co/about-quds/#:~:text=Quds%20News%20Network%20\(QNN\)%20is,writers%20with%20various%20political%20orientations.) “independent”). The Emmys had censored Einbinder’s expletive about ICE; however, the Islamist network censored the actress’s shoulders and cleavage [by blurring](https://nypost.com/2025/09/15/us-news/hamas-mouthpiece-censors-hannah-einbinders-bare-shoulders-in-propaganda-video-praising-her-free-palestine-emmys-message/) the photo, presumably not to offend those who might appreciate Einbinder’s message but not her immodest, skin-baring dress.
+
+I guess you can’t win ’em all.
+
+[
+
+](https://substackcdn.com/image/fetch/$s_!jb2e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2beecf2d-cfb2-4713-a7d3-667fa99c6130_1320x30.heic)
