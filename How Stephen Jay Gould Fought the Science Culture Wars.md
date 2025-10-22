@@ -1,0 +1,40 @@
+---
+title: "How Stephen Jay Gould Fought the Science Culture Wars"
+source: "https://jacobin.com/2025/01/stephen-jay-gould-sociobiology-gender"
+author:
+  - "[[Myrna Perez]]"
+  - "[[Oliver Eagleton]]"
+  - "[[Nika Soon-Shiong]]"
+  - "[[David Broder]]"
+  - "[[Suzy Lee]]"
+  - "[[Simon Grassmann]]"
+  - "[[Tina Sikka]]"
+  - "[[Helena Sheehan]]"
+  - "[[Matthew Lau]]"
+published: 2025-01-12
+created: 2025-10-20
+description: "In the 1970s, a crop of books purporting to provide a scientific basis for gender inequality met sharp criticism from figures like Stephen Jay Gould. Decades later, these debates have fallen out of public memory, but right-wing pseudoscience persists."
+tags:
+  - "clippings"
+---
+[New issue, “Borders,” out now. Get a discounted subscription to our print magazine today. Your support keeps us publishing!](https://jacobin.com/subscribe/?code=BORDERS)
+
+The issue of biological determinism is not an abstract matter to be debated within academic cloisters. These ideas have important consequences.... The most immediate impact will be felt as male privilege girds its loins to battle a growing women’s movement.
+
+—Stephen Jay Gould, “The Nonscience of Human Nature,” 1974
+
+The American evolutionary biologist and historian of science Stephen Jay Gould’s column for *Natural History* magazine began as a way to balance the political convictions of his civil rights experiences with his desire to revolutionize evolutionary theory. As his career soared to new heights in later decades, his professional ambitions eventually eclipsed his leftist politics. But in the late 1970s, he was still using the column to address contemporary debates over science and politics. In the spring of 1976, he decided to weigh in on a controversy close to home with a column titled “Biological Potential vs. Biological Determinism,” which joined in the leftist criticism of the biologist Edward O. Wilson’s 1975 book *Sociobiology: The New Synthesis.*
+
+By then, he and Wilson had been colleagues in Harvard’s biology department for several years. At first glance, Wilson’s book might not have appeared to be the most likely candidate to spark leftist outrage. It was a long academic volume that synthesized empirical work on a host of animal taxa with the aim of clarifying a new program for the evolutionary study of social behavior. Wilson was convinced that the qualities of social life — e.g., aggression, cooperation, and hierarchies — were as much a product of natural selection as were physical traits. And in what would become an infamous last chapter, he extended this argument to the study of human societies. The book was far more empirically grounded in its treatment of human evolution than the popular works of Robert Ardrey, Konrad Lorenz, and Desmond Morris, which had fed into narratives of inevitable race war at the height of civil rights activism. Nevertheless, *Sociobiology* was at the heart of the most consequential debate between the leftist and liberal perspectives on science and American democracy of the era.
+
+Wilson’s writings became a flash point as a new set of evolutionary models of sex difference clashed with the political demands of an intense phase of the American women’s movement. New legal triumphs that guaranteed the right to contraception for married couples, the right to abortion, and protections against sex-based discrimination were counterbalanced by a ferociously energetic conservative Christian movement that fought against the Equal Rights Amendment and any possibility of changing women’s place in American society. Even as women across the country reimagined their roles at home, at work, and at church — and pushed for the legal protections to do so — reactionary politics continually insisted on limiting what women could do and be.
+
+It was in the midst of this political tumult that Wilson’s book (alongside other texts on the evolution of social behavior, including Richard Dawkins’s 1976 *The Selfish Gene*) promoted a new evolutionary narrative that claimed that contemporary American gender roles were the products of prehistoric adaptations encoded in humanity’s genes. Sociobiologists like Wilson and Dawkins envisioned a prehistoric past in which women gathered food and lived in family camps, while men went out to hunt and seek new sexual partners. In subsequent decades, scientists and nonscientists alike would deploy this narrative in both scientific and popular settings to rationalize gender disparities in STEM fields and the workplace and to naturalize rape. Gould’s criticism of Wilson was joined by critiques developed by other leftists from the sciences and the humanities, who viewed sociobiology as reactionary politics rather than sound science. And the sustained protest against the sexism of sociobiology over the next two decades would be led by the leaders of feminist science collectives, including Ruth Hubbard, a biologist at Harvard, and Ethel Tobach, a psychologist at the American Museum of Natural History.
+
+Before sending his column on sociobiology to *Natural History* for publication, Gould sent a draft of it to Wilson. Wilson’s outraged reply and the subsequent exchange between the two men reveals far more than just the contours of their personal animosity. As expressed in his letters to Gould and in later publications, Wilson had a more classically liberal view of science’s proper role in American democracy. Liberals view science as truthful knowledge that serves as a foundation for an enlightened society to guarantee equality and enact rational governance. Thus, they consider science essential for democracy, but they do not prioritize a democratic approach to the actual practice of science. As liberals see it, even when science is only done and understood by a few elite white men, the reliability of its knowledge of the natural world enables it to be the foundation of an equitable society.
+
+This understanding of science and democracy was unacceptable to Gould, as well as to other leftists in the radical and feminist science circles that protested Wilson’s book. Although their understanding of science for the people was by no means consistent, members of these movements shared a conviction that the elitism of science impeded its capacity to support democracy. For leftists, the inclusion of women and minoritized racial groups in the professional practice of science was essential if science was to contribute to a progressive society. Wilson, for his part, characterized the attacks by Gould and others in what became known as the Sociobiology Study Group (SSG) as an attempt to restrict the freedom of scientific research and a worrisome sign of intellectual censorship.
+
+By the end of the century, many public scientific liberals would castigate both Gould’s historical accounts of scientific racism and the feminist accounts of gender bias in science as “anti-scientific.” But the history of this late 1970s moment reveals that neither Gould nor feminist scientists saw their criticisms of sociobiology as anti-science. In fact, they understood the debate to be a conversation within the scientific community about the evidence for a new model within evolutionary science.
+
+They believed that a better science, one that acknowledged the pitfalls of gender and racial bias, could be achieved through collective self-reflection on the motivations and practices of scientific work. And this better science could, in turn, be used to combat what these leftist academics feared were reactive and oppressive political actions. Their willingness to address the role of social influence in science and to publicly criticize current scientific research, however, set the stage for a new cultural divide. By the end of the century, sociobiology had claimed the mantle of scientific authority on human sexuality. And feminist and other leftist academics struggled to stave off accusations that their approach to scientific knowledge was itself anti-scientific.

@@ -1,0 +1,44 @@
+---
+title: "To See the World From the Wars"
+source: "https://phillipspobrien.substack.com/p/to-see-the-world-from-the-wars?publication_id=1176440&post_id=176642714&isFreemail=true&r=7br8e&triedRedirect=true"
+author:
+  - "[[Minna Ålander]]"
+published: 2025-10-20
+created: 2025-10-21
+description: "In this week's Europe Dispatch, Minna Ålander calls for more teamwork between Europe and like-minded Indo-Pacific countries to survive in the competitive era of world orders."
+tags:
+  - "clippings"
+---
+### In this week's Europe Dispatch, Minna Ålander calls for more teamwork between Europe and like-minded Indo-Pacific countries to survive in the competitive era of world orders.
+
+Hello Everyone,
+
+Europe’s biggest problem at the moment is that it lacks the bandwidth to look beyond the most urgent crises and see the big picture of a world order that is changing to Europe’s disadvantage. The perceived lack of bandwidth is self-inflicted, as Europe as a whole would have the resources to think more strategically – but it would require playing as a team. Instead of each European country trying to maximise the size of its piece of the cake, Europeans would have to start baking the cake together.
+
+Yours,
+
+Minna
+
+**To See the World From the Wars**
+
+Europe’s attention and resources are nearly completely focused on the immediate task of helping Ukraine survive the Russian onslaught, and rightly so. However, beyond the European security order shattered by Russia, the world order is undergoing a tectonic shift, kicked off by the Russian full-scale war against Ukraine and accelerated by Donald Trump’s second term in office. But the recent disruptive events are only a contribution to a process that has been in the making for decades. China has been working within the Western-led international system to prepare to gradually challenge the very same order – not so much from within, but rather by building an alternative world order.
+
+In Trumpian parlance, China has a lot of cards. The latest threat of [sweeping export restrictions for rare earths](https://edition.cnn.com/2025/10/09/business/china-tightens-rare-earth-export-controls-intl-hnk) is one such trump card, hopefully only intended as a negotiation chip for the planned [meeting between Donald Trump and Xi Jinping](https://www.reuters.com/world/china/trump-track-meet-xi-south-korea-bessent-says-2025-10-13/) later this year. But it is yet another demonstration of China’s long-term plan to become so essential a part of the global supply chains that it can force others to bend to its will by threatening to disrupt access to critical resources. Trump, on the other hand, has so far mainly managed to inflict damage on America.
+
+Meanwhile, China is showing increasing willingness to take a leading role in alternative international institutions and formats such as BRICS+, the Shanghai Cooperation Organisation, and a [new international mediation body](https://www.france24.com/en/live-news/20250530-china-establishes-global-mediation-body-in-hong-kong) in Hong Kong that aims to be on par with (and thus rival) Western organisations such as the International Court of Justice in the Hague. So far China’s intention does not seem to be to take over or to replace the Western-led order, but to gradually build an alternative order that rivals the still existing one.
+
+This strategy poses a massive challenge for Europe, Canada, and US allies in the Indo-Pacific, such as Australia, South Korea, and Japan. Not only is China a direct threat to the security of the aforementioned Indo-Pacific countries, but an alternative order with different rules will make it much harder for the EU to uphold its standards and to project its regulative power. It is also still unclear which order the US, which is currently for some reason fighting the system that was its own creation, will align with. The question is then for the EU, whether it is possible to conserve the old international rules-based order in the EU bubble, or can the multilateral order (that also Canada and the like-minded Indo-Pacific countries want to preserve) keep existing in pockets linked to each other?
+
+Europe and its like-minded partners are in essence a group of US allies that are now trying to figure out together how to deal with potential abandonment by the US. In order to maximise their leverage, they have to become much better at identifying shared interests. No single European or Indo-Pacific country has the resources to do and see everything, but through a more efficient division of labour these countries can make sure that they as a collective retain influence and presence where it counts, particularly in the contested parts of the world.
+
+Unfortunately, we are not yet there – not even within the EU. The logic remains for every member state to maximise their share of the EU cake, instead of seeing how they collectively could make the cake bigger by adding ingredients. One instance where Europeans are not seeing the forest for the trees is the dwindling European presence and influence in Africa. Russia and to a certain extent Turkey are filling the military vacuum left by European forces, and China offers an illusion of a more equal partnership – which often turns out to be a debt trap, but that still has to sink in on a wider level. A smart European strategy would look at which European countries are still able to positively engage in Africa, be it in trade or in development cooperation if military presence is too long a shot. Making sure that those channels are kept open would be worthy of a team effort, for a European advantage that goes beyond member states’ national policies.
+
+For example Sweden is currently reducing its development cooperation with Africa, ostensibly to redirect resources to Ukraine. That is a false dichotomy. A country like Sweden could and should probably afford both its strong support for Ukraine, and to maintain its other commitments. Sweden enjoys a better reputation in Africa than the old colonial powers, which could enable Europe to work through those countries that can constructively offer an alternative for the increasing Russian and Chinese influence.
+
+The second example is the Russian charm offensive in the Indo-Pacific, gaining ground especially in [Indonesia](https://www.dw.com/en/indonesia-inks-strategic-partnership-with-russia/a-72978138). There, again, the old European colonial powers are more likely to make matters worse, but the Baltic states with their experience of Russian colonialism could have a real impact on the perception of Russia if they pooled resources to engage more with Indonesia. Russia profits from the historical Soviet ties to the non-aligned movement in the Cold War, when the Soviet Union was unironically perceived as the anti-imperialist power in the bloc confrontation. This is especially relevant in the case of India, whose close relations with Russia date back to the Soviet times. In 1988, [a previous Indian foreign secretary described](https://www.jstor.org/stable/2645298) the relations as “not a matter of temporary convenience or expediency, but the corner stone of our foreign policies”. Russia has some very important cards what comes to India, with the booming bilateral trade driven by Russian energy exports. The military-technological relationship is fairly deep but in [a declining trend](https://warontherocks.com/2025/08/why-russian-indian-relations-have-been-steady-in-the-storm/). Despite its relations with Russia, India is an important player in the Indo-Pacific and a counterweight to China that the European-Indo-Pacific alliance needs to engage with. We lack the leverage to force India to pick a side, so a long-term strategy needs elements of both stick and carrot.
+
+![](https://substackcdn.com/image/fetch/$s_!u-Ve!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F412f0498-dfa3-4d45-8e1b-32e2262a88c7_960x676.jpeg)
+
+Narendra Modi with Vladimir Putin of Russia & Xi Jinping at the SCO Summit 2025 in Tianjin, China on September 01, 2025. Photo: Prime Minister’s Office, Government of India
+
+Given the number of urgent crises and the short-sightedness resulting from electoral cycles, democracies in Europe and the Indo-Pacific risk missing opportunities to shape the emerging configuration of world orders. At the same time, this is not just a black and white competition of democracies vs. autocracies and will require us to tolerate much more moral ambiguity than we are used to especially in Europe. In order to survive in the new competitive world order(s), where multiple sets of rules may apply, Europe and the like-minded Indo-Pacific countries must define and defend their shared interests in a concerted effort. Only then we may be able to maintain our pockets of democratic rule of law.
