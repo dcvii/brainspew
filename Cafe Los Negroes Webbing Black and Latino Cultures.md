@@ -8,8 +8,8 @@ description:
 tags:
   - "clippings"
 ---
-|  | ![](https://static01.nyt.com/images/1bancyber.gif) |
-| --- | --- |
+|     | ![](https://static01.nyt.com/images/1bancyber.gif) |
+| --- | -------------------------------------------------- |
 
 > > ##### May 27, 1996
 > > 
