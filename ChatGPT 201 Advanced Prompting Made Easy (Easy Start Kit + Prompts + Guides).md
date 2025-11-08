@@ -1,13 +1,14 @@
 ---
 title: "ChatGPT 201: Advanced Prompting Made Easy (Easy Start Kit + Prompts + Guides)"
-source: "https://natesnewsletter.substack.com/p/chatgpt-201-advanced-prompting-made?publication_id=1373231&post_id=178041786&isFreemail=false&r=7br8e&triedRedirect=true"
+source: https://natesnewsletter.substack.com/p/chatgpt-201-advanced-prompting-made?publication_id=1373231&post_id=178041786&isFreemail=false&r=7br8e&triedRedirect=true
 author:
   - "[[By Nate]]"
 published:
 created: 2025-11-05
 description:
 tags:
-  - "clippings"
+  - clippings
+  - prompts
 ---
 ---
 

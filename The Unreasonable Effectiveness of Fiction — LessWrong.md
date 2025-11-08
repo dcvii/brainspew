@@ -1,0 +1,122 @@
+---
+title: "The Unreasonable Effectiveness of Fiction — LessWrong"
+source: "https://www.lesswrong.com/posts/uQak7ECW2agpHFsHX/the-unreasonable-effectiveness-of-fiction"
+author:
+  - "[[Raelifin]]"
+published: 2025-11-03
+created: 2025-11-06
+description: "[Meta: This is Max Harms. I wrote a novel about China and AGI, which comes out today. This essay from my fiction newsletter has been slightly modifie…"
+tags:
+  - "clippings"
+---
+*\[Meta: This is* [*Max Harms*](https://www.lesswrong.com/users/max-harms)*. I wrote* [*a novel about China and AGI*](https://maxharms.com/redheart)*, which comes out today. This essay from* [*my fiction newsletter*](https://raelifin.substack.com/) *has been slightly modified for LessWrong.\]*
+
+In the summer of 1983, Ronald Reagan sat down to watch the film [*War Games*](https://en.wikipedia.org/wiki/WarGames)*,* starring Matthew Broderick as a teen hacker. In the movie, Broderick's character accidentally gains access to a military supercomputer with an AI that almost starts World War III.
+
+![WARGAMES (1983) | "Shall We Play A Game?" Scene | MGM](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/uQak7ECW2agpHFsHX/lwpxxmizqgtaqsqr9omx)
+
+“The only winning move is not to play.”
+
+After watching the movie, Reagan, newly concerned with the possibility of hackers causing real harm, ordered a full national security review. The response: “ [Mr. President, the problem is much worse than you think](https://www.nytimes.com/2016/02/21/movies/wargames-and-cybersecuritys-debt-to-a-hollywood-hack.html).” Soon after, the Department of Defense revamped their cybersecurity policies and the first federal directives and laws against malicious hacking were put in place.
+
+But *War Games* wasn't the only story to influence Reagan. His administration pushed for the Strategic Defense Initiative ("Star Wars") in part, perhaps, because the central technology—a laser that shoots down missiles—resembles the core technology behind the 1940 spy film [*Murder in the Air*](https://en.wikipedia.org/wiki/Murder_in_the_Air_\(film\)), which had Reagan as lead actor. Reagan was apparently such a superfan of [*The Day the Earth Stood Still*](https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still) that he repeatedly told General Colin Powell (and [Mikhail Gorbachev](https://www.smithsonianmag.com/smart-news/reagan-and-gorbachev-agreed-pause-cold-war-case-alien-invasion-180957402/)!) that the USA and the USSR could find peace [if only there was an alien invasion](https://www.express.co.uk/news/weird/571434/Reagan-asked-Soviets-defeat-alien-invasion).
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/President_Ronald_Reagan_and_Colin_Powell.jpg/960px-President_Ronald_Reagan_and_Colin_Powell.jpg](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/uQak7ECW2agpHFsHX/k89xxdl9opkvvlvpzkuo)
+
+Mr. President, I'm afraid this movie poster is mostly a reflection of cognitive biases, rather than the universal attractiveness of hot babes.
+
+Reagan isn't the only important figure to be heavily influenced by fiction. Joe Biden reportedly [grew concerned about AI](https://variety.com/2023/film/news/joe-biden-worried-ai-mission-impossible-dead-reckoning-1235775115/) after watching Mission: Impossible. Elon Musk credits Douglas Adams for [guiding him](https://fs.blog/elon-musk-book-recommendations/) through a childhood existential crisis, giving [credit](https://x.com/elonmusk/status/1007665949044928517) to him and Isaac Asimov for shaping his philosophy.[^1] The stories of Robert Heinlein also likely served as inspiration for privatizing spaceflight and the development of reusable rockets.
+
+[Leo Szilard said](https://skullsinthestars.com/2011/06/11/h-g-wells-the-world-set-free-1914/) of H.G. Wells' 1914 novel [*The World Set Free*](https://en.wikipedia.org/wiki/The_World_Set_Free), the first use of the term “atomic bomb”: “The book made a very great impression on me, but I didn’t regard it as anything but fiction.... I had not been working in nuclear physics up to that time.” But the book came to mind in 1933 when Ernest Rutherford claimed that harvesting nuclear power was hopeless and drove Szilard to prove him wrong, starting the first artificial nuclear chain reaction nine years later.
+
+Similar stories surround other inventions, such as Simon Lake's development of the [ocean-going submarine](https://ussnautilus.org/simon-lake-and-the-submarine-contest-of-1893/) (via Jules Verne),[^2] Charles Hall's patent for [waterbeds](https://en.wikipedia.org/wiki/Waterbed#Heinlein_descriptions) (Robert Heinlein), and Jack Cover's invention of TASERs (named after " [Tom A. Swift's Electric Rifle](https://en.wikipedia.org/wiki/Tom_Swift_and_His_Electric_Rifle) "). Major figures such as [Carl Sagan](https://warwick.ac.uk/fac/sci/physics/research/astro/people/stanway/sciencefiction/cosmicstories/the_echo_of/), [Mae Jemison](https://www.perotmuseum.org/events/children-and-families/stemleaders/mae-jemison/), [Tim Berners-Lee](https://www.independent.co.uk/news/science/arthur-c-clarke-science-fiction-turns-to-fact-799519.html), [Sergey Brin](https://www.inc.com/business-insider/google-sergey-brin-favorite-books.html), [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak#:~:text=In%20his%20autobiography%2C%20iWoz%2C%20he%20also%20credits%20the%20Tom%20Swift%20Jr.%20books%20as%20an%20inspiration%20for%20becoming%20an%20engineer.), [Werner von Braun](https://www.amazon.com/Voice-Dr-Wernher-von-Braun/dp/1894959647#:~:text=As%20a%20youth%20he%20became%20enamored%20with%20the%20possibilities%20of%20space%20exploration%20by%20reading%20the%20science%20fiction%20of%20Jules%20Verne%20and%20H.G.%20Wells), and [Robert Goddard](https://www.britannica.com/biography/Robert-Goddard) were all heavily inspired by science fiction in one way or another.
+
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/uQak7ECW2agpHFsHX/lrs6ujxceefrpkdchdmf)
+
+This SpaceX floating platform is named "Of Course I Still Love You"—a reference to a spaceship from Iain Banks' Culture novels.
+
+Fiction has the power to excite, inspire, and change minds beyond the realms of science and technology, of course. Obvious examples include:
+
+- Upton Sinclair's [*The Jungle*](https://en.wikipedia.org/wiki/The_Jungle) led to a revolution in food processing safety.
+- Harriet Beecher Stowe's [*Uncle Tom's Cabin*](https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin) was hugely influential in arguing for the abolition of slavery, and arguably in pushing the USA towards civil war.
+- George Orwell's [*Nineteen Eighty-Four*](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) had such a strong impact on culture and the conception of tyranny that it coined multiple neologisms (e.g. doublethink, thoughtcrime, and memory hole) and is still regularly [cited by](https://www.washingtonexaminer.com/opinion/beltway-confidential/1717499/ted-cruz-cites-george-orwells-1984-warning-of-all-powerful-central-government/) various [politicians](https://leftfootforward.org/2024/09/boris-johnsons-orwell-britain-column-draws-widespread-mockery/).
+
+Most of the impact of fiction isn't high-profile or easily sourced. It comes in the form of countless small nudges. Even if we can't say for sure that any particular story was the cause of something, those nudges add up. My brother-in-law grew up watching [*Alias*](https://en.wikipedia.org/wiki/Alias_\(TV_series\)) and then aimed, in high school, to become a federal agent.[^3] I grew up reading [*Dune*](https://en.wikipedia.org/wiki/Dune_\(novel\)) and became a transhumanist who spends all day thinking about superintelligence. Multiple people in the AI Safety space have credited my novel [*Crystal Society*](https://crystalbooks.ai/) for waking them up about the risks of AI, and changing their life.
+
+And of course, [*Harry Potter and the Methods of Rationality*](https://hpmor.com/) by Eliezer Yudkowsky (who was himself [highly influenced by science fiction](https://equilibriabook.com/hero-licensing/#:~:text=The%20World%20of%20Null%2DA%20was%20an%20inspiration%20to%20me%20as%20a%20kid)) has been cited as central in getting various AI researchers involved in trying to reduce existential risk, including [Neel Nanda](https://80000hours.org/podcast/episodes/neel-nanda-career-advice-frontier-ai-companies/#:~:text=I%20came%20across%20this%20really%20good%20Harry%20Potter%20fan%20fiction), [Alex Turner](https://www.lesswrong.com/posts/HL6x8zHo9BkuK3tic/transcript-you-should-read-hpmor), and [Mihály Bárász](https://intelligence.org/2015/08/31/final-fundraiser-day-announcing-our-new-team/). It was arguably [^4] more important in growing and shaping the Rationality community than *The Sequences*, having innumerable knock-on effects.
+
+## AI in Particular
+
+Appreciating the power of fiction is an important general lesson, but I admit that I have a particular interest in it on the topic of artificial intelligence. When I first started writing about AI, the notion that someone could have a natural-language conversation with their computer was clear science-fiction. It is now science-fact. And yet, there are approximately zero stories about AI that are grounded in the technology that now exists. The [few](https://en.wikipedia.org/wiki/M3GAN) [pieces](https://en.wikipedia.org/wiki/Service_Model) [of](https://en.wikipedia.org/wiki/Companion_\(film\)) [modern](https://en.wikipedia.org/wiki/Atlas_\(2024_film\)) [fiction](https://en.wikipedia.org/wiki/The_Murderbot_Diaries) that have come out in this new LLM-age are mostly still mired in old views, and are usually, at best, "the AI acts basically like a weird human."
+
+AIs have texture. They have dynamics and details. They are mysteries to most people. Even those who frequently use chatbots often have little understanding of what is going on behind the scenes, what is possible now, or what might be possible in just a couple years. The world is ripe for a truly great piece of AI fiction that educates as much as it entertains, and gets the world to really grapple with the presence of these new minds.
+
+Is [my new novel](https://maxharms.com/redheart) that story? Probably not. But I'm *trying.* And I think it's worth thinking about whether you (if you have some combination of storytelling skill and technical insight) ought to be trying too. If we don't find something soon, we run the risk of having the next big, break-out AI story be about hippy robots saving humanity from dehydration by shutting down their factories and [wandering off](https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built) into the [woods](https://en.wikipedia.org/wiki/The_Wild_Robot).[^5]
+
+![Overwatch 2 - Heroes - Bastion](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/uQak7ECW2agpHFsHX/afl7nbrjmovqo8ceu7iz)
+
+Overwatch 2 - Heroes - Bastion
+
+## What's Going On Here?
+
+Of course, not everyone is driven by fiction. For every person who says they chose their career because they resonated with a story, there will be several others who chose their field because of real-world inspirations, pragmatism, or random opportunity. And for those who haven't had their lives and worldviews shaped by fiction, this can all seem overblown. Perhaps my enjoyment of *Dune* and my affinity for transhumanism are both downstream of some genetic disposition. Perhaps Reagan's interest in the Strategic Defense Initiative was on its merits, and the connection to *Murder in the Air* is a coincidence.
+
+To bolster the large number of self-reports, I want to present a collection of *a priori* reasons to expect fiction to change people's minds in ways that can often be more potent than non-fiction:
+
+- [**The Conjunction Fallacy**](https://en.wikipedia.org/wiki/Conjunction_fallacy) — Humans can infamously give more credence to specific, detailed statements, rather than more general descriptions, even when the general description strictly covers a superset of the detailed one. This bias probably stems from multiple factors, but one likely factor is that detailed stories (that feel real) are more likely to come from a mind that has engaged with the [surprisingly detailed](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) real world. If a story lacks details, one implicitly reasons, it is likely fabricated, or at least coming from someone who doesn't know very much about the domain. Well-written fiction exploits this bias, carrying an implicit feeling of reality even when it's explicitly flagged as untrue.[^6]
+- **Less Defensiveness and Backfiring** — One of my favorite things, as an author, is writing characters who have a worldview that I disagree with. In my new novel, [*Red Heart*](https://maxharms.com/redheart), for instance, I got to write several characters who were various flavors of Chinese communists. Writing these characters, I get to explore new perspectives and try on ideas that I normally reject. I don't need to yell at the page to debunk Chinese communism; they're "just characters in a novel," after all. If they're wrong, it's often assumed that readers will see that. By contrast, nonfiction can backfire, convincing readers that the author is an intellectual opponent that needs to be argued against, either to themselves or on the internet or whatever. People are significantly [less identitarian/political](https://www.theguardian.com/books/2016/oct/12/goodreads-study-books-bridge-political-divide-america) when deciding which stories to consume.[^7]
+- **Deep Attention** — Stories are entertainment. They are crafted, first and foremost, to be engaging and hold the reader's attention. 300 pages of thriller novel can fly by in a weekend, while most people never read 300 consecutive pages of dry non-fiction in their entire life. I've talked to many laypeople who read all the way through [*AI 2027*](https://ai-2027.com/), but who never would've found the motivation to read a technical paper half as long. By shaping themselves to the easiest form-factor, fiction authors thus have an unrivaled ability to get readers to attend to a set of ideas for a long period of time, giving those readers the space to think deeply and resist the storm of omnipresent distractions.
+- **Authorial Freedom** — Reality is full of inconvenient facts! If you want to argue for something, it's often much easier to contrive of a situation where the world is conveniently set up to showcase the thing you want to focus on. We can see this in action in theoretical physics, where fictional thought experiments are constructed to highlight and demonstrate important principles that would be easy to dismiss in a real-world context. Did Putin rise to power by orchestrating [bombings](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings) against the Russian people, or is this just a conspiracy theory? Did covid escape from a lab? Are some modern LLMs actually power-hungry, or are they just roleplaying? Irrelevant! Just treat the issues as a given fact within the plot of your story and you can freely explore the consequences.
+- **The Power of Vibes and Memes** — Humans are compelled by many things. Rational arguments based on data have some degree of effectiveness on some people... but far, far more people are motivated by how things *feel*. What's cool? What's exciting? What's hilarious? No statistical analysis will ever come close to the memorability or virality of a good joke. Stories speak primarily to the parts of the mind that listen. Is it any wonder that they can have such a strong impact?
+
+![What if Neo Took the Blue Pill](https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/uQak7ECW2agpHFsHX/psl1ihcsea6sdhmt4eph)
+
+## Authorial Responsibility
+
+> [Nonfiction writing conveys facts; fiction writing conveys *experiences.*](https://equilibriabook.com/hero-licensing/#:~:text=nonfiction%20writing%20conveys%20facts%3B%20fiction%20writing%20conveys%20experiences)
+> 
+> — Eliezer Yudkowsky
+
+Unfortunately, with the possible exception of decreased defensiveness, all of the dynamics discussed above are [dual-use](https://slatestarcodex.com/2017/03/24/guided-by-the-beauty-of-our-weapons/). For every beautiful story that brings the reader into contact with an important truth, there is at least one other, almost as beautiful, that risks infecting them with falsehood. When you stop being beholden to facts, you run the risk of optimizing too much for persuasion, and not enough for rigor.
+
+This risk is most pronounced when it's woven into the background, or presented as serious physics in domains where people don't have a lot of first-hand experience. Magic and unrealistic physics are fun! I am not demanding that every story with dragons have a plausible evolutionary history where the caloric expenditure of breathing fire makes sense, or that every spaceship take years to travel between the stars. But still, thanks to TV and movies, many people don't realize that that [getting hit with a bullet causes almost no knockback](https://www.youtube.com/watch?v=dnvIgc-Pt3s), that [guns with "silencers" are still loud](https://www.youtube.com/watch?v=ivL-KHS9IMw), and that [firing a gun into the air can be deadly](https://www.youtube.com/watch?v=aCEoOHxyruI).[^8]
+
+The problem comes when the unrealistic bits of a story aren't recognized as fictional by the audience, either because the author was mistaken about something, or because they failed to flag things clearly. This can be particularly pernicious in the domains of psychology, sociology, and economics, where subtle misconceptions and cognitive biases are passed from author to reader. Every plucky rebel is fighting a tyrannical empire. Every environmental catastrophe is the result of corporate greed. Everyone who goes to court is either cleanly innocent or obviously guilty. Humans want things to make sense, and for the events in their lives, big and small, to happen for narratively satisfying reasons. Each story to casually [^14] discard the messy complexity of the world contributes to the problem.
+
+The responsibility thus falls on fiction writers to not just debias ourselves, but to debias our work—to give the reader vicarious experiences that don't just feel real, but which lead them to be better at predicting the true reality. A good story can wake the President of the United States up to technological risks, inspire generations, and clarify complex issues. And just as the risks of misconceptions are high in areas where readers aren't knowledgeable enough to disbelieve, the opportunities to educate are also greatest on the cutting edge. For anyone working with ideas that aren't yet widely understood—whether you're a novelist, a scientist, or simply someone who sees something others have missed—storytelling offers the rare opportunity to draw attention, get people to think deeply, and help them find a hold on the truth, before a more careless writer leads them to falsehood.[^15]
+
+This can be a heavy task. Writing fiction that makes sense and conforms to the laws of economics and physics can rub against the expectations or desires of the audience. But it can also be extremely satisfying when done well. With skill, an active effort to combat the failure modes, and some luck, it is possible to write stories that are effective at getting readers to think and learn about important topics such as AI—perhaps unreasonably effective—but without betraying reason.
+
+The Unreasonable Effectiveness of Fiction — LessWrong
+
+[^1]: I'll leave it to readers to decide whether he's living up to the source material.
+
+[^2]: Is this nominative determinism or anti-nominative determinism?
+
+[^3]: He ultimately wound up working in tech because that's where the good jobs were, but the influence was still clearly there. I know many similar instances of people whose career goals were influenced by detective and crime-scene investigation shows, only to have life kick them down a different path. My claim is that fiction is influential, not that its influence is somehow always able to win out over economics.
+
+[^4]: I am personally skeptical of this, and could see it going either way. I came to the field from stumbling on Eliezer's technical work, and don't feel like there's an obvious skew either way, when people tell me how they got involved.
+
+[^5]: People seem to love the " [robot connects with nature](https://tvtropes.org/pmwiki/pmwiki.php/Main/NatureLovingRobot) " trope. And while I think it's basically as bad as "robot melts down when presented with paradox," I want to be clear that I actually think both [*A Psalm for the Wild-Built*](https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built) and [*The Wild Robot*](https://en.wikipedia.org/wiki/The_Wild_Robot) are pretty good stories. Part of the point of this essay is that a story can manage to be pretty darn good, without being a very good guide to reality.
+
+[^6]: One of my most mortifying memories is from when I met a high-status person for the first time (at a party) and got into a conversation where I boldly claimed that the Disney corporation didn't actually own Disney World. This, to be clear, is *extremely obviously* false, and I definitely should have known better. But I had read [a science-fiction novel](https://en.wikipedia.org/wiki/Down_and_Out_in_the_Magic_Kingdom) a few years ago where it was true, and my brain had, based on some feeling of "surprising but true fact," accidentally updated into thinking it was real. 😬
+
+[^7]: There's still a divide between what different political factions read, of course, but I think it's rare for the explicit political orientation of the author to be the dominant factor, rather than simply having different tastes, such as highbrow vs lowbrow stories. Even famous counterexamples like JK Rowling, Orson Scott Card, and Stephen King are still enjoyed by the majority of political opponents, even if there's controversy.
+
+[^8]: Here are some more facts, because I love to debunk myths from fiction:
+
+[^9]: Knocking someone out, whether through chloroform or concussion, for any amount of time is [dangerous and potentially lethal.](https://www.todayifoundout.com/index.php/2022/06/can-you-really-knock-someone-out-harmlessly-like-in-the-movies/)
+
+[^10]: Cars (and gas cans in general) [almost never explode](https://www.youtube.com/watch?v=1iEBC-I0vbs), though they can certainly *ignite.*
+
+[^11]: Falling a short distance onto water [can easily hurt or kill someone](https://www.youtube.com/watch?v=4xEEm7NnGEY). How they hit the water is often more important than height.
+
+[^12]: Running away from a gunman is an [effective defense](https://www.smcm.edu/publicsafety/run-hide-fight-active-shooter-protocol/) if there's any significant distance from the shooter. Hitting a moving target is hard!
+
+[^13]: And of course, basically nothing on TV or in movies involving spaceships or laser guns is anywhere close to accurate.
+
+[^14]: Casual oversimplification stands in contrast to *stylistic* oversimplification. It's fine to have plucky rebels fighting the greedy empire, *as long as it's clear to the audience that the story is deliberately flattening the social conflict*.
+
+[^15]: In my experience, one of the more useful heuristics towards guiding an audience towards the truth is to highlight your uncertainty, as an author. Highlighting, here, means calling the reader's attention to something and encouraging them to think about it for themselves before you reveal how the story handles things. A skilled author, I claim, can encourage truthseeking, even if they happen to be wrong on the object-level.
+
+[^16]: People seem to love the " [robot connects with nature](https://tvtropes.org/pmwiki/pmwiki.php/Main/NatureLovingRobot) " trope. And while I think it's basically as bad as "robot melts down when presented with paradox," I want to be clear that I actually think both [*A Psalm for the Wild-Built*](https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built) and [*The Wild Robot*](https://en.wikipedia.org/wiki/The_Wild_Robot) are pretty good stories. Part of the point of this essay is that a story can manage to be pretty darn good, without being a very good guide to reality.

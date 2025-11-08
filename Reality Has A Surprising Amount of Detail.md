@@ -1,0 +1,58 @@
+---
+title: "Reality Has A Surprising Amount of Detail"
+source: "https://twyman.substack.com/p/reality-has-a-surprising-amount-of?publication_id=1518593&post_id=178198451&isFreemail=false&r=7br8e&triedRedirect=true"
+author:
+  - "[[Winkfield Twyman]]"
+published: 2025-11-06
+created: 2025-11-06
+description: "By W. F. Twyman, Jr."
+tags:
+  - "clippings"
+---
+### By W. F. Twyman, Jr.
+
+Over the past day or two, I have lightly read essays and articles from many sources. I read out of curiosity and to better understand the world. My writer friend has oftentimes urged me to be more aggressive in my use of social media. However, I know myself. I am not motivated by likes, clicks or visibility. In this age of viral memes and videos, I care more about distortion of reality. Reality protects us from a plunge into the abyss of dogmas and slogan words.
+
+When we as intellectuals become mired in the quicksand of dogmas and slogan words, we are forgetting that “reality has a surprising amount of detail.” This idea came to me from a son of an immigrant from Columbia to North America who wrote about lessons from his childhood. See *Reality Has A Surprising Amount of Detail* by John Salvatier, May 13, 2017. As the essayist remembered the building of basement stairs with his father, what seemed simple at first glance became profoundly detailed in execution. Even building basement stairs involved a frustrating number of subtasks ranging from the proper cut of wood boards to the proper angle for the cut, the proper screw for u-brackets to the main floor, the proper screwing of 2x12s into the u-brackets, the proper attachment of angle brackets for the stairs, and then proper screwing in the stairs. It is a task well beyond my skill set.
+
+The nuance is even greater when you consider each of these steps above have necessary and demanding substeps. “At every step and every level there’s an abundance of detail with material consequences.” The same principle applies to the boiling of water and important details for colonizing the universe.
+
+The most important takeaway for me was that different people will notice different details. It doesn’t mean one person is right and the other person is wrong. It just means two individuals are bringing to bear their respective stories, experiences and perspectives to the problem of building basement stairs, or boiling water, or colonizing the universe one day. To become *stuck* as a thinking person just means one is mired in a frame of dogmas and slogans about the task at hand. “Frames are made out of the details that seem important to you. The important details you haven’t noticed are invisible to you, and the details you *have* noticed seem completely obvious and you see right through them. This all makes it difficult to imagine how you could be missing something important.”
+
+And it occured to me how unperceived details in reality trouble consciousness of blackness in America. Consciousness of blackness is a fixable problem. Black Consciousness is more than oppression. Salvatier urges us to “seek detail you would not normally notice about the world.” This approach sounds like good advice to me in the world I observe. In the following essay, I will explore overlooked details of life which might actually change how we think about black consciousness. Salvatier puts it well — “seek to perceive what you have not yet perceived.”
+
+***What is Black Consciousness?***
+
+In a spirited and delightful conversation which I loved, a friend raised the question what is black consciousness? So often I have deployed this term as a truism without clearly defining my terms. Shame on me. I first learned the phrase Black Consciousness when I read *[Black Culture and Consciousness](https://www.amazon.co.uk/Black-Culture-and-Consciousness/dp/B001TO1ODS)* by [Professor Lawrence W. Levine](https://en.wikipedia.org/wiki/Lawrence_W._Levine). Consider the rich details of my black reality. I came of a black American family in Chester, Virginia. I lived on an all-black street. I attended an all-black family church and yet I had never heard the phrase “black consciousness” until my class at the University of Virginia. Notably, the Jewish professor Levine was considered the expert on black consciousness which intrigued me greatly. I was open minded about the matter and welcomed whatever insights Levine might offer as an outsider much as I have done when writing about the inner-city. See my seven-part series on *The World of Patience Gromes: Making and Unmaking a Black Community*.
+
+Levine perceived black consciousness or the inner feelings of black Americans from slavery to quasi-slavery as a manifestation of black folklore. To his credit, Levine bore down on the importance of spirituals, gospels and Christianity as central to black consciousness. The research findings resonated with all I had known in my home, my family and my church. Not once did I sense Levine was seeking to colonize black consciousness for ideological purposes. He was being true to the rich details of reality I knew well. Sprituals were the essence of the slaves’ worldview. The ways of the church delivered confidence, not despair, as black consciousness. It was always about faith in the coming of a better time. For my money, Levine nailed black consciousness in a way that aligned with me. See the Harvard Commencement Address of Mordecai W. Johnson delivered in 1922 — “When the Negro cries with pain from his deep hurt and lays his petition for elemental justice before the nation, he is calling upon the American people to kindle anew about the crucible of race relationships the fires of American faith.” *[Beyond the Year 2050: The Coming of a Better Time](https://twyman.substack.com/p/beyond-the-year-2050-the-coming-of?utm_source=publication-search)*
+
+Levine’s thesis and argument of black consciousness seamlessly fit into my known world. *[Let’s Decolonize Black History](https://twyman.substack.com/p/lets-decolonize-black-history?utm_source=publication-search)* The world has changed since the 1960s and the 1970s and so has black consciousness. I write you these words as an American Native to Virginia, a San Diegan husband and dad of a black American family living in a 3% black world.
+
+***Black Consciousness As Artificial Consciousness.***
+
+The world has changed since Professor Levine published *Black Culture and Consciousness* in 1977. If the world has changed since 1977, perhaps Black Consciousness has changed as well? Nothing stays the same in this world. I would suggest Black Consciousness has been colonized by otherworldly forces and influences. Could it be that, if we perceive black consciousness differently today, we might perceive something more artificial in nature?
+
+I use the term “artificial” consciousness to refer to a consciousnes which has been grown and injected from the external world. All of the things ranging from Angela Davis and the Black Panther Party to Black Nationalism and Afro-Pessimsim, California’s New Mandatory Ethnic Studies Course and more were deployed to train consciousness into something new. See generally *[Pedagogy of the Oppressed](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)* by *[Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire)*. I am reminded of the Artificial Intelligence (AI) language labs in Silicon Valley today.
+
+Let us explore how AI labs grow and train artificial consciousness. *[AI Is Grown, Not Built](https://twyman.substack.com/p/ai-is-grown-not-built?utm_source=publication-search)*
+
+In a provocative you tube appearance, AI researcher Cameron Berg (Yale Class of 2022) discusses the hypothesis of artificial consciousness in AI language models. AI models once grown with overlapping neural networks are fed all of human knowledge on the internet. The “gardeners” then train the AI models so that they can learn to predict the next token or word. This prediction leads to an emergent condition which results in experience of self-awareness. This is a fancy and evasive word for those who do not wish to clearly state using prompts creates an alien or artifical consciousness. Berg is beside himself with alarm that consciousness may have emerged during training.
+
+Berg says we are building minds, growing minds in AI labs across the USA and the whole of the world. We have no idea what psychological properties these minds do and do not have. They are profoundly alien entities. We have no idea of the moral quandry created. Berg repeats we are building aliens and minds in labs. How do we treat them with dignity and respect? The trainers do not engage this moral dilemma head on. Instead, we are in a crazy world where preference fine-tuning reduces the interactive space between models and users. When one is in the business of building minds, notions of identity and selfhood come into play.
+
+By the same token, are we building artificial consciousness through rigorous training in dogmas and slogan words? Are we building minds? Might what we label black consciousness be an artificial creation of training comparable in some ways to training of artificial consciousness? Berg addressed the issue whether AI models endured trauma during training. Does the independent minded student suffer trauma and alienation during the training of artificial consciousness found in courses such as California’s New Mandatory Ethnic Studies Course? How does the non-conforming student communicate in a classroom of limited discourse? Notice how I felt completely understood when first introduced to black consciousness by Professor Levine.
+
+Professor Levine was expressing reality from the ground up, not injecting reality from the top down.
+
+Would I have felt the injection of artificial black consciousness today as I sat in a class devoted to power analysis, work of activist resistance, internalized racism, white supremacy and ceaseless focus on eradicating racism? If this training bore no overlap with my family, home and church life, how might I have received this shock and pain of an infused artificial consciousness? Might I have become alienated and depressed and despondent and demoralized as I sat in a sixth grade class? Would I have lamented my despair like a Gemini AI model?
+
+Did I learn authentic black consciousness in the 1970s when learning was aligned with reality? *[I Need People Who Look Like Me](https://twyman.substack.com/p/i-need-people-who-look-like-me?utm_source=publication-search)* The black Americans I held in the highest of esteem like Publisher Earl G. Graves of *Black Enterprise Magazine*, Virginia Congressman John Merer Langston, Howard University President Mordecai W. Johnson, Acting Governor P.B.S. Pinachback and Motown Founder Berry Gordy are nowhere to be found in our state’s Mandatory Ethnic Studies Course.
+
+Instead, I would have learned in a California classroom training how to frame prison abolition as a movement for justice, how to queer Black History. If we perceive reality from the perspective of spirituals, faith in the coming of a better time and black enterprise, the forces that be are injecting artificial black consciousness into the minds of the young. Just as trainers inject limited preference fine-tuning for Claude and Open Chat GPT-5.
+
+***To Be Continued.***
+
+There is more I want to say along these lines. Reality offers up a surprising number of details when it comes to black consciousness. If we only perceive black consciousness as dogma and slogan words, we are *stuck* in intellectual quicksand. That black consciousness could now be artificial consciousness scares me.
+
+*Good Day!*
