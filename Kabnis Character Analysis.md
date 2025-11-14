@@ -1,13 +1,13 @@
 ---
-title: "Kabnis Character Analysis"
-source: "https://chatgpt.com/share/68efec36-5ae8-8004-919f-dd37eff070dd"
+title: Kabnis Character Analysis
+source: https://chatgpt.com/share/68efec36-5ae8-8004-919f-dd37eff070dd
 author:
-  - "[[ChatGPT]]"
+  - "[[FRMS Conversion]]"
 published:
 created: 2025-10-15
-description: "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more."
+description: ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
 tags:
-  - "clippings"
+  - clippings
 ---
 Describe the character of Kabnis in Jean Toomer's Cane.
 

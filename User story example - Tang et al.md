@@ -1,13 +1,13 @@
 ---
-title: "User story example"
-source: "https://chatgpt.com/share/68d98862-ed64-800d-97b1-e3a0e30862f9"
+title: User story example
+source: https://chatgpt.com/share/68d98862-ed64-800d-97b1-e3a0e30862f9
 author:
-  - "[[ChatGPT]]"
+  - "[[FRMS Conversion]]"
 published:
 created: 2025-09-29
-description: "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more."
+description: ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
 tags:
-  - "clippings"
+  - clippings
 ---
 Uploaded a file
 

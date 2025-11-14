@@ -1,13 +1,13 @@
 ---
-title: "Salim Joubran Katsav case"
-source: "https://chatgpt.com/c/690381e8-4dec-832f-9b4a-665851d03dcb"
+title: Salim Joubran Katsav case
+source: https://chatgpt.com/c/690381e8-4dec-832f-9b4a-665851d03dcb
 author:
-  - "[[ChatGPT]]"
+  - "[[FRMS Conversion]]"
 published:
 created: 2025-10-30
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "clippings"
+  - clippings
 ---
 Looking for Selim sombody who jailed an Israeli President.
 

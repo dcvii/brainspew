@@ -1,13 +1,13 @@
 ---
-title: "Antifa convictions in Portland"
-source: "https://chatgpt.com/c/68e92001-2f70-832e-8ffb-b274fb85520e"
+title: Antifa convictions in Portland
+source: https://chatgpt.com/c/68e92001-2f70-832e-8ffb-b274fb85520e
 author:
-  - "[[ChatGPT]]"
+  - "[[FRMS Conversion]]"
 published:
 created: 2025-10-30
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "clippings"
+  - clippings
 ---
 What are the names of Antifa members who have been convicted of violent crimes in Portland or Seattle.
 
