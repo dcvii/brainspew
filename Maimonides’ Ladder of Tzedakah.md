@@ -1,13 +1,14 @@
 ---
-title: "Maimonides’ Ladder of Tzedakah"
-source: "https://www.myjewishlearning.com/article/maimonides-ladder-of-tzedakah/"
+title: Maimonides’ Ladder of Tzedakah
+source: https://www.myjewishlearning.com/article/maimonides-ladder-of-tzedakah/
 author:
   - "[[By Moses Maimonides]]"
 published:
 created: 2025-11-08
 description:
 tags:
-  - "clippings"
+  - clippings
+  - charity
 ---
 ---
 
