@@ -1,13 +1,13 @@
 ---
-title: "mdcbowen"
-source: "http://mdcbowen.info/projects/"
+title: mdcbowen
+source: http://mdcbowen.info/projects/
 author:
-  - "[[MDC Bowen]]"
+  - "[[MDCB/Career/mdc bowen]]"
 published:
 created: 2025-09-29
-description: "abstract summary          Link to heading  With a career spanning over two decades at the intersection of advanced analytics, enterprise data systems, and infrastructure optimization, I have demonstrated deep and versatile technical acumen across a remarkable range of technologies, industries, and global enterprises.My work includes:MPP Database Architecture ModernizationTransformed Vertica clusters (42 nodes, 50TB) at Guess into an enterprise-grade platform with proactive monitoring, robust backup and disaster recovery, and optimized performance. Standardized procedures and geographic redundancy enabled scalable, reliable operations, ensuring continuity for critical POS and reporting systems while supporting the company’s global retail footprint."
+description: abstract summary          Link to heading  With a career spanning over two decades at the intersection of advanced analytics, enterprise data systems, and infrastructure optimization, I have demonstrated deep and versatile technical acumen across a remarkable range of technologies, industries, and global enterprises.My work includes:MPP Database Architecture ModernizationTransformed Vertica clusters (42 nodes, 50TB) at Guess into an enterprise-grade platform with proactive monitoring, robust backup and disaster recovery, and optimized performance. Standardized procedures and geographic redundancy enabled scalable, reliable operations, ensuring continuity for critical POS and reporting systems while supporting the company’s global retail footprint.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### abstract summary
 

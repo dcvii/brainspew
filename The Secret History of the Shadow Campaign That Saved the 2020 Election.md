@@ -1,14 +1,17 @@
-
-
-For more than a year, a loosely organized coalition of operatives scrambled to shore up America’s institutions
-
 ---
-
-By Molly Ball
-27 min. read
-[View original](https://time.com/5936036/secret-2020-election-campaign/)
-
+title: "The Secret History of the Shadow Campaign That Saved the 2020 Election"
+source: "https://time.com/5936036/secret-2020-election-campaign/"
+author:
+  - "[[Molly Ball]]"
+published: 2021-02-04
+created: 2025-12-10
+description: "The extraordinary effort was dedicated to ensuring the election would be free and fair, credible and uncorrupted. Here's how it was done"
+tags:
+  - "clippings"
 ---
+![](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election.jpg?quality=85&w=1800)
+
+Illustration by Ryan Olbrysh for TIME
 
 A weird thing happened right after the Nov. 3 election: nothing.
 
@@ -20,19 +23,13 @@ A second odd thing happened amid Trump’s attempts to reverse the result: corpo
 
 In a way, Trump was right.
 
+<video src="blob:https://time.com/680d0a7a-fb63-43bd-90de-c0b53d10209e"></video>
+
 Reactions Throughout the U.S. After Biden Wins Presidential Race in Unprecedented Election
 
-0 of 3 minutes, 24 secondsVolume 0%
+00:00
 
-Copied
-
-Next Up: In Dramatic Vote, McCarthy Becomes First House Speaker to be Ousted in U.S. History
-
-Live
-
-01:08
-
-02:15
+03:24
 
 03:24
 
@@ -46,9 +43,9 @@ For Trump and his allies were running their own campaign to spoil the election. 
 
 The democracy campaigners watched with alarm. “Every week, we felt like we were in a struggle to try to pull off this election without the country going through a real dangerous moment of unraveling,” says former GOP Representative Zach Wamp, a Trump supporter who helped coordinate a bipartisan election-protection council. “We can look back and say this thing went pretty well, but it was not at all clear in September and October that that was going to be the case.”
 
-![Biden fans in Philadelphia after the race was called on Nov. 7](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-03.jpg?quality=75&w=2400)
+![Biden fans in Philadelphia after the race was called on Nov. 7](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-03.jpg?quality=85&w=1800)
 
-Biden fans in Philadelphia after the race was called on Nov. 7Michelle Gustafson for TIME
+Biden fans in Philadelphia after the race was called on Nov. 7 Michelle Gustafson for TIME
 
 This is the inside story of the conspiracy to save the 2020 election, based on access to the group’s inner workings, never-before-seen documents and interviews with dozens of those involved from across the political spectrum. It is the story of an unprecedented, creative and determined campaign whose success also reveals how close the nation came to disaster. “Every attempt to interfere with the proper outcome of the election was defeated,” says Ian Bassin, co-founder of Protect Democracy, a nonpartisan rule-of-law advocacy group. “But it’s massively important for the country to understand that it didn’t happen accidentally. The system didn’t work magically. Democracy is not self-executing.”
 
@@ -122,9 +119,9 @@ Wamp, the former GOP Congressman, worked through the nonpartisan reform group Is
 
 The Voting Rights Lab and IntoAction created state-specific memes and graphics, spread by email, text, Twitter, Facebook, Instagram and TikTok, urging that every vote be counted. Together, they were viewed more than 1 billion times. Protect Democracy’s election task force issued reports and held media briefings with high-profile experts across the political spectrum, resulting in widespread coverage of potential election issues and fact-checking of Trump’s false claims. The organization’s tracking polls found the message was being heard: the percentage of the public that didn’t expect to know the winner on election night gradually rose until by late October, it was over 70%. A majority also believed that a prolonged count wasn’t a sign of problems. “We knew exactly what Trump was going to do: he was going to try to use the fact that Democrats voted by mail and Republicans voted in person to make it look like he was ahead, claim victory, say the mail-in votes were fraudulent and try to get them thrown out,” says Protect Democracy’s Bassin. Setting public expectations ahead of time helped undercut those lies.
 
-![Amber McReynolds, Zach Wamp and Maurice Mitchell](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-04.jpg?quality=75&w=2400)
+![Amber McReynolds, Zach Wamp and Maurice Mitchell](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-04.jpg?quality=85&w=1800)
 
-Amber McReynolds, Zach Wamp and Maurice MitchellRachel Woolf for TIME; Erik Schelzig—AP/Shutterstock; Holly Pickett—The New York Times/Redux
+Amber McReynolds, Zach Wamp and Maurice Mitchell Rachel Woolf for TIME; Erik Schelzig—AP/Shutterstock; Holly Pickett—The New York Times/Redux
 
 The alliance took a common set of themes from the research Shenker-Osorio presented at Podhorzer’s Zooms. Studies have shown that when people don’t think their vote will count or fear casting it will be a hassle, they’re far less likely to participate. Throughout election season, members of Podhorzer’s group minimized incidents of voter intimidation and tamped down rising liberal hysteria about Trump’s expected refusal to concede. They didn’t want to amplify false claims by engaging them, or put people off voting by suggesting a rigged game. “When you say, ‘These claims of fraud are spurious,’ what people hear is ‘fraud,'” Shenker-Osorio says. “What we saw in our pre-election research was that anything that reaffirmed Trump’s power or cast him as an authoritarian diminished people’s desire to vote.”
 
@@ -176,9 +173,9 @@ In Podhorzer’s presentations, winning the vote was only the first step to winn
 
 It was around 10 p.m. on election night in Detroit when a flurry of texts lit up the phone of Art Reyes III. A busload of Republican election observers had arrived at the TCF Center, where votes were being tallied. They were crowding the vote-counting tables, refusing to wear masks, heckling the mostly Black workers. Reyes, a Flint native who leads We the People Michigan, was expecting this. For months, conservative groups had been sowing suspicion about urban vote fraud. “The language was, ‘They’re going to steal the election; there will be fraud in Detroit,’ long before any vote was cast,” Reyes says.
 
-![Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-02.jpg?quality=75&w=2400 "Michigan Election Workers Continue To Work Counting Absentee Ballots")
+![Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4](https://api.time.com/wp-content/uploads/2021/02/donald-trump-joe-biden-election-02.jpg?quality=85&w=1800)
 
-Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4Elaine Cromie—Getty Images
+Trump supporters seek to disrupt the vote count at Detroit’s TCF Center on Nov. 4 Elaine Cromie—Getty Images
 
 He made his way to the arena and sent word to his network. Within 45 minutes, dozens of reinforcements had arrived. As they entered the arena to provide a counterweight to the GOP observers inside, Reyes took down their cell-phone numbers and added them to a massive text chain. Racial-justice activists from Detroit Will Breathe worked alongside suburban women from Fems for Dems and local elected officials. Reyes left at 3 a.m., handing the text chain over to a disability activist.
 
@@ -198,7 +195,7 @@ Reyes’ activists scanned flight schedules and flocked to the airports on both 
 
 That left one last step: the state canvassing board, made up of two Democrats and two Republicans. One Republican, a Trumper employed by the DeVos family’s political nonprofit, was not expected to vote for certification. The other Republican on the board was a little-known lawyer named Aaron Van Langevelde. He sent no signals about what he planned to do, leaving everyone on edge.
 
-When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, (#alleyesonmi). A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
+When the meeting began, Reyes’s activists flooded the livestream and filled Twitter with their hashtag, #alleyesonmi. A board accustomed to attendance in the single digits suddenly faced an audience of thousands. In hours of testimony, the activists emphasized their message of respecting voters’ wishes and affirming democracy rather than scolding the officials. Van Langevelde quickly signaled he would follow precedent. The vote was 3-0 to certify; the other Republican abstained.
 
 After that, the dominoes fell. Pennsylvania, Wisconsin and the rest of the states certified their electors. Republican officials in Arizona and Georgia stood up to Trump’s bullying. And the Electoral College voted on schedule on Dec. 14.
 
@@ -208,11 +205,15 @@ There was one last milestone on Podhorzer’s mind: Jan. 6. On the day Congress 
 
 Much to their surprise, the thousands who answered his call were met by virtually no counterdemonstrators. To preserve safety and ensure they couldn’t be blamed for any mayhem, the activist left was “strenuously discouraging counter activity,” Podhorzer texted me the morning of Jan. 6, with a crossed-fingers emoji.
 
+<video></video>
+
 Incited by the President, Trump Supporters Violently Storm the Capitol
 
-0 seconds of 2 minutes, 29 secondsVolume 0%
+00:00
 
-Copied
+02:29
+
+02:29
 
 Trump addressed the crowd that afternoon, peddling the lie that lawmakers or Vice President Mike Pence could reject states’ electoral votes. He told them to go to the Capitol and “fight like hell.” Then he returned to the White House as they sacked the building. As lawmakers fled for their lives and his own supporters were shot and trampled, Trump praised the rioters as “very special.”
 
@@ -226,6 +227,6 @@ Democracy won in the end. The will of the people prevailed. But it’s crazy, in
 
 –With reporting by LESLIE DICKSTEIN, MARIAH ESPADA and SIMMONE SHAH
 
-_Correction appended, Feb. 5: The original version of this story misstated the name of Norm Eisen’s organization. It is the Voter Protection Program, not the Voter Protection Project. The original version of this story also misstated Jeff Timmer’s former position with the Michigan Republican Party. He was the executive director, not the chairman._
+*Correction appended, Feb. 5: The original version of this story misstated the name of Norm Eisen’s organization. It is the Voter Protection Program, not the Voter Protection Project. The original version of this story also misstated Jeff Timmer’s former position with the Michigan Republican Party. He was the executive director, not the chairman.*
 
-![](chrome-extension://eppedlbobmdflmhleafebmahnbphgipb/assets/icons/icon-128.png)
+Write toMolly Ball at [molly.ball@time.com](https://time.com/5936036/secret-2020-election-campaign/)
