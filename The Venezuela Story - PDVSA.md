@@ -1,3 +1,12 @@
+---
+aliases:
+title: PDVSA
+created: 2020-11-26
+tags:
+  - geopolitics
+  - Venezuela
+---
+
 Venezuela promised and delivered the cheapest gasoline on the planet. You could get gas for literally something like 5 cents per gallon. Therefore to keep the refineries running, the government had to pay the difference. There is no refinery on the planet that can produce gasoline in significant quantities for mere pennies per gallon. Hell, some of the feedstock components cost way more than that. [Lanthanum oxide catalysts](https://en.wikipedia.org/wiki/Fluid_catalytic_cracking) for one, and the price for that spiked in 2011. So obviously there were heavy government subsidies.
 
 At some point all such freebies come to an end. The Venezuelan government had to [raise the price of gasoline](https://www.csmonitor.com/World/Americas/2011/0304/Hugo-Chavez-challenges-Venezuelan-birthright-to-cheap-gas). It’s no joke that when gas only costs a nickel, when you raise the price to a quarter it might not seem like much. But it’s still five times the cost. The Venezuelans predictably freaked out.

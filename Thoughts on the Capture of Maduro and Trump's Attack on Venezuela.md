@@ -1,13 +1,14 @@
 ---
-title: "Thoughts on the Capture of Maduro and Trump's Attack on Venezuela"
-source: "https://reason.com/volokh/2026/01/03/thoughts-on-the-capture-of-maduro-and-trumps-attack-on-venezuela/"
+title: Thoughts on the Capture of Maduro and Trump's Attack on Venezuela
+source: https://reason.com/volokh/2026/01/03/thoughts-on-the-capture-of-maduro-and-trumps-attack-on-venezuela/
 author:
   - "[[Ilya Somin]]"
 published: 2026-01-03
 created: 2026-01-05
-description: "Maduro is a brutal dictator who is getting what he deserves. But Trump's actions are still illegal, because lacking proper congressional authorization. Whether they result in a beneficial regime change in Venezuela remains to be seen."
+description: Maduro is a brutal dictator who is getting what he deserves. But Trump's actions are still illegal, because lacking proper congressional authorization. Whether they result in a beneficial regime change in Venezuela remains to be seen.
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ![](https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2020/01/Maduro2020-300x200.jpg)
 

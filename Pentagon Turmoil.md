@@ -1,13 +1,14 @@
 ---
-title: "Pentagon Turmoil"
-source: "https://themoochreport.substack.com/p/pentagon-turmoil?publication_id=1331716&post_id=176694205&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Pentagon Turmoil
+source: https://themoochreport.substack.com/p/pentagon-turmoil?publication_id=1331716&post_id=176694205&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Mooch]]"
 published: 2025-10-21
 created: 2025-10-21
-description: "The Mooch Report—October 21, 2025"
+description: The Mooch Report—October 21, 2025
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ### The Mooch Report—October 21, 2025
 

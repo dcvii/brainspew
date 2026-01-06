@@ -1,13 +1,14 @@
 ---
-title: "A Drug War Goes Hot"
-source: "https://cdrsalamander.substack.com/p/a-drug-war-goes-hot?publication_id=247761&post_id=176701990&isFreemail=true&r=7br8e&triedRedirect=true"
+title: A Drug War Goes Hot
+source: https://cdrsalamander.substack.com/p/a-drug-war-goes-hot?publication_id=247761&post_id=176701990&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[CDR Salamander]]"
 published: 2025-10-21
 created: 2025-10-21
-description: "...and the arguments go from interesting to silly"
+description: ...and the arguments go from interesting to silly
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ### ...and the arguments go from interesting to silly
 

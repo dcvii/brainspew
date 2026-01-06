@@ -1,13 +1,15 @@
 ---
-title: "On the Legality of the Venezuela Invasion"
-source: "https://www.execfunctions.org/p/on-the-legality-of-the-venezuela?r=1qaez3&shareImageVariant=overlay&triedRedirect=true"
+title: On the Legality of the Venezuela Invasion
+source: https://www.execfunctions.org/p/on-the-legality-of-the-venezuela?r=1qaez3&shareImageVariant=overlay&triedRedirect=true
 author:
   - "[[Jack Goldsmith]]"
 published: 2026-01-03
 created: 2026-01-05
-description: "Executive branch precedents can be garnered to support the action—which does not, of course, mean that it is lawful."
+description: Executive branch precedents can be garnered to support the action—which does not, of course, mean that it is lawful.
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
+  - geopolitics
 ---
 ### Executive branch precedents can be garnered to support the action—which does not, of course, mean that it is lawful.
 

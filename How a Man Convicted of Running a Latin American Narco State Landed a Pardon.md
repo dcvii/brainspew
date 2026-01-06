@@ -1,15 +1,16 @@
 ---
-title: "How a Man Convicted of Running a Latin American Narco State Landed a Pardon"
-source: "https://www.wsj.com/politics/policy/how-a-man-convicted-of-running-a-latin-american-narco-state-landed-a-pardon-c2353aef?mod=djem10point"
+title: How a Man Convicted of Running a Latin American Narco State Landed a Pardon
+source: https://www.wsj.com/politics/policy/how-a-man-convicted-of-running-a-latin-american-narco-state-landed-a-pardon-c2353aef?mod=djem10point
 author:
   - "[[Vera Bergengruen]]"
   - "[[Alex Leary]]"
   - "[[José de Córdoba and Josh Dawsey]]"
 published: 2025-12-03
 created: 2025-12-04
-description: "Juan Orlando Hernández’s unusual network of Trump allies and MAGA influencers helped deliver an extraordinary pardon"
+description: Juan Orlando Hernández’s unusual network of Trump allies and MAGA influencers helped deliver an extraordinary pardon
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ![Honduras' President Juan Orlando Hernandez speaks.](https://images.wsj.net/im-80320591?width=540&size=1.501)
 

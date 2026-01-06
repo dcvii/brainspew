@@ -1,13 +1,14 @@
 ---
-title: "The Fall of Maduro—and the Future of Venezuela. Plus. . ."
-source: "https://www.thefp.com/p/the-fall-of-maduro-and-the-future?r=7br8e"
+title: The Fall of Maduro—and the Future of Venezuela. Plus. . .
+source: https://www.thefp.com/p/the-fall-of-maduro-and-the-future?r=7br8e
 author:
   - "[[By The Free Press]]"
 published:
 created: 2026-01-05
 description:
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ---
 

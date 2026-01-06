@@ -9,6 +9,7 @@ description: stoic writer. data engineer. entrepreneur. foodie. anti-fragile. gr
 tags:
   - clippings
   - geopolitics
+  - Venezuela
 ---
 
 ![[Pasted image 20260104133151.png]]

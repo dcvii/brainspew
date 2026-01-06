@@ -1,13 +1,14 @@
 ---
-title: "Hugo Chavez's economic miracle"
-source: "https://www.salon.com/2013/03/06/hugo_chavezs_economic_miracle/"
+title: Hugo Chavez's economic miracle
+source: https://www.salon.com/2013/03/06/hugo_chavezs_economic_miracle/
 author:
   - "[[David Sirota]]"
 published: 2013-03-06
 created: 2026-01-03
-description: "The Venezuelan leader was often marginalized as a radical. But his brand of socialism achieved real economic gains"
+description: The Venezuelan leader was often marginalized as a radical. But his brand of socialism achieved real economic gains
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ## Hugo Chavez’s economic miracle
 

@@ -1,15 +1,17 @@
 ---
-title: "THE MEDVEDEV COROLLARY"
-source: "https://substack.com/home/post/p-183428226"
+title: THE MEDVEDEV COROLLARY
+source: https://substack.com/home/post/p-183428226
 author:
   - "[[By Substack]]"
 published:
 created: 2026-01-05
 description:
 tags:
-  - "clippings"
+  - clippings
+  - geopolitics
+  - Venezuela
 ---
----
+
 
 ---
 

@@ -1,13 +1,14 @@
 ---
-title: "American conservatives claim the failure of the Venezuelan economy is due to socialism. How valid is this claim?"
-source: "https://www.quora.com/American-conservatives-claim-the-failure-of-the-Venezuelan-economy-is-due-to-socialism-How-valid-is-this-claim/answer/Michael-David-Cobb-Bowen?__filter__=all&__nsrc__=3&__sncid__=59846536555#TxEjK"
+title: American conservatives claim the failure of the Venezuelan economy is due to socialism. How valid is this claim?
+source: https://www.quora.com/American-conservatives-claim-the-failure-of-the-Venezuelan-economy-is-due-to-socialism-How-valid-is-this-claim/answer/Michael-David-Cobb-Bowen?__filter__=all&__nsrc__=3&__sncid__=59846536555#TxEjK
 author:
   - "[[Quora]]"
 published:
 created: 2026-01-03
 description: "Michael David Cobb Bowen's answer: Venezuela promised and delivered the cheapest gasoline on the planet. You could get gas for literally something like 5 cents per gallon. Therefore to keep the refineries running, the government had to pay the difference. There is no refinery on the planet that c..."
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 Venezuela promised and delivered the cheapest gasoline on the planet. You could get gas for literally something like 5 cents per gallon. Therefore to keep the refineries running, the government had to pay the difference. There is no refinery on the planet that can produce gasoline in significant quantities for mere pennies per gallon. Hell, some of the feedstock components cost way more than that. Lanthanum oxide
 

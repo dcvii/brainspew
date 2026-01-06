@@ -1,13 +1,14 @@
 ---
-title: "Venezuela's Amuay Refinery Under Scrutiny After Deadly Blaze"
-source: "https://www.nationalgeographic.com/science/article/120830-venezuela-refinery-fire-pictures#%2F58751.jpg"
+title: Venezuela's Amuay Refinery Under Scrutiny After Deadly Blaze
+source: https://www.nationalgeographic.com/science/article/120830-venezuela-refinery-fire-pictures#%2F58751.jpg
 author:
   - "[[Science]]"
 published: 2012-08-31
 created: 2026-01-03
-description: "The fires are out at Venezuela's Amuay facility four days after the deadliest refinery accident in 15 years. But questions about exactly what happened, and why, are only beginning."
+description: The fires are out at Venezuela's Amuay facility four days after the deadliest refinery accident in 15 years. But questions about exactly what happened, and why, are only beginning.
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ![Refinery fire picture - flames and smoke at the Amuay refinery in Venezuela](https://i.natgeofe.com/n/df0f0532-237a-448b-b289-35c4360adeb5/58751.jpg?w=374&h=281)
 

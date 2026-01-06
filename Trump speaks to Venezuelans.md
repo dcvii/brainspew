@@ -1,13 +1,15 @@
 ---
-title: "Trump speaks to Venezuelans"
-source: "https://www.theradicalist.com/p/trump-speaks-to-venezuelans?publication_id=791573&post_id=183410557&isFreemail=false&r=7br8e&triedRedirect=true"
+title: Trump speaks to Venezuelans
+source: https://www.theradicalist.com/p/trump-speaks-to-venezuelans?publication_id=791573&post_id=183410557&isFreemail=false&r=7br8e&triedRedirect=true
 author:
   - "[[David Josef Volodzko]]"
 published: 2026-01-04
 created: 2026-01-04
-description: "Trump's speech on capturing Maduro and reactions"
+description: Trump's speech on capturing Maduro and reactions
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
+  - geopolitics
 ---
 ### Trump's speech on capturing Maduro and reactions
 

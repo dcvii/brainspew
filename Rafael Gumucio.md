@@ -8,6 +8,7 @@ description:
 tags:
   - clippings
   - geopolitics
+  - Venezuela
 ---
 Rafael Gumucio is a well-known Chilean writer and comedian.
 

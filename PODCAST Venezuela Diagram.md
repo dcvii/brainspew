@@ -1,13 +1,14 @@
 ---
 title: "[PODCAST] Venezuela Diagram"
-source: "https://thomaspmbarnett.substack.com/p/podcast-venezuela-diagram?publication_id=2041552&post_id=181606804&isFreemail=true&r=7br8e&triedRedirect=true"
+source: https://thomaspmbarnett.substack.com/p/podcast-venezuela-diagram?publication_id=2041552&post_id=181606804&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Thomas PM Barnett]]"
 published: 2025-12-15
 created: 2025-12-15
-description: "The Donroe Doctrine seeks its mini-bang"
+description: The Donroe Doctrine seeks its mini-bang
 tags:
-  - "clippings"
+  - clippings
+  - Venezuela
 ---
 ![[Pasted image 20251215085103.png]]
 
