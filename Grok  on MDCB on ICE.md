@@ -1,0 +1,32 @@
+---
+title: "Grok / X"
+source: "https://x.com/i/grok?conversation=2010589393841803699"
+author:
+  - "[[X (formerly Twitter)]]"
+published:
+created: 2026-01-11
+description: "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more."
+tags:
+  - "clippings"
+---
+## To view keyboard shortcuts, press question markView keyboard shortcuts
+
+Characterize the points made by Michael David Cobb Bowen relating the the Minneapolis ICE shooting episode.
+
+Michael David Cobb Bowen, a stoic writer and self-described "shooter" with experience in citizen academies and shooting simulators, has extensively analyzed the Minneapolis ICE shooting incident involving the fatal shooting of 37-year-old Renee Nicole Good by ICE Officer Jonathan Ross (referred to as O3 in his discussions). Drawing from videos, witness accounts, and contextual details, Bowen offers a balanced, evidence-focused critique that faults both the officer's tactics and the protesters' provocative behavior. He emphasizes the need for a trial to assess intents, rules of engagement (ROE), and threat levels from all perspectives, while avoiding partisan narratives. Below is a characterization of his key points, based on his Substack post "Icy Minnesota" and recent X threads.Faults in the Officer's Actions and Justification for Shooting
+- Poor Tactics and Self-Created Danger: Bowen repeatedly highlights that Officer Ross positioned himself in front of Good's maroon SUV twice—once while circling and filming the vehicle (knowing the engine was running) and again during the confrontation. He argues this was unreasonable, especially in icy conditions on a one-way street, where evasion was limited. Ross switched his phone to his left hand before stepping in front, suggesting premeditation to free his dominant hand for drawing his weapon. Bowen contends this created the danger, violating principles where officers shouldn't manufacture risks to justify force (citing precedents like Barnes v. Felix for totality of circumstances).
+- Unnecessary Use of Deadly Force: He describes the shooting as "spontaneous and reckless," not a "good shoot," and calls for charges like negligent homicide against Ross. The first shot may have been a reaction to being struck by the vehicle, but the second was dangerously close to other officers, and the third (through the rearview mirror) seemed excessive. Bowen notes the bullets' paths (e.g., head-on through the windshield) as evidence, but stresses that intent to neutralize a threat covers all shots as one action, not separate motivations.
+- High Alert but Questionable ROE: Officers were in a hostile environment with protesters yelling insults and creating chaos, justifying precautions. However, Bowen questions conflicting orders (e.g., "stop" vs. "get out") and the absence of local police, suggesting blended forces might have de-escalated. He speculates Ross wasn't primarily tasked with arresting Good, as another officer (O1) handled the door, implying poor coordination.
+Protesters' Provocative and Disruptive Behavior
+- Deliberate Interference: Bowen differentiates Good's actions from thousands of other protesters who weren't shot, arguing she and her partner (ex-military) strategically placed their SUV between an ICE staging area and operation site, blocking traffic for over three minutes. They honked the horn, blew a whistle, and taunted officers (e.g., "You want to come at us? Go get yourself some lunch, big boy") to draw attention and disrupt. This turned a passive protest into active harassment, with Good's vehicle effectively "weaponized" in a high-tension zone.
+- Shared Blame and Reckless Endangerment: He calls their tactics "stupid games" and "poking the bear," suggesting Good's attempt to flee (reversing, braking, then accelerating rightward with skidding wheels) escalated the situation. Bowen proposes a civil case against Good's partner for reckless endangerment, as they planned the disruption together, and the partner later admitted regret for encouraging attendance. He notes hearsay evidence that Good's SUV trailed ICE vehicles earlier, positioning it as part of a pattern of interference.
+- Not Innocent Victims: While acknowledging the tragedy, Bowen rejects portrayals of Good as a mere "legal observer" or innocent bystander. Her statements like "I'm pulling out" and the vehicle's improper parking (partially in the street) indicate awareness of the confrontation.
+Broader Contextual Factors and Implications
+- Environmental and Evidentiary Details: Icy roads caused wheel skid and influenced maneuvers—Good turned right to flee down the one-way street, limiting options. Bowen cites ~100 recent car-related attacks on ICE officers as context for heightened alert, but stresses this doesn't excuse poor tactics. He relies on videos (e.g., officer's body cam, bystander footage) for timelines, threat assessments, and color-coded risk levels (e.g., from low during initial circling to high during acceleration).
+- Media and Public Discourse Critique: Media coverage is "prejudicial," freezing moments without full context. Platforms like X and YouTube are flawed but essential for piecing together evidence (e.g., new videos showing blocking and taunting). Bowen warns against amateur opinions, advocating for professional analysis in court.
+- Philosophical Takeaway: As a "true neutral" stoic, he concludes "Shit happens" in chaotic protest zones, where no outcome was "readily foreseeable." The incident underscores risks of using vehicles aggressively in protests and the need for better training/ROE to prevent escalation. He urges focusing on subjective perspectives (e.g., did Good see Ross? Did officers perceive a broader threat?) rather than hindsight bias.
+Bowen's overall stance is anti-fragile and evidence-driven: the shooting was avoidable and likely criminal, but provoked by deliberate disruption. He avoids moralizing, instead pushing for accountability through legal processes while substantiating claims with specifics like bullet trajectories, timelines, and environmental factors.
+
+[mdcbowen.substack.com](https://mdcbowen.substack.com/p/icy-minnesota)
+
+Quick Answer
