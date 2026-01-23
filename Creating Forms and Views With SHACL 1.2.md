@@ -1,13 +1,15 @@
 ---
-title: "Creating Forms and Views With SHACL 1.2"
-source: "https://ontologist.substack.com/p/creating-forms-and-views-with-shacl?publication_id=1877971&post_id=182450360&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Creating Forms and Views With SHACL 1.2
+source: https://ontologist.substack.com/p/creating-forms-and-views-with-shacl?publication_id=1877971&post_id=182450360&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2025-12-27
 created: 2025-12-27
-description: "An Exploration of SHACL 1.2 UI"
+description: An Exploration of SHACL 1.2 UI
 tags:
-  - "clippings"
+  - clippings
+  - SHACL
+  - ontology
 ---
 ### An Exploration of SHACL 1.2 UI
 

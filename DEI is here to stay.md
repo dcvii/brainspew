@@ -1,13 +1,14 @@
 ---
-title: "DEI is here to stay"
-source: "https://heterodoxatusc.substack.com/p/dei-is-here-to-stay?publication_id=2113111&post_id=158343305&isFreemail=true&r=7br8e&triedRedirect=true"
+title: DEI is here to stay
+source: https://heterodoxatusc.substack.com/p/dei-is-here-to-stay?publication_id=2113111&post_id=158343305&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Heterodox at USC]]"
 published: 2025-01-18
 created: 2025-03-10
-description: "DEI finds new footholds; A visit from Charlie Kirk revives enthusiasm for censorship; USC's Alzheimer's research scrutinized, and more."
+description: DEI finds new footholds; A visit from Charlie Kirk revives enthusiasm for censorship; USC's Alzheimer's research scrutinized, and more.
 tags:
-  - "ffbt"
+  - ffbt
+  - academia
 ---
 ### DEI finds new footholds; A visit from Charlie Kirk revives enthusiasm for censorship; USC's Alzheimer's research scrutinized, and more.
 

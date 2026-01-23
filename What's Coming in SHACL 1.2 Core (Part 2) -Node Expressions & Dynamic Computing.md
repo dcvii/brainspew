@@ -1,13 +1,15 @@
 ---
-title: "What's Coming in SHACL 1.2 Core (Part 2) -Node Expressions & Dynamic Computing"
-source: "https://ontologist.substack.com/p/whats-coming-in-shacl-12-core-part-870?publication_id=1877971&post_id=181540955&isFreemail=true&r=7br8e&triedRedirect=true"
+title: What's Coming in SHACL 1.2 Core (Part 2) -Node Expressions & Dynamic Computing
+source: https://ontologist.substack.com/p/whats-coming-in-shacl-12-core-part-870?publication_id=1877971&post_id=181540955&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2025-12-14
 created: 2025-12-14
-description: "Looking into one of the more exciting features of SHACL 1.2."
+description: Looking into one of the more exciting features of SHACL 1.2.
 tags:
-  - "clippings"
+  - clippings
+  - SHACL
+  - ontology
 ---
 ### Looking into one of the more exciting features of SHACL 1.2.
 

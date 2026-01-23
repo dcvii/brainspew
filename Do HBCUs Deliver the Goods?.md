@@ -1,19 +1,20 @@
 ---
-title: "Do HBCUs Deliver the Goods?"
-source: "https://glennloury.substack.com/p/do-hbcus-deliver-the-goods"
+title: Do HBCUs Deliver the Goods?
+source: https://glennloury.substack.com/p/do-hbcus-deliver-the-goods
 author:
   - "[[Glenn Loury]]"
 published: 2025-02-09
-created: 2025-02-09
-description: "Clifton Roscoe weighs in"
+created: 2025-02-20
+description: Clifton Roscoe weighs in
 tags:
-  - "clippings"
+  - raceman
+  - meritocracy
 ---
 The long silence is over: Clifton Roscoe is back! Regular readers will know that Clifton is a semi-regular correspondent here at The Glenn Show. When an issue can be illuminated by polls, stats, economic data, official reports, or other empirical measures, Clifton is on it. This week, he was moved to respond to my conversation with John about Trump’s anti-DEI policies. Take it away, Clifton.
 
 *This post is free and available to the public. To receive early access to TGS episodes, an ad-free podcast feed, Q&As, and other exclusive content and benefits, click below.*
 
-[Share](https://glennloury.substack.com/p/do-hbcus-deliver-the-goods?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMjMwNTgyMiwicG9zdF9pZCI6MTU2NDgxNDEwLCJpYXQiOjE3MzkxMjU2MjMsImV4cCI6MTc0MTcxNzYyMywiaXNzIjoicHViLTI1OTA0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ow5MhNNyvJaMYdM1Rt_0ogXri6_pbWd9zrhiXiyNpbc)
+[Share](https://glennloury.substack.com/p/do-hbcus-deliver-the-goods?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMjMwNTgyMiwicG9zdF9pZCI6MTU2NDgxNDEwLCJpYXQiOjE3NDAwOTIzMjcsImV4cCI6MTc0MjY4NDMyNywiaXNzIjoicHViLTI1OTA0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.mIRxTC-nf1TxVmMEsDMt2d2q_pO2kwWFXkcw52lUPhM)
 
 Professor Loury,
 
@@ -65,4 +66,4 @@ P.S. This recent [Wirepoints analysis](https://wirepoints.org/nations-report-car
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F023053c8-3eb5-4cfc-9f27-085a648c7dae_1203x657.png)
 
-[Share](https://glennloury.substack.com/p/do-hbcus-deliver-the-goods?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMjMwNTgyMiwicG9zdF9pZCI6MTU2NDgxNDEwLCJpYXQiOjE3MzkxMjU2MjMsImV4cCI6MTc0MTcxNzYyMywiaXNzIjoicHViLTI1OTA0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.ow5MhNNyvJaMYdM1Rt_0ogXri6_pbWd9zrhiXiyNpbc)
+[Share](https://glennloury.substack.com/p/do-hbcus-deliver-the-goods?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMjMwNTgyMiwicG9zdF9pZCI6MTU2NDgxNDEwLCJpYXQiOjE3NDAwOTIzMjcsImV4cCI6MTc0MjY4NDMyNywiaXNzIjoicHViLTI1OTA0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.mIRxTC-nf1TxVmMEsDMt2d2q_pO2kwWFXkcw52lUPhM)

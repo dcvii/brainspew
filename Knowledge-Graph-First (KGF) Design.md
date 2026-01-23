@@ -1,13 +1,15 @@
 ---
-title: "Knowledge-Graph-First (KGF) Design"
-source: "https://ontologist.substack.com/p/knowledge-graph-first-kgf-design?publication_id=1877971&post_id=182040576&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Knowledge-Graph-First (KGF) Design
+source: https://ontologist.substack.com/p/knowledge-graph-first-kgf-design?publication_id=1877971&post_id=182040576&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2025-12-21
 created: 2025-12-21
-description: "Stop overloading your contexts!"
+description: Stop overloading your contexts!
 tags:
-  - "clippings"
+  - clippings
+  - SHACL
+  - ontology
 ---
 ### Stop overloading your contexts!
 

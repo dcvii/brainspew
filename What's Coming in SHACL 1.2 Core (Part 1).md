@@ -1,13 +1,14 @@
 ---
-title: "What's Coming in SHACL 1.2 Core (Part 1)"
-source: "https://ontologist.substack.com/p/whats-coming-in-shacl-12-core-part?publication_id=1877971&post_id=181248315&isFreemail=true&r=7br8e&triedRedirect=true"
+title: What's Coming in SHACL 1.2 Core (Part 1)
+source: https://ontologist.substack.com/p/whats-coming-in-shacl-12-core-part?publication_id=1877971&post_id=181248315&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2025-12-12
 created: 2025-12-13
-description: "A sneak peak into the constraint language."
+description: A sneak peak into the constraint language.
 tags:
-  - "clippings"
+  - clippings
+  - SHACL
 ---
 ### A sneak peak into the constraint language.
 

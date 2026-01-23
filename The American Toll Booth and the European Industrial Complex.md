@@ -1,0 +1,86 @@
+---
+title: "The American Toll Booth and the European Industrial Complex"
+source: "https://substack.com/home/post/p-185280760"
+author:
+  - "[[By Substack]]"
+published:
+created: 2026-01-21
+description:
+tags:
+  - "clippings"
+---
+---
+
+---
+
+Recently I was in Western Massachusetts, where I spent a good (and lovely) part of my life as an academic. It was not the version of Massachusetts that shows up in lifestyle magazines or alumni brochures. This is the other one. A mill town pressed into a river valley, January light already thinning by three in the afternoon. Snow piles up along loading bays that haven’t seen a truck in years. Brick factories sag under their own weight, windows punched out, steel doors warped and half-open like bad teeth. The smell is a stubborn mix of wet insulation, old oil, and rot, the kind that lingers long after the machines are gone. Parking lots built for shift changes now host a few scattered cars and the occasional plough. The bus stop timetable promises routes that technically exist but never arrives. Everything there felt like it is waiting for something that has already decided not to come back.
+
+This town has been waiting for “the jobs” for decades. First they were supposed to come back from from Mexico. Then from China. Then they were coming back because tariffs on “weak” Europeans. Then because supply chains. Then because geopolitics finally rediscovered the factory floor and the Trump White House made its “allies” in Europe, Middle east and Asia comit 8 trilion in US investments unless they lost access to US market and security promises. Each time, the waiting was presented as temporary. Each time, the landscape stayed the same.
+
+From this place, the current rhetoric out of Washington sounds again like theatre. Howard Lutnick’s Davos intervention in January 2026, delivered with the sarcasm and confidence of a man certain that volume equals truth, insists that the age of globalisation has ended and that American manufacturing has been reborn. Offshoring, he says, was a lie sold by global elites. Trump, he says, has reversed it. Exports up, imports down, deficits shrinking, investment booming. Capitalism has a new sheriff in town, and when America wins, the world wins.
+
+Read slowly, the text is almost elegant in its circularity. American decline was caused by globalisation. American revival is caused by rejecting globalisation. The evidence for revival is asserted. The lived experience of places like western Massachusetts who have seen economic erasure for decades is rhetorical collateral damage.
+
+The problem is not simply that the claims of the US trade chief are exaggerated. It is that the underlying story is wrong in a more structural way. If you look past the press releases and examine what is actually happening to US manufacturing employment, the renaissance disappears. Overall manufacturing jobs are flat to declining. By early 2026, U.S. manufacturing employment is down roughly 0.8–1.0 percent since 2025, while EU manufacturing jobs are broadly flat (±0.2 percent), with gains in Poland, Spain, and France offsetting losses in Germany. Real manufacturing output in the U.S. is stagnant (0–1 percent growth), versus about 1.5 percent in the EU. The U.S. trade deficit still exceeds €900 billion; the EU’s manufacturing trade surplus remains above €250 billion. And this happens with energy prices in Europe much higher than in the US.
+
+More tellingly, the losses are concentrated in precisely the sectors that define industrial depth: machinery, transportation equipment, computers and electronics. These are the sectors that generate dense supplier networks, specialised skills, and cumulative learning. These are the sectors you cannot fake with subsidies alone. You can’t decree industrial revival into existence, especially when you live in a United States that has not done serious industrial policy for many decades.
+
+The verifiable gains of the past year, such as they are, sit elsewhere. Chemicals. Fabricated metals. Some food processing. Not subtle machine tools or new energy vehicles, the stuff that Europeans and Asians churn out building on decades of specialisation and the fineries of industrial planning. US sectors tightly linked to cheap fossil energy, defence procurement, and relatively shallow value chains are the only shiny points on graphs. Important, yes, but hardly the foundation of a broad-based industrial revival whose contours can at best be guessed from geopolitically extracted chip fabs and rare earth smelters co-funded by the Pentagon.
+
+But for now, the US reality is but a narrow expansion driven by geopolitics, energy arbitrage, and fiscal support, layered on top of continued erosion in complex manufacturing. The machines that would have mattered here were not petrochemical plants or metal stampers. The US machines that would matter for Western Mass. would be the ones that anchored toolmaking, precision work, and supplier webs. Those have not returned, and nothing in the current data suggests they are about to. Calling this a renaissance stretches the term beyond recognition.
+
+From western Massachusetts, this pattern feels depressingly familiar. There is activity without density. Investment without spillovers. Jobs that appear in press conferences but not in neighbourhoods. Announcements that never quite congeal into durable local futures.
+
+In simple volume terms, the EU remains the stronger manufacturing exporter, while the US underperforms relative to the size of its industrial base (which, at 11 percent of GDP is only slightly lower than Europe’s at 15 percent) and technological frontier.
+
+The big difference is how mighty US industry is in global trade. In gross terms, EU manufacturing exports are roughly twice those of the US. Recent pre-crisis figures put extra-EU manufacturing exports at around €2.2–2.4 trillion annually, compared with roughly €1.2–1.3 trillion for US manufacturing exports. Even allowing for exchange-rate effects and intra-EU trade exclusions, the gap is structural rather than cyclical. Manufacturing exports amount to roughly 15–16 percent of EU GDP, versus around 7–8 percent of US GDP. Numerically, Europe is far more export-dependent.
+
+This difference persists at the sectoral level. The EU consistently outperforms the US in capital goods, machinery, vehicles, chemicals, pharmaceuticals, and high-end intermediate inputs. In global market share terms, EU producers account for roughly 35–40 percent of world exports of machinery and transport equipment, compared with around 15–18 percent for the US. Germany alone exports more manufactured goods than the US in several complex categories such as machine tools, industrial automation components, and specialized chemicals.
+
+The US export profile is narrower and more polarized. It dominates in aerospace, advanced defense-related systems, selected semiconductor segments, and high-value instruments, but these sectors are capital-intensive and relatively small in employment and volume terms. As a result, even very high productivity does not translate into export mass. Numerically, US manufacturing exports are concentrated in fewer HS chapters and fewer firms, whereas EU exports are spread across many product classes and thousands of exporters.
+
+Firm-level export participation highlights this divergence. In the EU, roughly 25–30 percent of manufacturing firms export directly, and a much larger share is indirectly export-exposed through supplier networks. In the US, fewer than 15 percent of manufacturing firms export at all, and export value is extremely concentrated: the top 1 percent of exporters account for well over 80 percent of total manufacturing export value. In the EU, concentration is still high but less extreme, reflecting the dense Mittelstand-style export base.
+
+Trade balances provide another numerical lens. The EU consistently runs a large manufacturing trade surplus, on the order of €300–400 billion annually, even after accounting for energy imports. The US runs a persistent manufacturing trade deficit exceeding €900 billion, driven by consumer goods, electronics, and automotive imports. This reflects the US growth model’s reliance on domestic demand and global capital inflows.
+
+Lutnick’s America is not demonstrating how to reindustrialise. It is demonstrating how a country that has already lost much of its industrial base can still project power. Tariffs can be raised overnight. Market access can be threatened by tweet. Executive orders substitute for patient institution-building. Uncertainty itself becomes a policy instrument. Escalation is cheap when you no longer rely on the production networks you are disrupting.
+
+The chokepoints they have on Europe are mighty: dollar swaps in case of runs on the euro, weapon systems in a US-controlled cloud, nuclear umbrella, the export dependence of the European growth model, the crushing dependence on US LNG, withholding intelligence sharing, European armies without heavy haul air transport, the list is long. Now that self bombing of cheap pipeline gas, concessions to extractive trade treaties, flattery, and personal gifts to American power seem to have gained the opposite effect than the one intended, Europe has to live in a reality of escalation dominance that favors the US.
+
+That distinction matters enormously. EU exports to the US are dominated by pharmaceuticals, machinery, and automotive and transport equipment. These sectors rely on dense production systems, long investment horizons, and cross-border supplier chains. Over the past two decades, and especially since the pandemic and the war in Ukraine, these exports have grown in absolute terms and in strategic importance. The US is Europe’s single most important export market.
+
+This is why the current American posture has inbuilt asymmetric pressure. The US economy today is far more post-industrial than its political rhetoric admits. Its comparative advantages lie in finance, platforms, energy pricing, and coercive economic instruments.
+
+[Europe’s advantages](https://www.ft.com/content/c3d1e6f6-4f37-4e1e-9b42-d46495107907), by contrast, remain stubbornly old-fashioned: making things, exporting them, and embedding them in complex value chains. That difference shapes who can afford disruption and who cannot. IN a trade war, the US can threaten escalation with relatively little immediate damage to its productive base because so much of that base has already been dismantled or externalised. Western Massachussets has almost nothing left to further destroy. The Ruhrgebiet, the Scandinavian, North Italian and Mitteleuropean industrial heartland does. Europe’s geoeconomic vulnerability is precisely its peacetime strength: that it still produces at scale. A sudden tariff shock hits factories, regions, and employment directly.
+
+Europe’s much-mocked working groups are the institutional expression of an economy that still depends on coordination, regulation, and predictability. For years many of us pleaded that the EU should bolster domestic consumption and be less export-dependent. Now that virtuous exportism has come home to roost. European business lobbies, long cast as the brake pedal on Brussels’ trade reflexes, are suddenly discovering this reality and their inner hawk. In recent days, they have issued statements backing a “robust” EU response should talks fail — a notable tonal shift from last summer, when the same groups were leaning heavily on the Commission to compromise, de-escalate, and above all keep markets calm.
+
+Back in August 2015, Gilles Gressani wrote in the FT after the vassal US-EU treaty of August 11 last year”
+
+“The underlying goal (for Trump) remains the same: to test the boundaries and obtain a strategic retreat. Although capitulation has been repackaged as pragmatism, there is not really anything “happy” about Europe’s submission. It amounts to the rejection of any substantial autonomy in exchange for protection.
+
+The supposed benefits of this arrangement lie mainly in avoiding punishment that is too harsh or sudden. As such, it is more a protection racket than a long-term insurance policy. In a period of rapid upheaval and institutional drift, this settlement gives directionless political systems a vague illusion of stability. It is a dynamic captured in the tense smiles on the faces of European Commission members alongside a triumphant Trump at the announcement of the trade deal with the US.
+
+But temporary relief always comes at a cost. It breeds defeatism and atrophies political imagination. Believing in the inevitability of Trump’s project is the first step towards accepting its terms. The constant refrains — “we have no choice,” “we need more time,” “the risks are too great” — hide a deeper problem: if the world’s most developed countries are powerless, who, then, is left to act?”
+
+The message then was accommodation; now it is deterrence. Something has clearly changed, although it is to be seen how this resolve lasts.
+
+Part of it is exhaustion. Another part is learning. European firms have spent the past few years absorbing the reality that unilateral restraint buys little goodwill in a world where trade policy is increasingly transactional, politicised, and openly weaponised. The prospect of yet another round of pressure from Washington, now doubled by threats of an invasion in Greenland has clarified incentives. When the choice is between pre-emptive concession and collective pushback, business appears less convinced that the former guarantees stability.
+
+Yet Lutnick’s invocation of “escalation dominance” captures the imbalance perfectly, even if unintentionally. The ability to raise costs faster and further than your European adversary is not a sign of industrial strength. It is a sign of leverage divorced from production. It is easier to burn bridges than to build factories. It is easier to threaten access than to recreate skills lost over generations. The geoeconomic gunboat moves more quickly than the ordoliberal merchant ship because it carries little cargo.
+
+Can Europe learn to escalate faster, louder, and more theatrically? Perhaps. When one’s back is against the wall, one gets creative faster. Europe did this time around and Trumped backed off invading Greenland and putting tariffs on the eight countries that defied him. But the harder, less glamorous task now involves learning to live with the American model of post-industrial coercion. It involves using Europe’s slowness strategically: buying time, fragmenting US domestic coalitions, letting domestic legal constraints and market reactions do some of the work. It involves targeting rents and services and above all, accelerating Europe’s own long-delayed efforts to bolster domestic demand. It mau even include a realistic reexamination of Europe’s China policy, which so far has been hinged on the American one although it wasn’t always clear why the two need overlap.
+
+From western Massachusetts, the irony is hard to miss. The loudest lectures about industrial renewal now come from a political economy that largely dismantled its own industrial base decades ago and never fully replaced it. The towns that paid the price were offered nostalgia instead of strategy. Today, those ruins are repurposed rhetorically as proof that someone else must be punished.
+
+This is the pivot Europe has to grasp. The US is no longer competing as an industrial system. It is competing as a toll-keeper: controlling access, raising costs, injecting uncertainty, and calling that strength. Escalation substitutes for capacity. Threat replaces production. What looks like confidence is, in fact, a political economy managing its decline by externalising instability.
+
+The lesson of American places like this is not just that globalisation can be undone by tariffs, or that sovereignty can be restored by shock. Or that Trump is the new feature, not a bug of the capacity of the US political economy to fix itself.
+
+It is that industrial capacity, once lost, is painfully hard to recreate even when one runs the toll booth on global financial, digital or military infrastructures. The US response to that reality has been to govern by leverage rather than production, taking increasing risks that took the US down the road of unvarnished imperialism.
+
+To me this road is not a demonstration of power but the desperation of someone who admits that one does not have what it takes to have the strategic autonomy that derives from the capacity to develop an industrial base while delivering the goods that liberal hegemons do.
+
+That lesson for a Europe forced to live on the spectrum between vassal and slave, to quote the current Belgian PM, will require abandoning Europe’s reflexive allergy to industrial policy, shedding the caricature of postwar indicative planning as technocratic hubris, and treating production as a strategic asset in an unbundling word order. Learning to be good at geoeconomics.
+
+Trump’s personality merely accelerated a structural decline in transatlantic relations in which Europe’s choice was all along between being the vassal frog in the proverbial slow cooker or to be awaken from its self-delusion about America earlier, while there is still time.

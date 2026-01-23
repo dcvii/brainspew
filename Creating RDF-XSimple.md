@@ -1,13 +1,14 @@
 ---
-title: "Creating RDF-XSimple"
-source: "https://ontologist.substack.com/p/creating-rdf-xsimple?publication_id=1877971&post_id=184499885&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Creating RDF-XSimple
+source: https://ontologist.substack.com/p/creating-rdf-xsimple?publication_id=1877971&post_id=184499885&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2026-01-14
 created: 2026-01-15
-description: "A simplified RDF-XML Structure For Today"
+description: A simplified RDF-XML Structure For Today
 tags:
-  - "clippings"
+  - clippings
+  - SHACL
 ---
 ### A simplified RDF-XML Structure For Today
 

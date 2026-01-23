@@ -1,12 +1,13 @@
 ---
-title: "Facebook"
-source: "https://www.facebook.com/marc.danziger"
+title: Facebook
+source: https://www.facebook.com/marc.danziger
 author:
 published:
 created: 2026-01-09
-description: "I did not know this."
+description: I did not know this.
 tags:
-  - "clippings"
+  - clippings
+  - 2A
 ---
 For folks (including me) debating the \_legality\_ of the 2nd and 3rd shot (note that I tried to explain \_why\_ police doctrine teaches it), here's what certainly appears to be the answer:
 
@@ -15,11 +16,3 @@ For folks (including me) debating the \_legality\_ of the 2nd and 3rd shot (note
 "We now consider respondent’s contention that, even if the use of deadly force was permissible, petitioners acted unreasonably in firing a total of 15 shots. We reject that argument. It stands to reason that, if police officers are justified in firing at a suspect in order to end a severe threat to public safety, the officers need not stop shooting until the threat has ended. As petitioners noted below, “if lethal force is justified, officers are taught to keep shooting until the threat is over.”
 
 9-0 decision in Plumhoff v. Rickard, 2014.
-
-![](https://www.facebook.com/www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint2_radial_15251_63610)'%20fill-opacity='.5'/%3E%3Cpath%20d='M7.3014%203.8662a.6974.6974%200%200%201%20.6974-.6977c.6742%200%201.2207.5465%201.2207%201.2206v1.7464a.101.101%200%200%200%20.101.101h1.7953c.992%200%201.7232.9273%201.4917%201.892l-.4572%201.9047a2.301%202.301%200%200%201-2.2374%201.764H6.9185a.5752.5752%200%200%201-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878%203.6878%200%200%200%20.3893-1.6509l-.0002-.4496ZM4.367%207a.767.767%200%200%200-.7669.767v3.2598a.767.767%200%200%200%20.767.767h.767a.3835.3835%200%200%200%20.3835-.3835V7.3835A.3835.3835%200%200%200%205.134%207h-.767Z'%20fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient%20id='paint1_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='rotate(90%20.0005%208)%20scale(7.99958)'%3E%3Cstop%20offset='.5618'%20stop-color='%230866FF'%20stop-opacity='0'/%3E%3Cstop%20offset='1'%20stop-color='%230866FF'%20stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient%20id='paint2_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='rotate(45%20-4.5257%2010.9237)%20scale(10.1818)'%3E%3Cstop%20offset='.3143'%20stop-color='%2302ADFC'/%3E%3Cstop%20offset='1'%20stop-color='%2302ADFC'%20stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient%20id='paint0_linear_15251_63610'%20x1='2.3989'%20y1='2.3999'%20x2='13.5983'%20y2='13.5993'%20gradientUnits='userSpaceOnUse'%3E%3Cstop%20stop-color='%2302ADFC'/%3E%3Cstop%20offset='.5'%20stop-color='%230866FF'/%3E%3Cstop%20offset='1'%20stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E)
-
-![](https://www.facebook.com/www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Cg%20clip-path='url(%23clip0_15251_63610)'%3E%3Cpath%20d='M15.9963%208c0%204.4179-3.5811%207.9993-7.9986%207.9993-4.4176%200-7.9987-3.5814-7.9987-7.9992%200-4.4179%203.5811-7.9992%207.9987-7.9992%204.4175%200%207.9986%203.5813%207.9986%207.9992Z'%20fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath%20d='M15.9973%207.9992c0%204.4178-3.5811%207.9992-7.9987%207.9992C3.5811%2015.9984%200%2012.417%200%207.9992S3.5811%200%207.9986%200c4.4176%200%207.9987%203.5814%207.9987%207.9992Z'%20fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath%20d='M7.9996%205.9081c-.3528-.8845-1.1936-1.507-2.1748-1.507-1.4323%200-2.4254%201.328-2.4254%202.6797%200%202.2718%202.3938%204.0094%204.0816%205.1589.3168.2157.7205.2157%201.0373%200%201.6878-1.1495%204.0815-2.8871%204.0815-5.159%200-1.3517-.993-2.6796-2.4254-2.6796-.9811%200-1.822.6225-2.1748%201.507Z'%20fill='%23fff'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient%20id='paint1_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='matrix(0%207.9992%20-7.99863%200%207.9986%207.9992)'%3E%3Cstop%20offset='.5637'%20stop-color='%23E11731'%20stop-opacity='0'/%3E%3Cstop%20offset='1'%20stop-color='%23E11731'%20stop-opacity='.1'/%3E%3C/radialGradient%3E%3ClinearGradient%20id='paint0_linear_15251_63610'%20x1='2.3986'%20y1='2.4007'%20x2='13.5975'%20y2='13.5993'%20gradientUnits='userSpaceOnUse'%3E%3Cstop%20stop-color='%23FF74AE'/%3E%3Cstop%20offset='.5001'%20stop-color='%23FA2E3E'/%3E%3Cstop%20offset='1'%20stop-color='%23FF5758'/%3E%3C/linearGradient%3E%3CclipPath%20id='clip0_15251_63610'%3E%3Cpath%20fill='%23fff'%20d='M-.001.0009h15.9992v15.9984H-.001z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E)
-
-All reactions:
-
-16 Tracy Ambrico, Charles Riggs and 14 others
