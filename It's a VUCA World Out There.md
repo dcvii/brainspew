@@ -1,0 +1,36 @@
+---
+title: "It's a VUCA World Out There"
+source: "https://mutualpersuasion.substack.com/p/its-a-vuca-world-out-there"
+author:
+  - "[[MutualPersuasion]]"
+published: 2026-01-13
+created: 2026-01-25
+description: "Embracing the VUCA Reality"
+tags:
+  - "clippings"
+---
+### Embracing the VUCA Reality
+
+### The World is VUCA
+
+We live in a Volatile, Uncertain, Complex, and Ambiguous World: a “VUCA” world. This isn’t hard to discern; the stock market, the parenting of a teenager, and this year’s NFL standings all fit the VUCA label. More broadly, VUCA should be an expected condition in a free and pluralistic society in which a variety of people with different preferred ideologies must co-exist. Recognizing this world as thoroughly VUCA should not be a profound revelation. What may be less intuitive is that VUCA is not necessarily a bad thing.
+
+I think the real conversation about VUCA should emphasize strategies for collaborating with it. Many try to mitigate VUCA by trying to engineer its opposite (a Stable, Certain, Simple, and Clear world). Others, VUCA “enthusiasts” like myself, believe we should lean into it and encourage ourselves and the world to work with the inevitable chaos of the human experience. In fact, educators would do well to prepare students to navigate a VUCA world explicitly. To be clear, I do not think the problem is VUCA. The problem is our inability or refusal to embrace VUCA, to lean into it. What’s more, I think a framework for doing so is already in place for both educators, managers, and other kinds of societal leaders. That framework is rhetorical education, specifically as it pertains to civil discourse.
+
+Though rhetoric’s specific relevance to VUCA is implied, I see other education specialists insisting that VUCA is not an obstacle, but an opportunity. Education professional [Erin Lynn Raab](https://www.gettingsmart.com/2021/06/24/how-do-we-prepare-students-to-flourish-in-a-vuca-future/) believes that traditional schoolings prepares students for a stable, certain, simple, and clear world—in other words, a world that doesn’t exist. She writes “What  *should*  drive the design of K-12 schooling is a deep understanding of how individuals flourish, grow, and learn, a vision of the kind of community and society we want to create together, and an explicit set of values that underlie that community.” I agree, as does educator [Edward Cosentino](https://www.naesp.org/resource/embracing-the-vuca-mindset-in-educational-leadership/), who sees VUCA as a collection of leadership challenges and an ongoing discipline that can help develop people with emotional intelligence, courage, and a strong sense of purpose. For Cosentino, embracing VUCA “is a mindset and a way of life.” I believe that mindset could be construed as a rhetorical mindset.
+
+### VUCA and Kairos
+
+Life in a VUCA world is best served by cultivating a “kairotic disposition.” In rhetorical theory the term [“Kairos”](https://writingcommons.org/article/kairos-2/?utm_source=chatgpt.com) denotes the confluence of time, place, audience, subject matter, and essence. A change in one of those things can alter what one does, how one does it, and even why one does it. Thus, Kairos is the word for how communication can be volatile (e.g., unpredictable developments), uncertain (predictive difficulty) complex (various causes and effects), and ambiguous (unclear meaning). We should learn how to communicate and, by extension, work together within it. We should cultivate a disposition of Kairos.
+
+The efficacy of a kairotic disposition is what medieval philosopher Desiderius Erasmus tacitly proposed with his concept of “Copia”: an abundance of expressions to be used based on the moment. In “ **[On Copia: Foundations of the Abundant Style](http://www2.csudh.edu/ccauthen/576f12/erasmus.pdf)**,” Erasmus elaborates on the “exercise” of Copia, insisting that variety and ambiguity should be embraced and that we should develop the skills to foster “the ability to speak or write extempore,” which “will prevent us from standing there stammering and dumbfounded, or from disgracing ourselves by drying up in the middle.” Other than avoiding embarrassment, Erasmus also highlighted that rhetorical skill would help us navigate a VUCA world, insisting that rhetoric will help us “divert speech, even when we have embarked upon it rather hastily, into the course we desire when we have so many expressions lined up ready for action.” Erasmus seemed to believe that rhetoric was the most salient skill for VUCA navigation, even in his much less free and pluralistic environment.
+
+This is the reason aspiring leaders from antiquity to the present create [“commonplace” books](https://www.masterclass.com/articles/how-to-keep-a-commonplace-book?utm_source=chatgpt.com): notebooks full of terms, phrases, and talking points collected through everyday life that may come in handy in the future. Commonplace books were kept by prominent leaders and thinkers like Marcus Aurelius, Francis Bacon, Thomas Jefferson, Ralph Waldo Emerson, Virginia Woolf, and, unsurprisingly, Desiderius Erasmus. Lest you think “commonplacing” is an antiquated phenomenon, people like the writer and influencer, [Ryan Holiday](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/?utm_source=chatgpt.com), swear by commonplace books. People like [Bill Gates and Ronald Reagan](https://sweetsequels.com/the-commonplace-book/?utm_source=chatgpt.com) are said to have used them. The writer and entrepreneur Navil Ravikant seems to have actually published a version of his commonplace book, titled *[The Almanack of Navil Ravikant.](https://www.navalmanack.com/)*Clearly, there is benefit to be had from keeping such a journal.
+
+### VUCA Ed
+
+Kairos and commonplace books notwithstanding, cultivating a kairotic disposition takes some work. The good news is that K-12 schools are starting to emphasize effective communication by basing their education on The Trivium: a form of education popular in medieval Europe that focused on three core areas: Grammar, Logic, and Rhetoric. [The Trivium School](https://triviumschool.com/) in Massachusetts may be the most explicit about this mode of education (It’s in the name, after all), but schools like the [Veritas School](https://veritasschool.net/) in Oregon or [Rockbridge Academy](https://www.rockbridge.org/) in Maryland have also embrace the trivium. More schools like this exist nationally, and students attending these “trivium schools” may be the best equipped to function successfully in a VUCA world. They are starting young and are in good positions to achieve Erasmus’s Copia. In fact, they may have several volumes of such journals by the time they graduate. The kids are alright.
+
+### Don’t Avoid it; Lean into It
+
+That said, more schools, including institutions of higher education, need to follow suit. If we want today’s youth to become adults that can handle, manage, and, contribute to society in a VUCA world, rhetorical savvy is a must. The present and future are VUCA in nature. Education must be geared toward VUCA preparation, not VUCA avoidance. I think rhetoric is a powerful way to do so.
