@@ -1,13 +1,14 @@
 ---
-title: "The Battle of Berkeley"
-source: "https://www.nationalreview.com/2017/04/berkeley-riot-leftist-mob-violence-undermines-rule-law/"
+title: The Battle of Berkeley
+source: https://www.nationalreview.com/2017/04/berkeley-riot-leftist-mob-violence-undermines-rule-law/
 author:
   - "[[David French]]"
 published: 2017-04-17
 created: 2026-01-25
-description: "The weekend riot in Berkeley, Calif. was evidence that we're reaching a dangerous breaking point past which American rule of law may not survive."
+description: The weekend riot in Berkeley, Calif. was evidence that we're reaching a dangerous breaking point past which American rule of law may not survive.
 tags:
-  - "clippings"
+  - clippings
+  - civil_unrest
 ---
 ![](https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/04/berkeley-riot-leftist-mob-violence-undermines-rule-law-1.jpg?w=920&ssl=1)
 
