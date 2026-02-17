@@ -1,13 +1,15 @@
 ---
-title: "Hypergraphs and SHACL Rules"
-source: "https://ontologist.substack.com/p/hypergraphs-and-shacl-rules?publication_id=1877971&post_id=185381711&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Hypergraphs and SHACL Rules
+source: https://ontologist.substack.com/p/hypergraphs-and-shacl-rules?publication_id=1877971&post_id=185381711&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Kurt Cagle]]"
 published: 2026-01-22
 created: 2026-01-22
-description: "More explorations on how to implement hypergraphs in RDF 1.2"
+description: More explorations on how to implement hypergraphs in RDF 1.2
 tags:
-  - "clippings"
+  - clippings
+  - ontology
+  - SHACL
 ---
 ### More explorations on how to implement hypergraphs in RDF 1.2
 

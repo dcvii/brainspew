@@ -1,12 +1,13 @@
 ---
-title: "Slowly changing dimension - Wikipedia"
-source: "https://en.wikipedia.org/wiki/Slowly_changing_dimension"
+title: Slowly changing dimension - Wikipedia
+source: https://en.wikipedia.org/wiki/Slowly_changing_dimension
 author:
 published:
 created: 2025-04-04
 description:
 tags:
-  - "clippings"
+  - clippings
+  - SCD2
 ---
 In [data management](https://en.wikipedia.org/wiki/Data_management "Data management") and [data warehousing](https://en.wikipedia.org/wiki/Data_warehousing "Data warehousing"), a **slowly changing dimension** (SCD) is a [dimension](https://en.wikipedia.org/wiki/Dimension_\(data_warehouse\) "Dimension (data warehouse)") that stores [data](https://en.wikipedia.org/wiki/Data "Data") which, while generally stable, may change over time, often in an unpredictable manner.[^1] This contrasts with a **rapidly changing dimension**, such as transactional parameters like customer ID, product ID, quantity, and price, which undergo frequent updates. Common examples of SCDs include [geographical locations](https://en.wikipedia.org/wiki/Market_area "Market area"), [customer details](https://en.wikipedia.org/wiki/Customer_data "Customer data"), or [product attributes](https://en.wikipedia.org/wiki/Product_analysis "Product analysis").
 
