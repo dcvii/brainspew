@@ -1,0 +1,22 @@
+---
+title: "Of Greenmantle and Me"
+source: "https://niallferguson.substack.com/p/of-greenmantle-and-me?utm_source=post-email-title&publication_id=3072903&post_id=161686728&utm_campaign=email-post-title&isFreemail=true&r=7br8e&triedRedirect=true&utm_medium=email"
+author:
+  - "[[Niall Ferguson]]"
+published:
+created: 2025-04-20
+description: "A lecture to the John Buchan Society, March 22, 2025"
+tags:
+  - "clippings"
+---
+### A lecture to the John Buchan Society, March 22, 2025
+
+![](https://substackcdn.com/image/fetch/w_424)
+
+This is the story of why I decided to call my advisory business after one of John Buchan’s books, *Greenmantle*.
+
+Let me begin by sketching a little bit the background to the founding of Greenmantle LLC back in 2011. If you go back to that period, two things were happening that I watched with increasing concern. One was that universities were increasingly in the grip of a kind of political mania. You could call it “wokeism,” for short. It consisted of a variety of notionally progressive ideas: diversity, equity and inclusion, for example; critical race theory was another. These ideas, taken together, created an increasingly illiberal atmosphere, not least on the campus of Harvard University, where I was at that time a professor. I became conscious of a new pressure, which had not existed before, to restrict speech on campus, to police the kind of things that one could say. So I realized that the days of true academic freedom were waning, and the things that had attracted me to academia back when I was an undergraduate at Oxford in the early 1980s were ceasing to be true. I had become an academic because I cherish freedom and wanted always to be able to say and write what I liked without some boss telling me to put a sock in it. If the president of Harvard—or, for that matter, my progressive colleagues or radical students or the student newspaper—could tell me to put a sock in it, then the game was no longer worth the candle.
+
+The second thing that was happening in 2011 that also concerned me greatly was the alteration of the public sphere. It had been fundamentally changed with the advent of the internet, the World Wide Web, and in particular, network platforms such as Google and Facebook and Twitter. On these platforms—whether on blogs, as they were then known, or on social media—public intellectuals increasingly began to feel a bit like public conveniences, in that people could excrete all over them at will. Writing and publishing articles prior to the internet could get you in some kinds of trouble. You might end up with a libel suit, but more likely you just received letters written in green ink by indignant people, which you could reply to or bin, depending on your state of mind. However, after the network platforms became a dominant part of the public sphere, any public intellectual was likely to come under vituperative attack for almost anything he or she published.
+
+I therefore concluded that it would be smart, for two reasons, to create something new: first, something that Harvard could not control, something off campus, and second, something that was off the grid, that was not part of the public sphere. I created Greenmantle as something that would do the kind of work that I love—historically based research—but would do it independently and privately. I had just written *High Financier*, a biography of Sir Siegmund Warburg, perhaps the most interesting figure to emerge in the City of London in the 1930s and 1940s—a man who, by creating SG Warburg, had revolutionized the way that the City worked. And so I decided, since I was trying to create a business, that I would take Siegmund Warburg as my role model. And the first thing that struck me when I thought about what Warburg had done was that his business essentially consisted of giving advice. It wasn’t really a bank. It didn’t have much of a balance sheet. Its main function was to advise financial or industrial clients on transactions and to harness Siegmund’s not inconsiderable intellect. He had become a banker only because the Nazis had come to power in Germany and put paid to his academic and literary ambitions. My idea was to be a little like Siegmund: to hire the smartest people I could find and offer the most expensive advice I could dare to charge people for. Greenmantle was therefore designed to be a little like the early SG Warburg. I set about trying to get my most talented students to come and work for me again, this time for money.

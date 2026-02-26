@@ -1,13 +1,13 @@
 ---
-title: "Trump administration admits DOGE accessed personal Social Security data"
-source: "https://www.washingtonpost.com/politics/2026/01/20/doge-social-security-data-privacy-act/"
+title: Trump administration admits DOGE accessed personal Social Security data
+source: https://www.washingtonpost.com/politics/2026/01/20/doge-social-security-data-privacy-act/
 author:
   - "[[By Meryl Kornfield]]"
 published:
 created: 2026-01-22
 description:
 tags:
-  - "clippings"
+  - DOGE
 ---
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Musk’s DOGE says it has saved $55 billion. Not so fast."
-source: "https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/"
+title: Musk’s DOGE says it has saved $55 billion. Not so fast.
+source: https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/
 author:
   - "[[Dan Keating]]"
   - "[[Andrew Ba Tran]]"
@@ -8,9 +8,9 @@ author:
   - "[[Jon Swaine]]"
 published: 2025-02-22
 created: 2025-02-22
-description: "A Washington Post analysis found that hundreds of the canceled contracts DOGE listed represent savings of $0 each."
+description: A Washington Post analysis found that hundreds of the canceled contracts DOGE listed represent savings of $0 each.
 tags:
-  - "clippings"
+  - DOGE
 ---
 Elon Musk’s U.S. DOGE Service claimed this week to have saved an estimated $55 billion through a combination of layoffs, canceled contracts, lease renegotiations and other actions. But a list that it posted of contracts and leases suggests that number is inflated.
 

@@ -7,8 +7,7 @@ published:
 created: 2025-12-04
 description:
 tags:
-  - clippings
-  - nano-banana
+  - ai_graphics
 ---
 ---
 
@@ -264,7 +263,7 @@ Your subject block specifies: product type is “can,” brand name is “Aurora
 
 Your props block lists two items. Foreground contains lime slices—you specify 3 of them, positioned front left. Surroundings contains ice cubes—12 of them, region is “around base.”
 
-Your environment block specifies the surface is glossy with reflection strength of 0.7, background color is #003b47 (that’s your dark teal), effect is “bokeh\_soft.”
+Your environment block specifies the surface is glossy with reflection strength of 0.7, background color is (that’s your dark teal), effect is “bokeh\_soft.”
 
 Your camera block specifies angle is three-quarter front, distance is medium-close, focal length is 50mm.
 
@@ -282,7 +281,7 @@ Your lighting block specifies key light from right at high intensity, fill light
 
 Your app metadata specifies: platform is desktop, fidelity is high-fi, theme is “alien\_control\_panel.”
 
-Your tokens specify colors: primary is #19ffb3 (neon green), background is #050016 (deep space near-black). Typography: font family is “condensed\_sci\_fi,” headline style is all-caps with wide letter spacing.
+Your tokens specify colors: primary is (neon green), background is (deep space near-black). Typography: font family is “condensed\_sci\_fi,” headline style is all-caps with wide letter spacing.
 
 Your screens block lists three screens. First is “command\_bridge” with containers for left nav, main panel, and status bar. Second is “star\_map” with a full-bleed visualization container. Third is “bio\_scan” with a split view for data and visualization.
 
@@ -302,7 +301,7 @@ Your components block lists the specific elements. A button with ID “btn\_firs
 
 Your app metadata specifies: platform is web, fidelity is high-fi, viewport is 1440×900.
 
-Your tokens specify colors: primary is #2563EB (a medium blue), background is #F9FAFB (light gray), surface is #FFFFFF (white). Typography: font family is “system\_sans,” headline size is 20px, body size is 14px.
+Your tokens specify colors: primary is (a medium blue), background is (light gray), surface is (white). Typography: font family is “system\_sans,” headline size is 20px, body size is 14px.
 
 Your screens block has one screen, “dashboard\_main.” Layout containers: “top\_nav” (horizontal stack), “sidebar” (vertical stack), “content” (grid layout).
 
@@ -366,7 +365,7 @@ Once you’re working with JSON schemas, something important shifts. Nano Banana
 
 **Reproducibility.** The same JSON spec produces the same render, within normal model variance. You can hand a spec to a colleague and they’ll get essentially what you got. You can re-render something from six months ago and get the same result. “It worked when I tried it yesterday” becomes “here’s the exact spec, render it yourself.”
 
-**Diffability.** You can compare version 3 and version 4 of your design and see exactly what changed. “Added a sidebar navigation item. Changed primary color from #2563EB to #1D4ED8. Increased header font size from 20px to 24px.” No more prompt archaeology—the changes are explicit in the JSON.
+**Diffability.** You can compare version 3 and version 4 of your design and see exactly what changed. “Added a sidebar navigation item. Changed primary color from to. Increased header font size from 20px to 24px.” No more prompt archaeology—the changes are explicit in the JSON.
 
 **Governance.** You can encode rules in your schema. Accessibility requirements: minimum tap targets of 44 pixels, contrast ratios above 4.5:1. Brand requirements: only these approved colors, only these approved fonts. Data integrity requirements: these specific numbers must appear exactly as specified. The rules become part of the spec, not verbal instructions that might be ignored.
 

@@ -1,0 +1,49 @@
+---
+title: "Longreads + Open Thread"
+source: "https://www.thediff.co/archive/longreads-open-thread-128/?ref=the-diff-newsletter"
+author:
+  - "[[Byrne Hobart]]"
+published: 2025-05-24
+created: 2025-05-24
+description: "Ancient Cities, Microsoft, Psychedelics, Spotify, 1.5-Sided Markets, FX"
+tags:
+  - "clippings"
+---
+## Ancient Cities, Microsoft, Psychedelics, Spotify, 1.5-Sided Markets, FX
+
+## Longreads
+
+- Maxwell Tabarrok on [locating lost ancient cities through trade records](https://www.maximum-progress.com/p/how-to-find-ancient-assyrian-cities?ref=thediff.co). A good writeup of a fun piece of economic detective work, with some modern implications: "Ancient Assyrian traders were moving camels and wagons across dirt roads and through completely different political institutions, while modern Turkish truckers are driving 18-wheelers on highways but they both trade about 4x less between cities that are twice as far away." One way to make this less of a puzzle is to consider just how much more economic activity modern people engage in compared to historical periods. There's a lot more trading to be done when you're orders of magnitude wealthier than is required for subsistence, and that creates the opportunity for local means to satisfy that demand, and richer countries see disproportionate growth from the services sector, which is less trade-sensitive. Still, it's an odd and surprising observation that the elasticity of trade with respect to distance is so stable.
+- Nilay Patel [interviews Microsoft CTO Kevin Scott](https://www.theverge.com/decoder-podcast-with-nilay-patel/669409/microsoft-cto-kevin-scott-interview-ai-natural-language-search-openai?ref=thediff.co). This interview mostly focuses on the economics of AI, specifically the question of how anyone will make money online if AI agents are circumventing ad-supported models, and are trained on tokens they haven't paid for. He seems confident that we'll work something out, which will still have implications for the online content business: it means that being able to write at the same skill as an LLM is basically worthless, but being able to produce things that they can't, and that will influence their behavior, is very, very worthwhile.
+- *Wired* has a [profile of a prolific psychedelics manufacturer and seller who](https://www.wired.com/story/rise-fall-dark-web-psychedelics-kingpin-dmt/?ref=thediff.co). (Given all the biographical details at the beginning, it's not much of a spoiler to say that he got caught.) What this article is really good for, though, is framing the question of whether we'll ever know the identity of a figure like Satoshi Nakamoto (or any other pseudonymous figure). The person profiled here did an incredibly bad job of keeping a low profile: the article links to two separate news stories involving him before his arrest, one from when his DMT lab exploded and one from when his pet lemur bit someone. If someone wants to stay hidden, and their operational security approach includes advanced spycraft like "don't be [photographed by a local newspaper walking your pet lemur](https://www.dailycamera.com/2016/07/20/illegal-pet-lemur-bites-2-year-old-in-nederland/?ref=thediff.co)," there's a good chance their secret will die with them.
+- In another good *Wired* piece on illegal behavior, here's [how a Spotify scammer created an endless series of fake bands with AI-generated music, and used it to steal millions in royalties](https://www.wired.com/story/ai-bots-streaming-music/?ref=thediff.co). This is also a good story about how gaming the economic incentives on a platform creates obvious signs of misbehavior: listeners concentrated in developing markets, sudden spikes and declines in audience, minimal social media chatter about the artist. It's surprising that this works at all, and, over time, this kind of arbitrage will probably go away just because the maximum quality of AI-generated music and the median quality of pop music will converge.
+- In [*Capital Gains*](https://capitalgains.thediff.co/?ref=thediff.co), we have a longer-form writeup on an occasional *Diff* -ism: [1.5-sided markets](https://capitalgains.thediff.co/p/1-5-sided-markets?ref=thediff.co), or cases that look like two-sided markets but work even if one side isn't fully on board. AI enables many more of these, so it's temporarily a very important topic.
+
+## Books
+
+[*Why Aren't They Shouting?: A Banker’s Tale of Change, Computers and Perpetual Crisis*](https://www.amazon.com/Why-Arent-They-Shouting-Computers-ebook/dp/B019CGXOA0?ref=thediff.co): Trading floors are much quieter and better-behaved environments than they're usually depicted in movies and books—a lot less swashbuckling, a lot more IT project management. *Why Aren't They Shouting* is basically a narrative around those IT projects, specifically as they pertain to making FX trading electronic rather than voice-based.There's more to it than just that, but the common thread in the book is that finance is a data- and compute-intensive industry, and the efficient frontier is often determined by what computers are capable of. Early on, he talks about "triangle man,"—not a *They Might Be Giants* reference, but a trader who was preternaturally good at finding cases where swapping currency A for B for C back to A could turn a profit. Computers were a bit better at this.
+
+An ongoing occurrence in the book is that the bank will come up with a more sophisticated risk system, either one that's more real-time or that has a more coherent sense of how different trades offset one another, and the newly-confident bank can make bigger trades as a result. And then, every so often, those correlations will suddenly shift because everyone's seen the same historical relationships and made the same hedging trades, and when they all unwind these trades at once the correlation veers from positive to negative and red ink abounds.
+
+One of the most interesting digressions in the book is when the author talks about what drove banks to take such big risks, and argues that it wasn't greed. He points out that, while he's obviously biased, he's also uniquely well-informed, because part of his job was to pay his traders a) enough that they'd keep making money for the bank, but b) other than that, as little as possible. He was basically a full-time researcher of human motivation as it pertains to risk-taking, and he argues that some traders were motivated by more raw competitiveness than financial compensation, and others were motivated by the fun of inventing a new financial product and then putting it to work. (On the other hand, if you just care about competing, you could probably retire and spend all your time training for marathons, and if you just care about novelty you could retire and write a play or get really into recreational math—clearly, the prospect of making millions of dollars has *some* impact on what traders do.)
+
+This is a great book to read if you're worried about AI taking your job and leaving you penniless, because over the course of the author's career, computers did indeed repeatedly take his job, but he wound up with plenty of pennies in the end. But that wasn't at all a passive process—he had to constantly ask himself what could be automated, and what he'd do with his very expensive-to-the-bank time once it was. And repeatedly answering that question is enough to keep someone busy throughout a long and interesting career.
+
+## Open Thread
+
+- Drop in any links or comments of interest to *Diff* readers.
+- One pattern I like to look for is industries where headcount peaked a long time ago, so the average age is high and rising, but there's a new company in the industry with a founder from a different generation than most of the other execs. Anything come to mind?
+
+## Diff Jobs
+
+Companies in the *Diff* network are actively looking for talent. See a sampling of current open roles below:
+
+- An OpenAI backed startup that’s applying advanced reasoning techniques to reinvent investment analysis from first principles and build the IDE for financial research is looking for software engineers and a fundamental analyst. Experience at a Tiger Cub a plus. (NYC)
+- A Google Ventures-backed startup founded by SpaceX engineers that’s building data infrastructure and tooling for hardware companies is looking for a product manager with 3+ years experience building product at high-growth enterprise SaaS businesses. Technical background preferred. (LA, Hybrid)
+- YC-backed startup using AI to transform how companies quantify and optimize engineering productivity is hiring formidable full-stack and AI engineers. Experience with React + Typescript, Go, or Python on the ML side a plus. (SF)
+- A multi-stage, fintech focused investment firm is looking for an investment associate to support thematic opportunity identification, diligence, and execution. Investing experience OR high-growth operating/investment banking/consulting experience and demonstrated interest in fintech required. (NYC, London)
+- A hyper-growth startup (10x growth in 9 months) that’s turning customers’ sales and marketing data into revenue is looking for a head of deployments who is excited to work closely with customers to make the product work for them. Experience as a forward deployed engineer and leading enterprise deployments preferred. (SF, NYC)
+
+Even if you don't see an exact match for your skills and interests right now, we're happy to talk early so we can let you know if a good opportunity comes up.
+
+If you’re at a company that's looking for talent, we should talk! Diff Jobs works with companies across fintech, hard tech, consumer software, enterprise software, and other areas—any company where finding unusually effective people is a top priority.

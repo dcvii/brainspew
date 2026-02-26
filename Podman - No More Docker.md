@@ -1,13 +1,13 @@
 ---
 title: Detail - NoteGPT Workspace
 source: https://notegpt.io/workspace/detail/Z5uBcczJxUY
-author: 
-published: 
+author:
+published:
 created: 2025-02-07
-description: 
+description:
 tags:
-  - clippings
   - southwall
+  - containers
 ---
 ### Summary
 

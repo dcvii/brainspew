@@ -1,13 +1,11 @@
 ---
-title: "The Signal I Was Waiting For"
-source: "https://cdrsalamander.substack.com/p/the-signal-i-was-waiting-for?publication_id=247761&post_id=159934514&isFreemail=true&r=7br8e&triedRedirect=true"
+title: The Signal I Was Waiting For
+source: https://cdrsalamander.substack.com/p/the-signal-i-was-waiting-for?publication_id=247761&post_id=159934514&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[CDR Salamander]]"
 published: 2024-09-04
 created: 2025-03-27
-description: "...my kingdom for a STU/STE App..."
-tags:
-  - "clippings"
+description: ...my kingdom for a STU/STE App...
 ---
 ### ...my kingdom for a STU/STE App...
 

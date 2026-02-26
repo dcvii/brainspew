@@ -1,13 +1,13 @@
 ---
-title: "Towards Scaling Laws for Coding Agents"
-source: "https://vizops.ai/blog/agent-scaling-laws/"
+title: Towards Scaling Laws for Coding Agents
+source: https://vizops.ai/blog/agent-scaling-laws/
 author:
   - "[[Pushpendre Rastogi]]"
 published: 2026-02-09
 created: 2026-02-19
-description: "We reverse-engineered the scaffolding behind Anthropic's Claude-built C compiler and ran our own experiments to explore scaling laws for parallel coding agents."
+description: We reverse-engineered the scaffolding behind Anthropic's Claude-built C compiler and ran our own experiments to explore scaling laws for parallel coding agents.
 tags:
-  - "clippings"
+  - agentic
 ---
 [Back to Blog](https://vizops.ai/blog)
 

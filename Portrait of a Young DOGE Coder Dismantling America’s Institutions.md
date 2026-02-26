@@ -1,15 +1,15 @@
 ---
-title: "Portrait of a Young DOGE Coder Dismantling America’s Institutions"
-source: "https://www.bloomberg.com/features/2025-luke-farritor-doge/?li_fat_id=f99de7fd-d869-4b73-8dcc-b6ac48cff168"
+title: Portrait of a Young DOGE Coder Dismantling America’s Institutions
+source: https://www.bloomberg.com/features/2025-luke-farritor-doge/?li_fat_id=f99de7fd-d869-4b73-8dcc-b6ac48cff168
 author:
   - "[[Susan Berfield]]"
   - "[[Margi Murphy]]"
   - "[[Jason Leopold]]"
 published: 2025-07-29
 created: 2025-10-20
-description: "Luke Farritor could have been an artist, or a builder, or someone dedicated to seeing a great historical mystery through. Instead he wound up at the Department of Government Efficiency, slashing, dismantling, undoing."
+description: Luke Farritor could have been an artist, or a builder, or someone dedicated to seeing a great historical mystery through. Instead he wound up at the Department of Government Efficiency, slashing, dismantling, undoing.
 tags:
-  - "clippings"
+  - DOGE
 ---
 Before he was called a patriot and a traitor for following Elon Musk to Washington to join DOGE; before he was hired by the US government despite a résumé that would have been previously rejected; before he was granted extensive access to sensitive data and invited to brief the country’s vice president; before he met his Twitter heroes in Silicon Valley; before he became a Thiel Fellow, which required him to become a college dropout; before he was celebrated internationally for using AI to help detect passages in a scroll charred by the eruption of Mount Vesuvius; before all of that, Luke Farritor, now 23, was a homeschooled kid in Lincoln, Nebraska, who called himself lukethecoder64.
 
