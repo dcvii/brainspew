@@ -1,13 +1,13 @@
 ---
-title: "Behold. Databricks/Spark Temp Tables"
-source: "https://dataengineeringcentral.substack.com/p/behold-databricksspark-temp-tables?publication_id=1224799&post_id=186919866&isFreemail=false&r=7br8e&triedRedirect=true"
+title: Behold. Databricks/Spark Temp Tables
+source: https://dataengineeringcentral.substack.com/p/behold-databricksspark-temp-tables?publication_id=1224799&post_id=186919866&isFreemail=false&r=7br8e&triedRedirect=true
 author:
   - "[[By Daniel Beach]]"
 published:
 created: 2026-02-23
 description:
 tags:
-  - "clippings"
+  - databricks
 ---
 ---
 

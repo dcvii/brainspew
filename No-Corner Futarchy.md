@@ -7,8 +7,7 @@ published: 2025-11-06
 created: 2025-11-06
 description: In March 1980, the Hunt Brothers tried but failed to corner the silver market.
 tags:
-  - clippings
-  - crypto
+  - cryptocurrency
 ---
 In March 1980, the Hunt Brothers tried but failed to corner the silver market. The big fall in price after caused “panic”. People try to design markets to avoid the possibility of cornering.
 

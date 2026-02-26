@@ -5,11 +5,8 @@ Before Donald Trump’s decisive election victory last week, Reddit witches on r
 ---
 
 By Peter Limberg
-
 Nov 12, 2024 04:04 PM
-
 3 min. read
-
 View original
 
 ---

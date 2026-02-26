@@ -1,13 +1,13 @@
 ---
-title: "Ezra Klein's Failure to Defend American Liberalism"
-source: "https://quillette.com/2026/02/24/ezra-kleins-feeble-liberalism-charlie-kirk-mahmoud-khalil/"
+title: Ezra Klein's Failure to Defend American Liberalism
+source: https://quillette.com/2026/02/24/ezra-kleins-feeble-liberalism-charlie-kirk-mahmoud-khalil/
 author:
   - "[[By Brian Stewart]]"
 published:
 created: 2026-02-25
 description:
 tags:
-  - "clippings"
+  - domestic-affairs
 ---
 ---
 

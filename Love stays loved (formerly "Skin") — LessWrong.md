@@ -1,13 +1,12 @@
 ---
-title: "Love stays loved (formerly \"Skin\") — LessWrong"
-source: "https://www.lesswrong.com/posts/6qgtqD6BPYAQvEMvA/love-stays-loved-formerly-skin"
+title: Love stays loved (formerly "Skin") — LessWrong
+source: https://www.lesswrong.com/posts/6qgtqD6BPYAQvEMvA/love-stays-loved-formerly-skin
 author:
   - "[[Swimmer963 (Miranda Dixon-Luinenburg)]]"
 published: 2025-07-18
 created: 2025-07-24
 description: "This is a short story I wrote in mid-2022. Genre: cosmic horror as a metaphor for living with a high p-doom.  •   • One …"
 tags:
-  - "clippings"
 ---
 This is a short story I wrote in mid-2022. Genre: cosmic horror as a metaphor for living with a high p-doom.
 

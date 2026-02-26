@@ -1,13 +1,13 @@
 ---
-title: "Data Engineering After AI"
-source: "https://www.dataengineeringweekly.com/p/data-engineering-after-ai?publication_id=73271&post_id=188977018&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Data Engineering After AI
+source: https://www.dataengineeringweekly.com/p/data-engineering-after-ai?publication_id=73271&post_id=188977018&isFreemail=true&r=7br8e&triedRedirect=true
 author:
   - "[[Ananth Packkildurai]]"
 published: 2026-02-23
 created: 2026-02-25
-description: "Moving Data Was Never the Point. Meaning It Is."
+description: Moving Data Was Never the Point. Meaning It Is.
 tags:
-  - "clippings"
+  - data_engineering
 ---
 ### Moving Data Was Never the Point. Meaning It Is.
 

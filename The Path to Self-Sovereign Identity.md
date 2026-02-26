@@ -7,9 +7,8 @@ published: 2016-04-25
 created: 2025-07-22
 description: "Today I head out to a month-long series of events associated with identity: I’m starting with the 22st (!) Internet Identity Workshop next week; then I’..."
 tags:
-  - clippings
-  - crypto
   - identity
+  - cryptocurrency
 ---
 **Published Date:**
 

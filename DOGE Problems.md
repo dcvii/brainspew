@@ -1,13 +1,13 @@
 ---
-title: "Grok / X"
-source: "https://x.com/i/grok?conversation=2014491011981218216"
+title: Grok / X
+source: https://x.com/i/grok?conversation=2014491011981218216
 author:
   - "[[X (formerly Twitter)]]"
 published:
 created: 2026-01-22
-description: "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more."
+description: Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.
 tags:
-  - "clippings"
+  - DOGE
 ---
 ## To view keyboard shortcuts, press question markView keyboard shortcuts
 
