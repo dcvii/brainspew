@@ -57,14 +57,3 @@ If you, dear reader, are so fortunate to have a mother you love still among the 
 
 ---
 
----
-
----
-
----
-
-**[About The Exile](https://ivyexile.substack.com/about)**
-
----
-
----
