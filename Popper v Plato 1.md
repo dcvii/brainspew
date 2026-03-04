@@ -1,3 +1,8 @@
+---
+tags:
+  - wwid
+  - Popper
+---
 
 The philosophical divide between Karl Popper's advocacy for open societies and Plato's ideal of a philosopher-king-led state resonates through the history of Western philosophy. Various philosophers have aligned more closely with either Popper's or Plato's views, including their approaches to governance, the role of individuals in society, and the nature of truth and knowledge.
 
