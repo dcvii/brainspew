@@ -22,8 +22,9 @@ What this basically means is that once you get past 17 or so digits of accuracy,
 
 This is madness. This calculates the width of a hair of on billionth of an angel dancing on the head of a pin at a distance of twenty trillion light years in the universe 4,000 universes over from ours. Give or take a hair.
 
-**The Verbal Equivalent  
-**I’ve kinda said this before in [Abuse of the Infinite](https://mdcbowen.substack.com/p/abuse-of-the-infinite?utm_source=publication-search), but it also occurs to me as I was just recently griping about petty people, how much energy people can put into matters that are of no practical value. So today’s lesson is in the vector of Humility.
+**The Verbal Equivalent**  
+
+I’ve kinda said this before in [Abuse of the Infinite](https://mdcbowen.substack.com/p/abuse-of-the-infinite?utm_source=publication-search), but it also occurs to me as I was just recently griping about petty people, how much energy people can put into matters that are of no practical value. So today’s lesson is in the vector of Humility.
 
 ***Moderate your extraversion.***
 
@@ -32,7 +33,8 @@ I have a tendency to talk over people, once I breach my own restraint. I find wh
 This is why I was destined to be a writer. Then again, some of you have asked me why I say so many things in so many words when the answers are so obvious. *Sì, intendo lei, signore. Ma non voglio che tu ti fermi.* I have this energy for people. I actually care, and yes I get completely exhausted by crowds, so I must compose myself, sit down and write.
 
 **The Economics of Bullshit  
-**As some of you know, I don’t do coffee. I’m giving it a chance, but even from the very beginning of the original American trend on Newberry Street in Boston circa 1992, that whole intellectual caffeinated vibe that fueled the empire that is now Starbucks, et al. was resisted by me. I do tea. Coffee is obnoxious. You seriously have to wash it out of your cups, saucers and French presses. It’s like griddle grease. It never stops contributing tastes and smells until you replace your entire kitchen. And yet people will stand in line and pay exorbitantly, and then talk endlessly about it, way past fifteen digits of pi.
+
+As some of you know, I don’t do coffee. I’m giving it a chance, but even from the very beginning of the original American trend on Newberry Street in Boston circa 1992, that whole intellectual caffeinated vibe that fueled the empire that is now Starbucks, et al. was resisted by me. I do tea. Coffee is obnoxious. You seriously have to wash it out of your cups, saucers and French presses. It’s like griddle grease. It never stops contributing tastes and smells until you replace your entire kitchen. And yet people will stand in line and pay exorbitantly, and then talk endlessly about it, way past fifteen digits of pi.
 
 In my search for focus, my extraversion and my age have contributed to a kind of decisive trap that snaps shut too quickly. But when I defy that and listen deeply to people who actually love coffee, I have to recognize the economy they are working in. This applies especially to Millennials who remain undecided. It’s a luxury economy and it’s possible that, like the previously inviolate city of Dubai, it can be profoundly disturbed with more ease than anyone thought possible.
 
