@@ -1,13 +1,13 @@
 ---
-title: "Why Psychology Hasn’t Had a Big New Idea in Decades"
-source: "https://www.mod171.com/p/why-psychology-hasnt-had-a-big-new?r=7br8e&triedRedirect=true"
+title: Why Psychology Hasn’t Had a Big New Idea in Decades
+source: https://www.mod171.com/p/why-psychology-hasnt-had-a-big-new?r=7br8e&triedRedirect=true
 author:
   - "[[Ethan Ludwin-Peery]]"
 published: 2025-03-20
 created: 2025-05-27
-description: "Can our field get its act together?"
+description: Can our field get its act together?
 tags:
-  - "clippings"
+  - evpsych
 ---
 ### Can our field get its act together?
 

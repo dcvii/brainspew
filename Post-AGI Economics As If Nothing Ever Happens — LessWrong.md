@@ -1,13 +1,12 @@
 ---
-title: "Post-AGI Economics As If Nothing Ever Happens — LessWrong"
-source: "https://www.lesswrong.com/posts/fL7g3fuMQLssbHd6Y/post-agi-economics-as-if-nothing-ever-happens"
+title: Post-AGI Economics As If Nothing Ever Happens — LessWrong
+source: https://www.lesswrong.com/posts/fL7g3fuMQLssbHd6Y/post-agi-economics-as-if-nothing-ever-happens
 author:
   - "[[Jan_Kulveit]]"
 published: 2026-02-04
 created: 2026-02-08
-description: "When economists think and write about the post-AGI world, they often rely on the implicit assumption that parameters may change, but fundamentally, s…"
+description: When economists think and write about the post-AGI world, they often rely on the implicit assumption that parameters may change, but fundamentally, s…
 tags:
-  - "clippings"
 ---
 When economists think and write about the post-AGI world, they often rely on the implicit assumption that parameters may change, but fundamentally, structurally, not much happens. And if it does, it’s maybe one or two empirical facts, but nothing too fundamental.  
   

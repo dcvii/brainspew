@@ -1,13 +1,13 @@
 ---
-title: "On The Independence Axiom — LessWrong"
-source: "https://www.lesswrong.com/posts/MsjWPWjAerDtiQ3Do/on-the-independence-axiom"
+title: On The Independence Axiom — LessWrong
+source: https://www.lesswrong.com/posts/MsjWPWjAerDtiQ3Do/on-the-independence-axiom
 author:
   - "[[Ihor Kendiukhov]]"
 published: 2026-03-08
 created: 2026-03-15
-description: "The Fifth Fourth Postulate of Decision TheoryIn 1820, the Hungarian mathematician Farkas Bolyai wrote a desperate letter to his son János, who had b…"
+description: The Fifth Fourth Postulate of Decision TheoryIn 1820, the Hungarian mathematician Farkas Bolyai wrote a desperate letter to his son János, who had b…
 tags:
-  - "brain_spew"
+  - mathematics
 ---
 ## **The** ~~**Fifth**~~ **Fourth Postulate of Decision Theory**
 

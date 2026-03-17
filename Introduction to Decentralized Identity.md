@@ -1,13 +1,13 @@
 ---
-title: "Introduction to Decentralized Identity"
-source: "https://decentralized-id.com/resources/getting-started/"
+title: Introduction to Decentralized Identity
+source: https://decentralized-id.com/resources/getting-started/
 author:
   - "[[DIDecentral]]"
 published: 2020-01-09
 created: 2025-02-05
-description: "Getting Started with Decentralized, Self Sovereign, Digital Identity"
+description: Getting Started with Decentralized, Self Sovereign, Digital Identity
 tags:
-  - "clippings blockchain decentralization"
+  - identity
 ---
 8 minute read
 
