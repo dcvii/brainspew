@@ -1,13 +1,14 @@
 ---
-title: "Jevons Inversion"
-source: "https://davidsj.substack.com/p/jevons-inversion"
+title: Jevons Inversion
+source: https://davidsj.substack.com/p/jevons-inversion
 author:
   - "[[David Jayatillake]]"
 published: 2026-01-09
 created: 2026-01-09
-description: "The paradox eats itself"
+description: The paradox eats itself
 tags:
-  - "clippings"
+  - brain_spew
+  - philosophy
 ---
 ### The paradox eats itself
 

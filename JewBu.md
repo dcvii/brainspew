@@ -1,3 +1,8 @@
+---
+tags:
+  - brain_spew
+  - philosophy
+---
 
 For all my fellow Jewish Buddhists (JewBu) out there…The Sayings of the Jewish Buddha:
 
