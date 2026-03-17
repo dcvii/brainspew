@@ -1,27 +1,31 @@
 ---
-title: "Data Engineering After AI"
-source: "https://www.dataengineeringweekly.com/p/data-engineering-after-ai?publication_id=73271&post_id=188977018&isFreemail=true&r=7br8e&triedRedirect=true"
+title: Data Engineering After AI
+source: https://www.dataengineeringweekly.com/p/data-engineering-after-ai?publication_id=73271&post_id=188977018&isFreemail=true&r=7br8e&triedRedirect=true
 author:
-  - "[[By Ananth Packkildurai]]"
-published:
-created: 2026-02-24
-description:
+  - "[[Ananth Packkildurai]]"
+published: 2026-02-23
+created: 2026-02-25
+description: Moving Data Was Never the Point. Meaning It Is.
 tags:
-  - "clippings"
+  - data_engineering
 ---
----
-
----
+### Moving Data Was Never the Point. Meaning It Is.
 
 A few days back, I ran a LinkedIn poll asking what stays core to software engineering as AI increasingly writes the code. 53% said architecture and trade-offs. 20% said quality and ownership, and 25% said product and problem discovery.
+
+![](https://substackcdn.com/image/fetch/$s_!uwq8!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e82120a-d802-4411-8a58-914f27f6ef24_948x610.png)
 
 The poll wasn’t specifically about data engineering, but the answer it yielded applies directly to us. When AI can generate a pipeline as fluently as a senior engineer, the question isn’t whether our toolbox is changing — it clearly is. The question is: what kind of thinking has always been too important to automate, and why we let it get buried under the more mechanical work in the first place.
 
 My answer is that the irreducible work was never about moving data. It was always about meaning. And the framework we’ve been using — ETL — was never really designed to capture meaning.
 
+---
+
 ## The ETL Era and Why It’s Ending
 
 Extract, Transform, Load made sense as a job description for a specific historical moment. Source systems were siloed, formats were inconsistent, and somebody had to write the code that moved data from where it lived to where it could be used. The data engineer was that somebody.
+
+![](https://substackcdn.com/image/fetch/$s_!KwLr!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa2bc94f-81e7-4ad2-94fe-b09ee17e9668_1228x346.png)
 
 But if we’re honest, the transformation step was always the most brittle part. Teams encoded business rules as SQL logic or Python functions, buried them in pipeline code, version-controlled them alongside infrastructure, but rarely treated them with the same rigor as application code. When the definition of “active user” changed — and it always changed — someone had to find every place that definition lived and update it, hoping they caught them all.
 
@@ -29,9 +33,13 @@ AI is now competent at generating this kind of code. Not perfect, but competent 
 
 But this isn’t a story about loss. It’s a story about clarity. The mechanical work was always obscuring the more important work underneath it. AI forcing that reckoning is, in a strange way, a gift.
 
+---
+
 ## Introducing ECL — Extract, Contextualize, Link
 
 The framework emerging as a replacement isn’t a technical architecture so much as a reorientation of purpose. Instead of Extract, Transform, Load, think Extract, Contextualize, Link.
+
+![](https://substackcdn.com/image/fetch/$s_!gXAy!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F500e7461-2805-49c0-9833-d0b54e04421e_1280x528.png)
 
 Extract remains. Data still needs to move from source systems to analytical environments, and that work still requires engineering judgment — about reliability, latency, volume, and failure modes. AI will increasingly handle the mechanical parts, but the architectural decisions about what to extract, when, and how belong to people who understand both the source systems and the downstream consequences.
 
@@ -41,11 +49,15 @@ Link is about entity relationships across the data landscape — connecting a cu
 
 The rest of this article discusses how ECL works at the architectural level, not as three abstract concepts, but as three concrete pipelines — and why you need all of them.
 
+---
+
 ## Early Binding — Contracts as Executable Constraints
 
 The first technique is early binding: capturing semantic intent at the point of data production, before the data moves.
 
 Data contracts are the practical implementation of this idea. At their core, contracts are agreements between data producers and their consumers — specifying schema, data quality expectations, ownership, and the semantic meaning of each field.
+
+![](https://substackcdn.com/image/fetch/$s_!g3D-!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddbb651c-b309-4861-ba49-0e142c836729_1234x404.png)
 
 Data Engineering Weekly identified this gap precisely in their piece ***[Data Contracts: A Missed Opportunity](https://www.dataengineeringweekly.com/p/data-contracts-a-missed-opportunity)***. While the data industry was debating what contracts were and drafting governance frameworks to describe them, software engineering had quietly converged on a different organizing principle: treating specifications as executable constraints with real failure semantics. The data industry treated contracts as documentation. Software engineers treated them as interfaces — things that could break, that had versioning implications, that enforced behavior rather than merely describing it.
 
@@ -55,9 +67,13 @@ This matters more in an AI-heavy world, not less. When AI agents generate transf
 
 But early binding alone has a fundamental limitation. And understanding that limitation is what makes the Contextualize pipeline necessary.
 
+---
+
 ## The Problem Early Binding Alone Can’t Solve
 
 Consider what happens to a well-contracted dataset as it moves through a modern Medallion architecture.
+
+![](https://substackcdn.com/image/fetch/$s_!vwwM!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ca03c22-9a4d-4a7d-a244-279af04bee7f_1237x321.png)
 
 At the Bronze layer, data lands close to its source — raw, minimally transformed, the contract’s guarantees still largely intact. Silver applies conformance rules: deduplication, type casting, and light standardization. By the time data reaches Gold, the pipeline has made a series of editorial decisions on the data’s behalf. Aggregations collapse granular events into metrics. Engineers bake business logic into the shape of the table. The Gold layer is an artifact optimized for a specific set of questions — the ones that seemed important when the pipeline was built.
 
@@ -65,9 +81,13 @@ Early binding contracts help at the source, but they can’t prevent this erosio
 
 This is the problem that early binding alone cannot solve. Each transformation layer progressively collapses the context captured at the source. You need a complementary approach—one that preserves the ability to recover context when it’s actually needed.
 
+---
+
 ## Late Binding — The Agentic Contextualized Pipeline
 
 Traditional late binding deferred the *application* of business rules to query time. What it didn’t defer was the *definition* of those rules — domain experts still had to specify them upfront, just applied through a semantic layer rather than baked into a physical table. In complex domains, that knowledge engineering process was its own bottleneck.
+
+![](https://substackcdn.com/image/fetch/$s_!C5NB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e69cc6d-3401-44c7-b2d7-9be8a00d3380_1300x378.png)
 
 The more forward-looking approach is to defer definition itself — and hand that work to a dedicated pipeline.
 
@@ -77,9 +97,13 @@ The trigger is event-driven, not scheduled. Every new dataset that lands automat
 
 The pipeline itself is agentic. An AI agent analyzes the incoming data — schema, sample values, statistical profiles, lineage — and infers semantic meaning. What does this field represent? What business entity does it belong to? What relationships exist between it and other data in the landscape? It produces structured, versioned context artifacts: inferences about meaning that didn’t require a domain expert to pre-specify every scenario.
 
+![](https://substackcdn.com/image/fetch/$s_!2K_z!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dad946a-2f01-4407-ac7b-1ec7acbbf60b_1129x464.png)
+
 Those inferences don’t automatically commit. They route to a validation layer that works like a labeling workflow — because structurally, it is one. An LLM-as-Judge validates high-confidence inferences before any human review triggers. Medium-confidence ones surface to domain experts for labeling. The pipeline flags low-confidence or contested inferences for deeper investigation. The humans aren’t reviewing every artifact; they’re reviewing the uncertain ones. Every labeling automation technique that works in ML pipelines applies here.
 
 Validated artifacts land in a Context Store — a dedicated, versioned, queryable store of semantic definitions, entity classifications, and relationship maps. This is the new infrastructure component that ECL requires. Downstream agents don’t query raw data and infer meaning on the fly. They query the Context Store first, ground their understanding in validated context, and then query the data. The context is stable, reusable, and auditable — the opposite of ephemeral query-time inference.
+
+---
 
 ## Early Binding vs Late Binding — When to Choose What
 
@@ -95,6 +119,8 @@ The feedback loop holds in both directions. Discovered context built up through 
 
 A data environment that treats all data as early-bindable is brittle. It can only contract what it already understands, and it has no mechanism for the uncontrolled data that makes up a growing share of the analytical landscape. A data environment that treats all data as requiring discovery never formalizes what it learns into enforceable guarantees. The architecture that works reads the accountability boundary correctly and applies the right technique on both sides.
 
+---
+
 ## Context Propagation — The Relay, Not the Pipeline
 
 With three pipelines now in play, the question becomes: how does context actually travel through the architecture without getting lost?
@@ -106,6 +132,8 @@ The relay works like this. Early binding stamps prescribed context at the point 
 The analogy that makes this concrete is git. A file can be modified heavily across dozens of commits — refactored, renamed, moved, rewritten — but the context of how it got there is never lost, because it lives in the commit history, not in the file itself. The Gold layer is the latest commit. The lineage graph is the git log. The Context Store is the understanding you build by reading that log systematically rather than hoping the current file tells the whole story.
 
 This reframe — from pipeline to relay — changes what data engineers are actually responsible for building. The transformations are increasingly automatable. The metadata infrastructure, the lineage graph, the Contextualize pipeline that reads it, the Context Store that accumulates from it — that is the engineering surface that requires sustained human judgment.
+
+---
 
 ## The Context Store as the New Engineering Surface
 
@@ -119,15 +147,21 @@ As AI generates more transformation code and AI agents consume more data at scal
 
 Practitioners are still working out the patterns for doing this at scale. The tooling is maturing. How organizations govern ownership of the Context Store, adjudicate conflicts between teams, and manage the graduation from discovered to prescribed context are genuinely open questions. This is where the frontier actually is.
 
+---
+
 ## The New Data Engineer — Context Architect
 
 Return to the poll. 53% said architecture and trade-offs are what remain irreducibly human. In the data engineering context, ECL is what that looks like in practice.
+
+![](https://substackcdn.com/image/fetch/$s_!_X4x!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c872ba5-b9fe-4282-a931-32886719e1d5_1154x486.png)
 
 The data engineer of the next decade owns the architecture of meaning. They design the contractual foundations at the source—executable, enforceable, versioned. They build the lineage infrastructure that carries context through every transformation layer without losing it. They design and govern the Contextualize pipeline and the Context Store — the infrastructure where inferences get built, validated, and formalized into the definitions that everything downstream depends on. They understand when to prescribe context upfront and when to let it be discovered, and they build the systems that make both possible.
 
 But this is not only a technical role. Context erosion is as much an organizational failure as a technical one. Teams don’t share semantic definitions because no ownership model incentivizes them to do so. Nobody enforces contracts because producing teams have no accountability to the consumers they serve. In this new frame, the data engineer is the person who builds both the technical system and the organizational agreement that holds it together. They sit at the intersection of architecture and coordination — the two things the poll respondents correctly identified as irreducibly human.
 
 The title “Data Engineer” may need an update. What we are actually describing is a Context Architect — someone whose primary material is not data movement but data meaning, not pipelines but provenance, not transformation logic but the semantic infrastructure that makes transformation logic trustworthy.
+
+---
 
 ## An Open Frontier
 
@@ -138,5 +172,7 @@ That’s precisely what makes this moment worth paying close attention to. The f
 The 53% who said architecture and trade-offs are irreducibly human were right. We didn’t yet know which architecture, or which trade-offs.
 
 Now we do.
+
+---
 
 *All rights reserved, Dewpeche Private Limited. I have provided links for informational purposes and do not suggest endorsement. All views expressed in this newsletter are my own and do not represent current, former, or future employers’ opinions.*
