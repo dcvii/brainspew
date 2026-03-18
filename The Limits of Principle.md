@@ -7,7 +7,6 @@ published: 2026-01-04
 created: 2026-01-06
 description: Code vs Reality
 tags:
-  - clippings
   - Venezuela
 ---
 ### Code vs Reality
