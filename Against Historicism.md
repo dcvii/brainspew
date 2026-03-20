@@ -8,6 +8,7 @@ created: 2025-02-23
 description: I picked up Harold Bloom last night. He's got quotable quotes that say brilliantly and concisely what I needed to have heard several years ago, but better late than never. To recap. Several years ago maybe 4 or 5, I...
 tags:
   - books
+  - strauss
 ---
 I picked up Harold Bloom last night. He's got quotable quotes that say brilliantly and concisely what I needed to have heard several years ago, but better late than never. 
 
