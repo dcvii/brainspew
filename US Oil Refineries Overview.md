@@ -1,13 +1,13 @@
 ---
-title: "US Oil Refineries Overview"
-source: "https://chatgpt.com/share/695add9b-d760-8004-acde-6496cbcf8a9b"
+title: US Oil Refineries Overview
+source: https://chatgpt.com/share/695add9b-d760-8004-acde-6496cbcf8a9b
 author:
-  - "[[ChatGPT]]"
+  - "[[BrainSpew/DIDs]]"
 published:
 created: 2026-01-04
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "clippings"
+  - clippings
 ---
 Give me an idea about the spread of oil refineries in the US. How many of them are there? Where are they located? What are their primary feedstocks and end products. A table would be nice. This might take some time so just give me the top 30 by volume. Also include their owner/operators.
 

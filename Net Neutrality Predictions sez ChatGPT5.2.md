@@ -1,13 +1,13 @@
 ---
-title: "Net Neutrality Predictions"
-source: "https://chatgpt.com/share/69989628-db24-8004-8904-9cbad9c4a55b"
+title: Net Neutrality Predictions
+source: https://chatgpt.com/share/69989628-db24-8004-8904-9cbad9c4a55b
 author:
-  - "[[ChatGPT]]"
+  - "[[BrainSpew/DIDs]]"
 published:
 created: 2026-02-20
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "clippings"
+  - clippings
 ---
 What actually happened with Net Neutrality? Who predicted correctly?
 

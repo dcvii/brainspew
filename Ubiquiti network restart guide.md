@@ -1,13 +1,13 @@
 ---
-title: "Ubiquiti network restart guide"
-source: "https://chatgpt.com/share/694571c3-d7ec-8004-b025-ccdbc14aa1fa"
+title: Ubiquiti network restart guide
+source: https://chatgpt.com/share/694571c3-d7ec-8004-b025-ccdbc14aa1fa
 author:
-  - "[[ChatGPT]]"
+  - "[[BrainSpew/DIDs]]"
 published:
 created: 2025-12-19
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "clippings"
+  - clippings
 ---
 Uploaded a file
 

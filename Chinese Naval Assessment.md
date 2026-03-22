@@ -1,14 +1,14 @@
 ---
-title: "ChatGPT"
-source: "https://chatgpt.com/c/69bad03b-4610-83e8-97cc-1cab073af143"
+title: ChatGPT
+source: https://chatgpt.com/c/69bad03b-4610-83e8-97cc-1cab073af143
 author:
-  - "[[ChatGPT]]"
+  - "[[BrainSpew/DIDs]]"
 published:
 created: 2026-03-18
-description: "ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster."
+description: ChatGPT is your AI chatbot for everyday use. Chat with the most advanced AI to explore ideas, solve problems, and learn faster.
 tags:
-  - "brain_spew"
-  - "geopolitics"
+  - brain_spew
+  - geopolitics
 ---
 It is generally understood that the Chinese are building ships at a rate that far exceeds that of the US and that many of these ships are given hulls that are 'military grade'. Give me an assessment of the Chinese Navy as compared to others, including the US, Russia, France and major European powers with regard the the actual capability of these 'warships'. Give specifics about conventional measurements of sea power, leadership, power projection, weapons and defenses.
 
