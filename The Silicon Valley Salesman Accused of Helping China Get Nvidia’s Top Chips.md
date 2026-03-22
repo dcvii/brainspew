@@ -1,13 +1,13 @@
 ---
-title: "The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips"
-source: "https://www.wsj.com/tech/the-silicon-valley-salesman-accused-of-helping-china-get-nvidias-top-chips-f1ecb1c2?mod=hp_lead_pos4"
+title: The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips
+source: https://www.wsj.com/tech/the-silicon-valley-salesman-accused-of-helping-china-get-nvidias-top-chips-f1ecb1c2?mod=hp_lead_pos4
 author:
   - "[[By Robbie Whelan and Katherine Hamilton]]"
 published:
 created: 2026-03-21
 description:
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 “We’re continuing to push the boundaries of innovation,” Super Micro wrote on X next to a picture of Huang shaking hands with Super Micro’s CEO, as Liaw beamed nearby.
 
