@@ -53,7 +53,7 @@ In Krauss’ view, such claims are ridiculous: “There’s no evidence, and as 
 
 “But more than that,” Krauss added, “If the head of the NIH says, ‘You know, our institute has been racist for a long time,’ they should resign. I mean, if they really believe what they’re saying, they should resign.”
 
-> The newest [#CriticalMass](https://twitter.com/hashtag/CriticalMass?src=hash&ref_src=twsrc%5Etfw) post includes a guest piece by Bo Winegard about the new Nature magazine editorial policy that relies on political correctness to censor articles. A continuing slide away from free and open inquiry in science publishing.[https://t.co/NdDMMODHQR](https://t.co/NdDMMODHQR)
+> The newest [CriticalMass](https://twitter.com/hashtag/CriticalMass?src=hash&ref_src=twsrc%5Etfw) post includes a guest piece by Bo Winegard about the new Nature magazine editorial policy that relies on political correctness to censor articles. A continuing slide away from free and open inquiry in science publishing.[https://t.co/NdDMMODHQR](https://t.co/NdDMMODHQR)
 > 
 > — Lawrence M. Krauss (@LKrauss1) [August 29, 2022](https://twitter.com/LKrauss1/status/1564276483757056002?ref_src=twsrc%5Etfw)
 
