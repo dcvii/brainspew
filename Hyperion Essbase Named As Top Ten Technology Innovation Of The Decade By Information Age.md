@@ -1,0 +1,21 @@
+---
+title: "Hyperion Essbase Named As Top Ten Technology Innovation Of The Decade By Information Age"
+source: "https://prwire.com.au/pr/2512/hyperion-essbase-named-as-top-ten-technology-innovation-of-the-decade-by-information-age"
+author:
+published:
+created: 2026-04-07
+description: "Hyperion Essbase has been named as one of the 10 most influential technology innovations of the last 10 years by Information Age magazine in its August 2005 issue."
+tags:
+  - "brain_spew"
+---
+[![](https://img.influencing.com/r/200x200/default_images/ha_company.png)](https://prwire.com.au/newsroom/hyperion-asia)
+
+Announcement posted by [Hyperion Asia](https://prwire.com.au/newsroom/hyperion-asia) 20 Aug 2005
+
+Hyperion Essbase has been named as one of the 10 most influential technology innovations of the last 10 years by Information Age magazine in its August 2005 issue.  
+Hyperion Essbase was ranked in the top 10 along with Netscape, Blackberry, Google, virtualization, Voice Over IP (VOIP), Linux, XML, the Pentium processor and ADSL.  
+Writing in Information Age's 10th anniversary issue, editor Kenny MacIver said: Hyperion Essbase was the multi-dimensional database technology that put online analytical processing on the business intelligence map. It has spurred the creation of scores of rival OLAP products and billions of OLAP cubes  
+Mike Shelton, Managing Director, EMEA Northern Region says: This is a fantastic accolade for Hyperion Essbase. Information Age is one of the most respected and influential magazines in the IT industry. The fact that Hyperion Essbase is seen as one of the most innovative technologies of the last 10 years is clear recognition of its importance and impact on end user organizations. Hyperion Essbase is ample demonstration of our ability to continue to deliver one of the very best Business Performance Management and Business Intelligence products available. With the introduction of Hyperion Essbase 7X last year, we made the most significant advancement in analytic technology since the company introduced the original Essbase in 1992. Weve enabled our customers to leverage the legendary power of Essbase to perform both traditional financial analysis as well as line of business analysis, all in one product while maintaining our historical market leading advantage in query performance."  
+Hyperion Essbase 7X is a powerful and highly scalable real-time enterprise analytic infrastructure available for both financial and line of business users. Hyperion Essbase 7X marries analytic excellence with performance, scalability and visual insight, making the analytics that finance departments have come to rely on for insight now available to business users in sales, marketing, supply chain, logistics and human resources. These advancements, made possible by unrivaled Aggregate Storage technology, are available for the first time in a single architecture that features advanced calculation speeds and large scale data scalability to meet the speed-of-thought response-time needs of users. Hyperion Visual Explorer, the industrys first visual spreadsheet enables business users to discover trends, patterns and highlight exceptions in large data sets, while the Hyperion Data Integration Connector for SAP, enables customers to obtain even more value and performance from Hyperions most advanced analytic engine.  
+Hyperion Essbase 7X thus provides companies with a single infrastructure for all their analytics needs, which allows the IT organization to reap the benefits of standardization and lower its cost of ownership. Customers now can conduct traditional financial analysis and also non-financial, operational analysis for marketing, sales, human resources, the supply chain and other parts of the businessall from one product with no performance compromises.  
+More than 10,000 customers worldwide rely on Hyperion software to provide visibility into how their businesses are performing and to help them plan and model to improve that performance. Major UK users of Hyperion Essbase include HBOS and Johnson Matthey.
