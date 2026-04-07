@@ -29,15 +29,6 @@ Dipshit: Total dumbass
 Tuff shit: Take it or leave it.
 Jack shit: Nothing
 The shit: Perfection
-
----
-
-**Red Pill USA** @Red\_Pill\_US [2026-04-07](https://x.com/Red_Pill_US/status/2041313894292152463)
-
-You reminded me of the skit on shit. 🤣
-
-
-
 Shit-for-brains: Also dumbass
 Shitfaced: Drunk AF
 Shitstorm: Chaos
