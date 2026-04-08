@@ -130,7 +130,7 @@ Thank you. But, I do not believe “Claudine Gay to be both a kind and thoughtfu
 
 **Marjan Keypour (Greenblatt)** @MarjanKg [2023-12-07](https://x.com/MarjanKg/status/1732869827302215888)
 
-#ClaudineMustGo not you
+ClaudineMustGo not you
 
 ---
 

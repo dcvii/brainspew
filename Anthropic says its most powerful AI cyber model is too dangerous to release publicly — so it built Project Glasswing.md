@@ -1,13 +1,14 @@
 ---
-title: "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing"
-source: "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
+title: Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing
+source: https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release
 author:
   - "[[By Michael Nuñez]]"
 published:
 created: 2026-04-07
 description:
 tags:
-  - "brain_spew"
+  - brain_spew
+  - Claude
 ---
 [Anthropic](https://www.anthropic.com/) on Tuesday announced [Project Glasswing](https://www.anthropic.com/glasswing), a sweeping cybersecurity initiative that pairs an unreleased frontier AI model — Claude Mythos Preview — with a coalition of twelve major technology and finance companies in an effort to find and patch software vulnerabilities across the world's most critical infrastructure before adversaries can exploit them.
 
