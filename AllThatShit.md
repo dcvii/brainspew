@@ -36,3 +36,6 @@ Shitter: Construction site toilet
 Shitlib: Basic liberal
 Shitty: Bad overall
 Deep shit: Big trouble
+Two Shits: None
+Shithole: Nasty place
+Aw Shit: Watch it now.
