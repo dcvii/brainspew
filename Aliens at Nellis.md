@@ -155,10 +155,7 @@ Follow @UAPWatchers for more testimony based breakdowns
 Full breakdown of Millennial Hospitality coming soon  
 Website:  
 🧵/End  
-  
-#uapX #ufotwitter #TallWhites #NellisAFB #AlienDisclosure #CharlesJamesHall #MillennialHospitality #UAPs #UFOSecrets #Area54  
-#DreamlandBase #AdvancedTechnology  
-#AlienEncounters #ETContact
+
 
 [![](https://threadreaderapp.com/thread/this.src='/images/sticky-note-regular.png')](http://uapwatchers.com/)
 
