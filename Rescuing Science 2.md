@@ -1,0 +1,36 @@
+---
+title: "Rescuing Science"
+source: "https://hxstem.substack.com/p/rescuing-science?publication_id=618970&post_id=188738354&isFreemail=true&r=7br8e&triedRedirect=true"
+author:
+  - "[[J Scott Turner]]"
+published: 2026-03-08
+created: 2026-03-08
+description: "In 1950, the United States embarked on a radical experiment."
+tags:
+  - "brain_spew"
+---
+In 1950, the United States embarked on a radical experiment. Seemingly abstruse explorations of the nature of matter, carried out mostly by a handful of academic physicists, had laid the groundwork for new weaponry that helped secure victory in World War II. This naturally prompted the question from President Roosevelt: What other great discoveries were lurking out there on science’s “ [endless frontier](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf) ”, lounging undiscovered in academe’s dusty halls, save for the money to bring them into the light? The proposed solution? Do what the federal government had never done before: begin funding basic research with unprecedented sums of federal money.
+
+Now, seventy-five years and roughly a trillion dollars of federal disbursements later, the results of the experiment are in. By any objective measure, federalizing the academic sciences has been a failure. Instead of fertilizing discovery as intended, federal spending has mostly fed the growth of a network of hangers-on and rent-seekers - universities, funding agencies, an increasingly monolithic academic publishing industry, and of course, politicians. These now constitute an effective Big Science Cartel, that trades, not in cocaine or soybeans, but in federal research dollars. It is their interests, not the interests of science or scientists, that now run the show. To quote that Somali pirate in the movie *Captain Phillips,* “I am the captain now.” Scientists are no longer explorers of science’s endless frontier. Rather, they serve the cartel, and their job is now to keep the cash flowing in. Do that and (again to quote the Somali pirate), “nobody gets hurt.” Don’t, and … well, you know.
+
+The Trump administration’s recent actions on federal research spending, whether one is in favor or opposed, has forced scientists to confront a difficult and long-neglected question. Do we continue funding the experiment, to the tune of about $100 billion in 2024? Or do we admit that the experiment has failed and pull the plug? Overwhelmingly, the science ecosystem is opposed, strenuously. This is the illusion of the *status quo* talking. In reality, science has become so dependent upon federal funding that it is impossible for most scientists to imagine a life without it. But where science once could count on public trust to support the illusion, that trust has been squandered, on multiple fronts and for multiple reasons.
+
+It’s time for science and scientists to come face-to-face with the uncomfortable conclusion that federalizing basic science has inflicted net harm on the intellectual adventure that basic science is meant to be. Instead, university scientists have been reduced to being turnkeys for the spigots of federal research dollars that keep the Big Science Cartel in place. Keep the money coming, and you are safe. “Go rogue” and pursue questions that don’t keep those money gushers flowing, and your career will not be a pleasant one.
+
+Are scientists really happy with being merely generators of revenue? My conversations with colleagues indicate that they are not. The three-year grants funding cycle has been compared to a “grants treadmill”, a never ending scramble for money that leaves little energy and time for the creative thought that basic science demands. What about the army of administrators and grant consultants who think that you, the scientists, work for them, rather than the other way round? Or the continual emphasis on “grantsmanship” as an essential academic skill, over expertise, mastery, and originality? Or the absurd metrics of scientific “productivity” that scientific careers are now measured by? My sense is that the discontent is widespread, but there is little sense of how to resolve it. Some choose “incentivized dishonesty.” To quote an anonymous colleague:
+
+> *I will lie about my most deeply held beliefs or convictions on paper in order to get funding.*
+
+Others choose to just keep their heads down until retirement age, in the increasingly vain hope they will be allowed to just “do science”, unnoticed and unmolested. Again, are we scientists really happy with the state of science in the modern academy?
+
+The trouble is that there is no clear path to liberation of basic science from the grips of the Big Science Cartel. How do we go from $100 billion of the federal funding that has enslaved us to zero? What happens to science if the National Science Foundation is closed? Or when the extramural research programs of numerous federal agencies (the NIH foremost among them) are shuttered? Can we even imagine a time when science prospered without federal subsidy?
+
+At the National Association of Scholars, we have been mapping out a long-term plan to do just that. Our report, *[Rescuing Science: Recovering Science as Civic Virtue](https://www.nas.org/reports/rescuing-science/full-report)* lays out a viable rescue plan. It begins with laying out the history of the relationship of the federal government with science, which lets us see that there was a flourishing culture of science before the academic sciences were federalized.
+
+We go on to outline a series of political and cultural reforms to gradually disentangle basic science from the suffocating grip of the Big Science Cartel. Some of these reforms are immediate, such as dismantling the indirect costs flim-flammery that has been much in the news lately. Some are longer-term reforms of the mechanics of grant funding and support of graduate student education. These include funding scientists, not institutions, making support mobile so that funds follow the scientist and student. Others are intended to restore basic science to its traditional sources of institutional and philanthropic support, which are better suited to the fluid, *ad hoc*, and opportunistic nature of basic research than the sclerotic and bureaucratic infrastructure of federal research agencies. Others restore, either partially or completely, decisions about research priorities and funding allocations back to scientists themselves, rather than with essentially political imperatives set by the national science agencies.
+
+These reforms are not intended to inflict pain, although they inevitably will. So too does the *status quo,* including the smothering of the flickering remnant of the ethic of discovery that prevailed prior to World War II and that made American science the envy of the world. Scientific discovery is still happening, some of it brilliant, some of it in the endless frontier’s backwaters. The aim of our proposed reforms is to fan that flickering ember back into the flame it should be.
+
+Only scientists can do that, and they will do so by seizing control of their professions back. The only question before all is whether scientists are willing to embrace their liberation?
+
+*J Scott Turner is Director of Science Programs at the National Association of Scholars.*

@@ -1,0 +1,46 @@
+---
+title: "The Miracle and Mystery of Artemis II"
+source: "https://washingtonmonthly.com/2026/04/10/the-miracle-and-mystery-of-artemis-ii/"
+author:
+  - "[[Bart H. Welling]]"
+published: 2026-04-10
+created: 2026-04-11
+description: "A NASA-led mission that showcases competence and collective purpose—launched, improbably, under a government that rewards neither."
+tags:
+  - "brain_spew"
+---
+On the evening of April Fools’ Day, while walking my dog, I listened to the live Artemis II countdown on my phone and chatted with neighbors as we all strained to see the contrail of the rocket soaring up into the Florida twilight. It would be wrong to say that I had been eagerly awaiting the launch. Among other things, I’m deeply skeptical about the long-term viability and usefulness of crewed space exploration. But, on the other hand, I grew up during the Space Shuttle era, celebrating successful missions and mourning when astronauts, in the words of a poem cited by Ronald Reagan after the *Challenger* disaster, “slipped the surly bonds of Earth” and “ [touched the face of God](https://www.poetryfoundation.org/poems/157986/high-flight-627d3cfb1e9b7).” At an impressionable age, I read Tom Wolfe’s *The Right Stuff* and watched Philip Kaufman’s stirring [film version](https://www.imdb.com/title/tt0086197/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_right%20stuff) of the book, which celebrates the scrappy, go-for-broke spirit of the early U.S. space program. And my dad was a career Air Force officer who taught me to love all flying things. For old time’s sake, I tuned in to the Artemis launch.
+
+My emotional reaction to it took me by surprise. The sounds of NASA officials saying “Go” in calm-jazzed voices one by one, followed a few minutes later by the blast of the rocket, triggered something I haven’t experienced in many months and certainly wasn’t expecting to feel on this occasion: *pride*.
+
+After all, here was a U.S. federal agency using American tax dollars to pull off a truly astonishing feat of planning, training, and teamwork, to say nothing of the high-stakes science and engineering that went into the mission. Here was a crew that emblematized our diverse nation—and our *continent*, with Canada being represented by astronaut Jeremy Hansen—far better than the Apollo missions did. And, at the heart of the matter, setting aside all of NASA’s advanced degrees and expertise, here was a group of wild-eyed dreamers and nerds brazenly rebelling against the most fundamental laws of nature and somehow getting away with it—sending four humans safely into orbit around Earth, with every indication that the astronauts would eventually manage to fly [further into space](https://edition.cnn.com/2026/04/06/science/live-news/nasa-artemis-2-flyby-moon-mission?iid=hpModule) than anyone has gone before.
+
+As I pondered the success of the mission, my sense of pride didn’t diminish, but I started to wonder if a gigantic April Fools’ prank had been played on all of us. How in the world could such a monumental display of valor and skill happen under the Trump administration?
+
+(True, the U.S. military has also carried out technologically and logistically impressive operations, even with Pete Hegseth at the wheel, but it’s hard to admire a war machine that executes [illegal orders](https://www.theguardian.com/law/2026/apr/06/trump-threats-dilemma-for-officers-disobey-orders-or-commit-war-crimes), without hesitation or complaint, in the service of Napoleonic hubris.)
+
+Think about it. The success of any NASA mission depends not just on endless training and testing but on a leadership structure in which any member of the team, at any moment, must feel empowered to sound the alarm if they notice a glitch, however expensive, time-consuming, or embarrassing it might be to address the problem. Toadyism, corruption, nepotism, and an abusive workplace culture at NASA most likely would have resulted in fiery tragedy on April 1. Instead, we got blazing triumph. Somehow, the Artemis II mission succeeded under the same government of the scammers, by the sycophants, and for the rage-tweeters that has brought us Hegseth, Robert F. Kennedy, Jr., Karoline Leavitt, Stephen Miller, Kash Patel, and all the rest.
+
+Somehow, the crew members rocketed into space in the Orion capsule on the Space Launch System from Kennedy Space Center … rather than in the Trump capsule on the Trump Launch System from Trump-Kennedy Space Center.
+
+Somehow, crowds of people around the country greeted the launch not with protests and lawsuits and conspiracy theories but with IRL cheers of unfeigned excitement.
+
+Somehow, a crew [mostly made up](https://www.nytimes.com/2026/03/31/science/nasa-artemis-ii-mission-astronauts.html?searchResultPosition=1) of “firsts”—the first woman (Christina Koch) and person of color (Victor Glover), along with the first non-American (Hansen), to leave low Earth orbit—made it on board the Orion under a president who has prioritized bullying women, people of color, and Canadians.
+
+Somehow, a program that [Mister *Access Hollywood*](https://washingtonmonthly.com/2026/03/22/i-could-do-anything-trumps-dangerous-mantra/) approved during his first term ended up being named after a [proudly celibate pagan goddess](https://en.wikipedia.org/wiki/Artemis) who was worshipped at wild festivals by dancing women and young girls in bear costumes—a goddess who was so furious about being sexually harassed by Actaeon (to put myth in modern terms) that she turned him into a stag and had his own hunting dogs rip him to pieces.
+
+Somehow, at least as far as we know, Donald Trump and his family did not figure out how to use the Artemis program to steer billions of dollars into their own bank accounts.
+
+Somehow, the fan of “ [clean, beautiful coal](https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-speaks-receives-an-award-from-the-coal-industry-21126) ” and [enemy of wind turbines](https://www.npr.org/2026/03/24/nx-s1-5684158/trump-takes-aim-at-windmills-despite-increasing-energy-costs), who has dedicated his second term to shredding and torching the Biden administration’s climate policies, looked at the work NASA did on Artemis during the Biden years and said, “O.K.”
+
+Somehow, we saw advanced American technology being used for peaceful purposes rather than for killing schoolchildren and teachers in Iran and sowing chaos in the global economy. (But, then, Artemis doesn’t just depend on American technology: Experts from [eleven nations](https://www.theguardian.com/commentisfree/2026/apr/01/artemis-moon-mission-international-astronauts-earth-space) are involved in the project, and the Orion is powered by the [European Service Module](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/European_Service_Module). In other words: Somehow, NASA was able to work with its international partners in a way diametrically opposed to how Trump has been treating his counterparts around the world.)
+
+How did everything go so *right*? Perhaps NASA conveniently failed to give the White House updates on Artemis until the rocket was safely off the ground?
+
+I know—give the devil his due and all that. Trump doesn’t seem to have been caught off-guard by the launch; he devoted a full 36 seconds to it in his prime-time address on April 1 … before blasting off into a diatribe about sending Iran “ [back to the Stone Ages](https://apnews.com/article/donald-trump-transcript-address-iran-war-b5970011fe934dde84d95d650bda56a9).” As Peter Baker, chief White House correspondent for *The New York Times*, notes, the president who founded the U.S. Space Force [does seem interested](https://www.nytimes.com/2026/03/31/us/politics/trump-artemis-ii-moon-mission.html?searchResultPosition=1) in space exploration. However, this is the same president who has made [enormous cuts to NASA programs](https://www.nytimes.com/2026/03/25/climate/kate-marvel-nasa-resign.html) that could help keep Earth habitable, on top of all his other depredations. I would argue that his priorities are [bass-ackwards](https://papersofabrahamlincoln.org/documents/D206789) in terms of NASA’s mission, as in so many other areas.
+
+Still, one way or another, Trump managed to sit on his hands this time. (That, or his minders were able to keep him so busy wrecking other things that he couldn’t [Taj Mahal](https://www.theguardian.com/us-news/2016/sep/02/donald-trump-atlantic-city-casinos-taj-mahal-plaza-bankruptcy) the space operation.) As the kids might say, someone, somewhere in the federal government decided to let NASA cook. And the rest of us were treated to a vision of things we used to take for granted, but that now seem nothing short of magical: competence, courage, pluralism, scientific prowess, and pride. It is a vision that could help us endure with some measure of lunar equanimity whatever misery Trump’s remaining time in office might bring. It is a vision of the nation that existed before and could exist again. Call it one small leap for humankind.
+
+![Our ideas can save democracy... But we need your help! Donate Now!](https://i0.wp.com/washingtonmonthly.com/wp-content/uploads/2021/12/809x289_Liberty_ArticleBottom.jpg?w=809&quality=89&ssl=1)
+
+Our ideas can save democracy... But we need your help! Donate Now!

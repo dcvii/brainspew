@@ -1,0 +1,62 @@
+---
+title: "DEI Must Change"
+source: "https://www.persuasion.community/p/dei-must-change"
+author:
+  - "[[John McWhorter]]"
+published: 2025-02-07
+created: 2026-01-25
+description: "But Donald Trump’s executive order throws the baby out with the bathwater."
+tags:
+  - "clippings"
+---
+### But Donald Trump’s executive order throws the baby out with the bathwater.
+
+![](https://substackcdn.com/image/fetch/$s_!rmbB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46b822-6763-4911-93ea-841d54aa81c6_1384x884.jpeg)
+
+Jesse Jackson and supporters at a rally for affirmative action, 1997. (Photo by MediaNews Group/Oakland Tribune via Getty Images.)
+
+In combating DEI, Donald Trump is doing the right thing. In that sentence I just wrote, I almost choked writing the six final words. But it is what I believe. A stopped clock is right twice a day, and it is high time America engaged in an honest conversation about this business called Diversity, Equity and Inclusion.
+
+However, the actual substance of Trump’s Executive Order “ [Ending Radical and Wasteful Government DEI Programs and Preferencing](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/) ” reveals—big surprise—a smash of the knout, a coarse, unreflective bleat in the guise of statecraft. Getting DEI right while retaining the moral sophistication our nation is capable of will require actions much more specific—intelligent, even.
+
+Make no mistake: it has been high time for a major rethink on what DEI has turned into since the pandemic, with DEI becoming a term of art for what is too often an [institutionalized](https://thehill.com/opinion/education/3718803-what-do-we-really-mean-by-diversity-equity-and-inclusion/) anti-whiteness. Under this conception, if outcomes between races aren't equal, the only possible reason can be discrimination—i.e. some kind of white malfeasance, whether intended or not—and egregious enough that rules and standards must be changed. A watchcry of adherents of this philosophy is Ibram X. Kendi’s famous quote in his massively influential *How to Be an Antiracist*: “When I see disparities, I see racism.”
+
+This kind of DEI took root especially in the wake of the murder of George Floyd, when a radical contingent calling for a racial reckoning enforced an allegiance to anti-whiteness on pain of [social media humiliation](https://www.racket.news/p/on-white-fragility), cancellation, and unemployment. Between September 2019 and September 2020, DEI positions [jumped](https://nypost.com/2024/05/29/us-news/dei-is-dying-and-response-to-oct-7-highlighted-the-hypocrisy/) by 56.3%. In 2023, Tabia Lee, a Black woman, was [ousted](https://www.newsweek.com/dei-college-director-fired-not-being-right-kind-black-person-1813481) from the directorship of the DEI program at De Anza Community College for, as she alleged in her lawsuit, being insufficiently opposed to whiteness (Jews included) and “not the right kind of Black person.” Lee [has said](https://nypost.com/2023/07/31/dei-industry-failing-promotes-division-instead-of-unity/), “The default here in America especially is \[a type of DEI\] that focuses on racial division and perpetual strife around racialized identity.”
+
+If all of this were somehow constructive then maybe we could talk about how you have to crack eggs to make omelettes. But none of the news about this incarnation of DEI has been good. There is copious evidence—“hundreds of studies dating back to the 1930s,” [write](https://scholar.harvard.edu/files/dobbin/files/an2018.pdf) sociologists Frank Dobbin and Alexandra Kalev—to suggest that the corporate anti-bias [training](https://chief.com/articles/dei-multi-billion-dollar-industry-that-doesnt-work-how-to-change-it) central to its mission [simply doesn't work](https://www.nytimes.com/2023/01/17/opinion/dei-trainings-effective.html). It does not meaningfully change employees’ thinking, and tends to be recalled instead as mere hoops they had to jump through. “You spend some money, you get people excited, and then a year later, you’re at the same place,” [says](https://chief.com/articles/dei-multi-billion-dollar-industry-that-doesnt-work-how-to-change-it) DEI strategist Lily Zheng, the author of *[DEI Deconstructed](https://www.amazon.com/exec/obidos/ASIN/B0B3QSWHP7/ericnehrlisho-20)*. At the University of Michigan, the main result of a campus-wide DEI infusion has—according to a deeply-reported *New York Times Magazine* [piece](https://www.nytimes.com/2024/10/16/magazine/dei-university-michigan.html) —been frustration, discomfort, and alienation. “The most common attitude I encountered about DEI during my visits to Ann Arbor was a kind of wary disdain,” Nicholas Confessore wrote in *The Times* to summarize his months of reporting at Michigan. DEI’s casual reference to racial categories as determinative is both facile and menacing, recalling the phrenological nonsense of another time. Take the pitilessly dehumanizing [conception of “whiteness”](https://nypost.com/2021/02/23/coca-cola-diversity-training-urged-workers-to-be-less-white/) that Coca-Cola employees, for instance, have been fed in DEI trainings: If you are white, apparently you should know that you are inherently oppressive, arrogant, smug, defensive, ignorant, that you lack humility and have a hard time listening or believing, that you resist apathy, and that you embrace white solidarity.
+
+That characterization of whiteness may sound familiar to those who read Robin DiAngelo’s best-selling *White Fragility*, a book that manifests another problem with post-2020 DEI: incoherent argumentation. To take one of the more absurd examples from her book, DiAngelo [writes](https://www.racket.news/p/on-white-fragility) that Americans are so blithely racist as to believe that Jackie Robinson was the first Black person who was skilled enough at baseball to play in the Major Leagues, as opposed to presuming that racism had previously barred Black people from them.
+
+---
+
+---
+
+Overall, this new, prevailing DEI is based on a core assumption that battling the power of whiteness be not just one goal, but *the* central goal of our institutions. This is a simplistic and needlessly restrictive niche ideology, allowed freer rein than any mature society should permit. Following from that vantage-point, DEI bureaucracies have swelled beyond any plausible conception of utility: in Fairfax County, Virginia, the public school system’s DEI bureaucracy now [numbers](https://www.fairfaxtimes.com/articles/pricetag-of-equity-in-fairfax-county-schools-6-4-million/article_6e14ee46-db8a-11ef-ba7b-4b737bdff938.html) some 52 employees with a combined salary ($6.4 million dollars a year) that could pay for 125 extra teachers. Only through this idea that battling whiteness’ power should be the core of human endeavor does it possibly make sense for universities to require [diversity statements](https://reason.com/2022/09/30/mandated-diversity-statement-drives-jonathan-haidt-to-quit-academic-society/) of applicants even to faculty jobs in STEM subjects.
+
+We can understand these trends better if we recognize that modern DEI is equivalent to a religious faith in Europe circa 1300 A.D., fully equipped with seminary-trained clergy aglow with Good News whom it is immoral to question. DEI’s hegemony is a legacy of peak woke, freezing us in a pendulum swing to the hard left that reached its apogee sometime around June 2020. It’s been in place for a while, and to dismiss resistance to it as mere racism is reductive. Trump did not go on a witch hunt against affirmative action during his first term—it is the post-2020 detour of DEI that animated his minions’ current attack.
+
+The problem with Trump’s executive order is that it goes beyond addressing this recent transmogrification of DEI and puts a wholesale pox on what a certain kind of person is given to calling “stirring up that stuff” about race. It would stand to reason that the proper approach to DEI overall (which has in essence been a new term for affirmative action) is, as President Bill Clinton [put it](https://time.com/archive/6727718/affirmative-action-mend-it-dont-end-it/) about racial preferences in the 1990s, to “Mend it, not end it” i.e. to try and improve a worthy project that has its flaws. There is no mending in Trump’s order, which instead attempts to simply vaporize any institutionalized commitment to social justice.
+
+One can be utterly revolted by the way DEI has been practiced of late while still supporting institutions that use outreach strategies to identify applicants less likely to come to their attention via normal channels. Organizations should not be barred from investigating possible injustice or—as Trump’s executive order endeavors to inhibit—to [sharing data](https://www.nytimes.com/2025/01/23/business/trump-dei-corporate-reaction.html) with third-party DEI entities.
+
+Surely the idea is not that teaching about Black history, including the profound role that racism has played in it, is “radical and wasteful,” to quote what the order targets. That our country openly addresses Black history is a badge of honor and a sign of compassion. And yet Trump’s executive order has already made the U.S. Air Force feel it necessary to take off-line a [teaching video](https://apnews.com/article/air-force-dei-tuskegee-women-wwii-pilots-ecdeac68dc7696535d093c7690ab73bc) on Tuskegee airmen. A change like that is grievous.
+
+---
+
+---
+
+One of the most appalling aspects of Trump’s anti-DEI animus is that he has gone as far as to rescind Lyndon Johnson’s seminal 1965 [executive order](https://www.archives.gov/federal-register/codification/executive-order/11246.html) that prohibited discriminatory practices in hiring and employment within the federal government and which introduced the phrase “affirmative action” into widespread use.
+
+Trump attempts to justify himself in his executive order, “ [Ending Illegal Discrimination and Restoring Merit-Based Opportunity](https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/),” which rescinds the 1965 order. And I do get it—favoring Black hires can be interpreted as a kind of discrimination against whites. That’s an old argument, and one that has never met a true smackdown reply. For that reason I have always thought racial preferences in university admissions should have been applied as a temporary measure rather than one preserved until a Great Day when racism doesn’t exist.
+
+But while deep-sixing the nakedly anti-white posturing of today’s DEI is one thing, it is another to strike down the basic acknowledgement that people should be given a fair shake regardless of sex or color. A mature society endeavors to search for talent beyond where it might seem most intuitive to look and uses imagination—and compassion—in allocating avenues to success. Affirmative action, in its initial sense—unsullied by the distortions of identity politics, the tacit commitment to lowering standards, and the temptations of virtue signalling—was a model of moral advancement for the world and something that the United States could be proud of.
+
+Outlawing affirmative action of any kind, as Trump attempts to do, will discourage institutions from trying to level the playing field at all. This overreaction to DEI’s acknowledged missteps not only sets us back—it is immorality incarnate.
+
+**John McWhorter is an associate professor of linguistics at Columbia University, a columnist for The New York Times, and a member of Persuasion’s Board of Advisors. He is the author of, most recently,** ***[Woke Racism: How a New Religion Has Betrayed Black America](https://www.penguinrandomhouse.com/books/696856/woke-racism-by-john-mcwhorter/).***
+
+---
+
+Follow *Persuasion* on [Twitter](http://twitter.com/JoinPersuasion), [LinkedIn](https://www.linkedin.com/company/persuasion-community/), and [YouTube](https://www.youtube.com/channel/UCsyw69DKDfr9Vj1PkRmnI7w) to keep up with our latest articles, podcasts, and events, as well as updates from excellent writers across our network.
+
+And, to receive pieces like this in your inbox and support our work, subscribe below:

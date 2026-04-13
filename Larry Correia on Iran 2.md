@@ -1,0 +1,55 @@
+---
+title: "(5) Facebook"
+source: "https://www.facebook.com/"
+author:
+published:
+created: 2026-03-02
+description:
+tags:
+  - "brain_spew"
+---
+Scrolling through the internet, people remain really fucking stupid, are totally incapable of critical thinking, and they're completely divorced from any sense of history.
+
+So... Iran's been fucking with us since I was born, has funded, trained, and enabled some of the most heinous assholes of the last several decades, destabilized an entire region of the Earth, and generally been total pricks.
+
+Previous administrations going back to Jimmy Carter have had problems with the Iranians being total pricks who routinely do evil shit. Each of them did a little something, or nothing, or went full quisling sucked up and bribed them, but mostly they kicked the can down the road to be someone else's problem for political expediency. Because due to the situation at those times there'd be no overthrowing the fanatics without getting into a protracted ground war that would result in lots of American casualties.
+
+But today, due to a cascading series of current events, the situation has evolved and the American president most likely to say Fuck It YOLO, was presented the opportunity to dog walk this regime without invading. That hadn't really been an option before.
+
+This was all caused because one of Iran's many proxy bands of terrorist dickheads flew their waxy terrorist wings too close to the sun and got their dicks blown off by pagers. As that escalated Iran decided to launch a shit ton of missiles which weren't nearly as impressive as everyone was scared they would be, so then they lost a whole bunch of their leading boss assholes, and the whole world saw that Iranian air defenses were wishful thinking when some B2s buttfucked their impenetrable super bunker.
+
+So then the populace of Iran got really uppity, because they're sick of these religious fanatic death cultists too. Their asshole government then provided a demonstration of why we're never ever giving up the 2nd Amendment here.
+
+Except the FAFO president told them not to massacre all those people, and he was sick of their shit. This is the same guy who has made a rather impressive list of military operations that get in, fuck shit up, and then get out fast with minimal American casualties. This man is not George Bush. He does not have a Colin "You Break It You Buy It" Powell. Trump apparently does not seem to give a fuck about "nation building", which works out because the American people do not want another twenty years of bullshit like Afghanistan or Iraq.
+
+When given the opportunity to kill a ton of bad people, allowing the Iranian people to do the rest, and this opportunity has never come along before, of course Trump is going to go for it. And despite the screaming from the schizophrenic podcaster crowd of the griftosphere, most conservative Americans are very much of the attitude fuck Iran.
+
+(of course libs are gonna lib, so get ready for a bunch of rainbow dipshits to march with Iranian flags next week)
+
+And none of this should be surprising either, because Trump just recently took out a South American dictatorship over one weekend. People were like, oh shit, yeah, America can actually do stuff like that. Americans got so used to wars being long and stupid and pointless fucking around with dumb ass rules of engagement that the concept we could just do shit and get it over with is crazy to people. We got used to sending dictators and fanatics pallets of cash, making red lines that didn't mean anything, followed by the occasional drone strike, all while our young warriors risked their lives trying to make a country with Man Love Thursday into a Jeffersonian democracy for YEARS.
+
+I see zero indication Trump wants to do that shit again. Good.
+
+Of course when this kicked off the fucking Deus Vult, helmet avatar, Return bros who keep talking all this shit about throwing a new crusade, crushing Islam, and protecting the west, all turned into pacifists who are absolutely against attacking the regime that funds most of the world's Islamist bullshit. The same country that's building mosques across Europe and behind most of the refugee crisis bullshit that flooded those countries, nope. Leave the ayatollahs alone!
+
+Why this change of heart? The JOOOOOOOZ of course! Because clearly, America can't have its own strategic reasons for wanting to fight the Death To America crowd who has continually fucked with us for five decades. Oh no. Clearly this is Israel's war, and these guys (who aren't in our volunteer military) "aren't gonna die for Israel."
+
+Which is fucking stupid. Because if there's one other country that this is all really about, it isn't Israel. It's China.
+
+We're down to two major global powers who actually matter, us and commies, and so far this year Trump has basically taken two of China's allies/suppliers off the table. Which limits China's options and ability to fuck with us.
+
+As for being on the same side as Israel? No shit, of course we are. Militant Islam is a mutual foe. They're tired of getting bombed and terrorized by these assholes. So they've got reasons to want the Iranian regime overthrown. And the US has reasons we want to overthrow the Iranian regime. And now, because the Iranian mullahs are INSANE DEATH CULTISTS the other Muslim countries are jumping in on this too. These dipshits launched missiles at Muslim countries that were neutral or even aiding them. (no word yet if Tucker Carlson's house in Qatar was damaged!)
+
+Beyond screaming about the Jews, the other big thing I've seen is that attacking Iran is a distraction from the Epstein Files... Are you fucking high? I've seen this from the halal right and the commie gibberish left. Because that's an absolutely brilliant plan these masterminds hatched, let's fuck around with Iran for nearly fifty years, and then when a pedophile scumbag dies, seven years after that we'll rile up the Persian people to the point of revolution so we can overthrow their government as a distraction. AND this is such a brilliant distraction, that the plan is to do it FAST. That way it distracts for less time. Genius.
+
+Plus, what is it with these fucking simpletons who can only pay attention to one issue at a time? But you know, come to think of it, I bet these fucking idiots are that easily distracted. Never mind.
+
+My position on Iran, fuck the government of Iran, I hope the Persian people replace it with something better (it would be hard to be worse!), good luck to them, and God speed to our troops. Killing bad guys and letting the Persian people build their own nation-good. Invading-stupid. But I see zero indication anybody wants to do that (well, except for maybe Lindsey Graham and the ghost of John McCain).
+
+![](https://www.facebook.com/www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath%20d='M16.0001%207.9996c0%204.418-3.5815%207.9996-7.9995%207.9996S.001%2012.4176.001%207.9996%203.5825%200%208.0006%200C12.4186%200%2016%203.5815%2016%207.9996Z'%20fill='url(%23paint2_radial_15251_63610)'%20fill-opacity='.5'/%3E%3Cpath%20d='M7.3014%203.8662a.6974.6974%200%200%201%20.6974-.6977c.6742%200%201.2207.5465%201.2207%201.2206v1.7464a.101.101%200%200%200%20.101.101h1.7953c.992%200%201.7232.9273%201.4917%201.892l-.4572%201.9047a2.301%202.301%200%200%201-2.2374%201.764H6.9185a.5752.5752%200%200%201-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878%203.6878%200%200%200%20.3893-1.6509l-.0002-.4496ZM4.367%207a.767.767%200%200%200-.7669.767v3.2598a.767.767%200%200%200%20.767.767h.767a.3835.3835%200%200%200%20.3835-.3835V7.3835A.3835.3835%200%200%200%205.134%207h-.767Z'%20fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient%20id='paint1_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='rotate(90%20.0005%208)%20scale(7.99958)'%3E%3Cstop%20offset='.5618'%20stop-color='%230866FF'%20stop-opacity='0'/%3E%3Cstop%20offset='1'%20stop-color='%230866FF'%20stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient%20id='paint2_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='rotate(45%20-4.5257%2010.9237)%20scale(10.1818)'%3E%3Cstop%20offset='.3143'%20stop-color='%2302ADFC'/%3E%3Cstop%20offset='1'%20stop-color='%2302ADFC'%20stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient%20id='paint0_linear_15251_63610'%20x1='2.3989'%20y1='2.3999'%20x2='13.5983'%20y2='13.5993'%20gradientUnits='userSpaceOnUse'%3E%3Cstop%20stop-color='%2302ADFC'/%3E%3Cstop%20offset='.5'%20stop-color='%230866FF'/%3E%3Cstop%20offset='1'%20stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E)
+
+![](https://www.facebook.com/www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Cg%20clip-path='url(%23clip0_15251_63610)'%3E%3Cpath%20d='M15.9963%208c0%204.4179-3.5811%207.9993-7.9986%207.9993-4.4176%200-7.9987-3.5814-7.9987-7.9992%200-4.4179%203.5811-7.9992%207.9987-7.9992%204.4175%200%207.9986%203.5813%207.9986%207.9992Z'%20fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath%20d='M15.9973%207.9992c0%204.4178-3.5811%207.9992-7.9987%207.9992C3.5811%2015.9984%200%2012.417%200%207.9992S3.5811%200%207.9986%200c4.4176%200%207.9987%203.5814%207.9987%207.9992Z'%20fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath%20d='M7.9996%205.9081c-.3528-.8845-1.1936-1.507-2.1748-1.507-1.4323%200-2.4254%201.328-2.4254%202.6797%200%202.2718%202.3938%204.0094%204.0816%205.1589.3168.2157.7205.2157%201.0373%200%201.6878-1.1495%204.0815-2.8871%204.0815-5.159%200-1.3517-.993-2.6796-2.4254-2.6796-.9811%200-1.822.6225-2.1748%201.507Z'%20fill='%23fff'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient%20id='paint1_radial_15251_63610'%20cx='0'%20cy='0'%20r='1'%20gradientUnits='userSpaceOnUse'%20gradientTransform='matrix(0%207.9992%20-7.99863%200%207.9986%207.9992)'%3E%3Cstop%20offset='.5637'%20stop-color='%23E11731'%20stop-opacity='0'/%3E%3Cstop%20offset='1'%20stop-color='%23E11731'%20stop-opacity='.1'/%3E%3C/radialGradient%3E%3ClinearGradient%20id='paint0_linear_15251_63610'%20x1='2.3986'%20y1='2.4007'%20x2='13.5975'%20y2='13.5993'%20gradientUnits='userSpaceOnUse'%3E%3Cstop%20stop-color='%23FF74AE'/%3E%3Cstop%20offset='.5001'%20stop-color='%23FA2E3E'/%3E%3Cstop%20offset='1'%20stop-color='%23FF5758'/%3E%3C/linearGradient%3E%3CclipPath%20id='clip0_15251_63610'%3E%3Cpath%20fill='%23fff'%20d='M-.001.0009h15.9992v15.9984H-.001z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E)
+
+All reactions:
+
+26K Judith Weiss, Christian Kennedy and 26K others
