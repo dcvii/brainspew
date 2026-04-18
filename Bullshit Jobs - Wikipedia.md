@@ -17,7 +17,6 @@ Two studies found that Graeber's claims are not supported by data: while he clai
 
 ## Summary
 
-<video width="250" height="141"></video>
 
 The author interviewed at De Balie on the premise of the book, June 2018
 
