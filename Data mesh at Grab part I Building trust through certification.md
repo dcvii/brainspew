@@ -1,6 +1,6 @@
 ---
 title: "Data mesh at Grab part I: Building trust through certification"
-source: "https://engineering.grab.com/signals-market-place"
+source: https://engineering.grab.com/signals-market-place
 author:
   - "[[Chun Rong Phang]]"
   - "[[Satarupa Seal]]"
@@ -8,9 +8,9 @@ author:
   - "[[Jerome Tong]]"
 published:
 created: 2025-08-21
-description: "Grab has embarked on a transformative journey to overhaul its enterprise data ecosystem, addressing challenges posed by the rapid growth of its business spanning across ride-hailing, food delivery, and financial services. With the increasing complexity of its data landscape, Grab transitioned from a centralised data warehouse model to a data mesh architecture, a decentralised approach treating data as a product owned by domain-specific teams. The article shares the motivations behind the change, the factors and steps taken to make it a success, and results."
+description: Grab has embarked on a transformative journey to overhaul its enterprise data ecosystem, addressing challenges posed by the rapid growth of its business spanning across ride-hailing, food delivery, and financial services. With the increasing complexity of its data landscape, Grab transitioned from a centralised data warehouse model to a data mesh architecture, a decentralised approach treating data as a product owned by domain-specific teams. The article shares the motivations behind the change, the factors and steps taken to make it a success, and results.
 tags:
-  - "clippings"
+  - datamesh
 ---
 ## Introduction
 
