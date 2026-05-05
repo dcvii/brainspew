@@ -1,0 +1,12 @@
+---
+title: "ARBOR AIMS AT ORACLE WITH APPSOURCE ACQUISITION"
+source: "https://www.techmonitor.ai/technology/arbor_aims_at_oracle_with_appsource_acquisition"
+author:
+  - "[[CBR Staff Writer]]"
+published: 1997-12-17
+created: 2026-05-05
+description: "Arbor Software Corp is gunning directly for Oracle Corp’s Sales Analyzer sales and marketing analysis suite with the addition of…"
+tags:
+  - "brain_spew"
+---
+Arbor Software Corp is gunning directly for Oracle Corp’s Sales Analyzer sales and marketing analysis suite with the addition of Wired for OLAP to its portfolio through Arbor’s acquisition of Orlando, Florida-based AppSource Corp. Wired for OLAP is an analysis and presentation tool designed to operate both for client-server and web-based applications. Arbor has worked with AppSource for some time, and the companies already have 150 joint customers worldwide, using Wired for OLAP as a front end to Arbor’s Essbase multidimensional database. Arbor says in conjunction with the enhancements to Essbase due in version 5.0 in the first half of next year (CI No 3,290), particularly the scalability and ability to cater for very large data stores, Wired for OLAP offers a system for sales and marketing and executive information systems which is unparalleled, even by Oracle. The combination of the two products will offer users a consistent interface and identical functionality whether working in a client-server environment or over the web, which the company claims Oracle’s Sales Analyzer does not do, and it also offers a thin-client architecture, write-back update facility straight into Essbase, and integrated electronic mail. Arbor’s director for Northern Europe Peter Philpott, says the addition of Wired for OLAP as a front end to Essbase, offers a tool that fits into the company’s strategy of being the OLAP supplier for the whole enterprise, not just the financial department. He says however, that this in no way undermines Arbor’s strategy of open systems, and it will continue to work with all its other partners to link third party front-ends into Essbase. Similarly, Wired for OLAP will link into relational data sources, to enable drill down into data held in a datawarehouse or operational relational database. Arbor is simply stressing, Philpott says, that the combination of Wired for OLAP and Essbase will address a wide range of sales and marketing applications. Financial terms were not disclosed, but all AppSource staff and business will be fully integrated into Arbor.
