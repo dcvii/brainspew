@@ -1,0 +1,22 @@
+---
+title: "Hana Lee Goldin, MLIS (@hanaleegoldin)"
+source: "https://substack.com/@hanaleegoldin/note/c-256934788?r=7br8e"
+author:
+  - "[[Hana Lee Goldin]]"
+  - "[[MLIS]]"
+published:
+created: 2026-05-18
+description: "6 free tools for the kind of research that used to require a university loginAcademic research has gotten significantly more accessible over the past decade. Each of these tools is free and open to the public.JSTOR (http://jstor.org) — Anyone can register a free personal account and read up to 100 articles online every 30 days, with no institutional affiliation required. The open access collection also includes thousands of ebooks, primary sources, and close to a million images contributed by museums and cultural institutions worldwide.PubMed Central (https://pmc.ncbi.nlm.nih.gov/— The National Library of Medicine's full-text archive of biomedical and life sciences research, with material dating back to the 18th century. Everything is free to read without an account. (This is different from PubMed, which is a search engine that often links to paywalled articles. PubMed Central is the one with free full text.)SSRN (http://ssrn.com) — A preprint repository where researchers in the social sciences, law, and economics upload working papers and drafts, often before formal journal publication. Free to read and download, and frequently where new findings in these fields appear first.OpenAlex (https://openalex.org/— A free, open catalog of more than 470 million scholarly works, maintained by the nonprofit OurResearch. No account required. All metadata is released under a CC0 license, meaning anyone can search, use, and build on the data without restriction.Semantic Scholar (https://www.semanticscholar.org/— An AI-powered search engine for academic papers that maps citation graphs and generates research recommendations, which makes it especially useful for tracing how ideas connect across disciplines.CORE (https://core.ac.uk/— One of the largest aggregators of open-access research on the web, pulling from thousands of institutional repositories and journals worldwide. It's designed specifically to help locate free versions of individual papers."
+tags:
+  - "brain_spew"
+---
+**6 free tools for the kind of research that used to require a university login**
+
+Academic research has gotten significantly more accessible over the past decade. Each of these tools is free and open to the public.
+
+- **JSTOR** ([jstor.org](http://jstor.org/)) — Anyone can register a free personal account and read up to 100 articles online every 30 days, with no institutional affiliation required. The open access collection also includes thousands of ebooks, primary sources, and close to a million images contributed by museums and cultural institutions worldwide.
+- **PubMed Central** ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/)— The National Library of Medicine's full-text archive of biomedical and life sciences research, with material dating back to the 18th century. Everything is free to read without an account. *(This is different from PubMed, which is a search engine that often links to paywalled articles. PubMed Central is the one with free full text.)*
+- **SSRN** ([ssrn.com](http://ssrn.com/)) — A preprint repository where researchers in the social sciences, law, and economics upload working papers and drafts, often before formal journal publication. Free to read and download, and frequently where new findings in these fields appear first.
+- **OpenAlex** ([openalex.org](https://openalex.org/)— A free, open catalog of more than 470 million scholarly works, maintained by the nonprofit OurResearch. No account required. All metadata is released under a CC0 license, meaning anyone can search, use, and build on the data without restriction.
+- **Semantic Scholar** ([semanticscholar.org](https://www.semanticscholar.org/)— An AI-powered search engine for academic papers that maps citation graphs and generates research recommendations, which makes it especially useful for tracing how ideas connect across disciplines.
+- **CORE** ([core.ac.uk](https://core.ac.uk/)— One of the largest aggregators of open-access research on the web, pulling from thousands of institutional repositories and journals worldwide. It's designed specifically to help locate free versions of individual papers.
