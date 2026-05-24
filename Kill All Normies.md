@@ -1,0 +1,61 @@
+---
+title: Kill All Normies
+source: https://en.wikipedia.org/wiki/Kill_All_Normies
+author:
+  - "[[Wikipedia]]"
+published: 2018-11-07
+created: 2026-05-23
+description:
+tags:
+  - brain_spew
+  - culture_war
+---
+***Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and the Alt-Right*** is a 2017 non-fiction book by [Angela Nagle](https://en.wikipedia.org/wiki/Angela_Nagle "Angela Nagle") published by [Zero Books](https://en.wikipedia.org/wiki/Zero_Books "Zero Books"). It describes the development of [internet culture](https://en.wikipedia.org/wiki/Internet_culture "Internet culture"), the nature of [political correctness](https://en.wikipedia.org/wiki/Political_correctness "Political correctness"), the emergence of the [alt-right](https://en.wikipedia.org/wiki/Alt-right "Alt-right") and the [2016 election of Donald Trump](https://en.wikipedia.org/wiki/2016_United_States_presidential_election "2016 United States presidential election").[^1] [^2] Nagle offers a left-wing critique of contemporary [social liberalism](https://en.wikipedia.org/wiki/Social_liberalism "Social liberalism"), arguing that it helped create the alt-right movement.
+
+## Synopsis
+
+Nagle presents her work as an attempt to map the online [culture wars](https://en.wikipedia.org/wiki/Culture_wars "Culture wars") that occurred in the early 2010s and how it resulted in the development of [alt-right](https://en.wikipedia.org/wiki/Alt-right "Alt-right") which played a major role in the election of Donald Trump. Nagle introduces the 2010s as a period in which "cyber utopianism" began to emerge with the rise of internet-based social activism such as the [Arab Spring](https://en.wikipedia.org/wiki/Arab_Spring "Arab Spring"), [Occupy movement](https://en.wikipedia.org/wiki/Occupy_movement "Occupy movement"), [WikiLeaks](https://en.wikipedia.org/wiki/WikiLeaks "WikiLeaks"), [adbusters](https://en.wikipedia.org/wiki/Adbusters "Adbusters"), and [Anonymous](https://en.wikipedia.org/wiki/Anonymous_\(group\) "Anonymous (group)") which were based on decentralized leadership and online organization. This internet-based activism was immediately embraced by much of mainstream [liberalism](https://en.wikipedia.org/wiki/Social_liberalism "Social liberalism") without any rigorous analysis or appraisal of the organizational structure and limitations of these internet-based movements, which all resulted in consistent failure and eventual collapse. Many of these movements began on image-based online forums such as [4chan](https://en.wikipedia.org/wiki/4chan "4chan") and [8chan](https://en.wikipedia.org/wiki/8chan "8chan"). These forums, organized on the basis of [anonymity](https://en.wikipedia.org/wiki/Anonymity "Anonymity"), developed a subculture among the users that combined extremely transgressive and dark humor with a deeply [misogynistic](https://en.wikipedia.org/wiki/Misogynistic "Misogynistic") and [racist](https://en.wikipedia.org/wiki/Racist "Racist") attitude.
+
+In the second chapter, titled "The Online Politics of Transgression", Nagle observes how political transgression historically is associated with the political Left, specifically that of the [New Left](https://en.wikipedia.org/wiki/New_Left "New Left"), which was adopted by the [Alt-Right](https://en.wikipedia.org/wiki/Alt-Right "Alt-Right"). Nagle frames this adoption of transgression by the political right in relation to the concept of [moral transgression](https://en.wikipedia.org/w/index.php?title=Moral_transgression&action=edit&redlink=1 "Moral transgression (page does not exist)"), which can be traced to the eighteenth century figures of [Marquis De Sade](https://en.wikipedia.org/wiki/Marquis_De_Sade "Marquis De Sade"), [The Surrealists](https://en.wikipedia.org/wiki/Surrealism "Surrealism"), [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche "Friedrich Nietzsche"), [Punk subculture](https://en.wikipedia.org/wiki/Punk_subculture "Punk subculture"), and contemporaneously in the 1990s 'male rampage films' like *[American Psycho](https://en.wikipedia.org/wiki/American_Psycho_\(film\) "American Psycho (film)")* and *[Fight Club](https://en.wikipedia.org/wiki/Fight_Club "Fight Club")*. This 'transgressive anti-moral style' of the Alt-Right, according to Nagle, is their attempt to completely break away from the [egalitarian](https://en.wikipedia.org/wiki/Egalitarian "Egalitarian") philosophy of the Left and the [Christian morality](https://en.wikipedia.org/wiki/Christian_morality "Christian morality") of the Right.
+
+In chapter three, "Gramscians of the Alt-Lite", Nagle focuses on the popularity of the [French New Right](https://en.wikipedia.org/wiki/French_New_Right "French New Right") within the circles of the Alt-Right.
+
+## Publication and reception
+
+*Kill All Normies* received a polarized reception from critics and columnists, with *[Vice](https://en.wikipedia.org/wiki/Vice_\(magazine\) "Vice (magazine)")*,[^3] *[New York](https://en.wikipedia.org/wiki/New_York_\(magazine\) "New York (magazine)")*,[^4] and *[The New Republic](https://en.wikipedia.org/wiki/The_New_Republic "The New Republic")* [^5] publishing positive reviews of the book, whereas outlets such as *[The Daily Beast](https://en.wikipedia.org/wiki/The_Daily_Beast "The Daily Beast")*, [Libcom](https://en.wikipedia.org/wiki/Libcom.org "Libcom.org"), *[CounterPunch](https://en.wikipedia.org/wiki/CounterPunch "CounterPunch")*, and *[The New Socialist](https://en.wikipedia.org/w/index.php?title=The_New_Socialist&action=edit&redlink=1 "The New Socialist (page does not exist)")* criticized Nagle's description of campus activism.[^6] A review in *[The Daily Beast](https://en.wikipedia.org/wiki/The_Daily_Beast "The Daily Beast")* said the book was plagued by "sloppy sourcing",[^7] noting an allegation that parts of the book had been [plagiarized](https://en.wikipedia.org/wiki/Plagiarized "Plagiarized").[^7] [^8] Nagle and her publisher both rejected the accusations.[^9] [^10] In his review, *Red Wedge Magazine* co-author accused Nagle of failing to understand the countercultures she writes about, claiming that she portrays alt-right groups on 4chan and social justice communities on Tumblr as being equally violent. Nagle called the review "hilarious" in an interview with Zero Books.[^11]
+
+Columnist [Ross Douthat](https://en.wikipedia.org/wiki/Ross_Douthat "Ross Douthat") of the *New York Times* praised Nagle's "portrait of the online cultural war",[^12] and the *Times* columnist [Michelle Goldberg](https://en.wikipedia.org/wiki/Michelle_Goldberg "Michelle Goldberg") said that *Kill All Normies* had "captured this phenomenon".[^13] Novelist [George Saunders](https://en.wikipedia.org/wiki/George_Saunders "George Saunders") listed *Kill All Normies* as one of his ten favorite books helping him through the "current political moment".[^14]
+
+[^1]: ["Kill All Normies || Zero Books || Book Info"](https://web.archive.org/web/20190714044302/http://www.zero-books.net/books/kill-all-normies). *www.zero-books.net*. Archived from [the original](http://www.zero-books.net/books/kill-all-normies) on 2019-07-14. Retrieved 2018-11-08.
+
+[^2]: Nagle, Angela (2017). *Kill All Normies: Online Culture Wars from 4chan and Tumblr to Trump and The Alt-Right*. Zero Books.
+
+[^3]: Kiberd, Roisin (12 May 2017). ["'Kill All Normies' Is About the Alt-Right But the Left Ends Up Looking Worse"](https://www.vice.com/en/article/kill-all-normies-is-about-the-alt-right-but-the-left-ends-up-looking-worse/). *Motherboard*. VICE. [Archived](https://web.archive.org/web/20181108105015/https://motherboard.vice.com/en_us/article/bmwdm5/kill-all-normies-is-about-the-alt-right-but-the-left-ends-up-looking-worse) from the original on 8 November 2018. Retrieved 6 November 2018.
+
+[^4]: MacDougald, Park (13 July 2017). ["Where Did the Alt-Right Come From? This Book Finds Some Uncomfortable Answers"](http://nymag.com/intelligencer/2017/07/angela-nagles-kill-all-normies-the-alt-right-and-4chan.html). *Intelligencer*. Retrieved 6 November 2018.
+
+[^5]: Gais, Hannah (6 July 2017). ["What the Alt-Right Learned from the Left"](https://newrepublic.com/article/143722/alt-right-learned-left). *The New Republic*. Retrieved 8 November 2018.
+
+[^6]: Dunbar, Mark (29 August 2017). ["Book Review: Kill All Normies"](https://thehumanist.com/magazine/september-october-2017/arts_entertainment/book-review-kill-normies-online-culture-wars-4chan-tumblr-trump-alt-right). *TheHumanist.com*.
+
+[^7]: Davis, Charles (19 May 2018). ["Sloppy Sourcing Plagues 'Kill All Normies' Alt-Right Book"](https://www.thedailybeast.com/kill-all-citations-sloppy-sourcing-plagues-kill-all-normies-book-on-sjws-and-the-alt-right). *The Daily Beast*. [Archived](https://web.archive.org/web/20190626215343/https://www.thedailybeast.com/kill-all-citations-sloppy-sourcing-plagues-kill-all-normies-book-on-sjws-and-the-alt-right) from the original on 26 June 2019. Retrieved 8 November 2018.
+
+[^8]: Harman, Mike. ["Angela Nagle's Plagiarise Any Nonsense"](https://libcom.org/blog/angela-nagles-plagiarise-any-nonsense-03052018). *libcom.org*. Retrieved 8 November 2018.
+
+[^9]: Nagle, Angela (26 May 2018). ["Angela Nagle's Statement Regarding the Daily Beast"](https://web.archive.org/web/20180714033537/http://zero-books.net/blogs/zero/angela-nagles-state-regarding-the-daily-beast/). *Zero Books Blog*. Archived from [the original](http://zero-books.net/blogs/zero/angela-nagles-state-regarding-the-daily-beast/) on 14 July 2018. Retrieved 23 August 2019.
+
+[^10]: Lain, Douglas (22 May 2018). ["Our Response to Charles Davis' Attack on Angela Nagle"](https://web.archive.org/web/20180713164327/http://zero-books.net/blogs/zero/our-response-to-charles-davis-attack-on-angela-nagle/). *Zero Books Blog*. Archived from [the original](http://zero-books.net/blogs/zero/our-response-to-charles-davis-attack-on-angela-nagle/) on 13 July 2018. Retrieved 23 August 2019.
+
+[^11]: Baszak, Gregor (6 January 2018). ["Review of Angela Nagle's Kill All Normies: Online Culture Wars From 4chan and Tumblr to Trump and the Alt-Right"](https://electronicbookreview.com/essay/review-of-angela-nagles-kill-all-normies-online-culture-wars-from-4chan-and-tumblr-to-trump-and-the-alt-right/). *Electronic Book Review*. [Archived](https://web.archive.org/web/20210225044329/https://electronicbookreview.com/essay/review-of-angela-nagles-kill-all-normies-online-culture-wars-from-4chan-and-tumblr-to-trump-and-the-alt-right/) from the original on 25 February 2021. Retrieved 25 January 2021.
+
+[^12]: ["Opinion | Columnists' Book Club"](https://www.nytimes.com/interactive/2017/12/14/opinion/15columnists.html). *The New York Times*. 14 December 2017. [Archived](https://web.archive.org/web/20180625021902/https://www.nytimes.com/interactive/2017/12/14/opinion/15columnists.html) from the original on 2018-06-25. Retrieved 2018-07-06.
+
+[^13]: Goldberg, Michelle (11 May 2018). ["Opinion | How the Online Left Fuels the Right"](https://www.nytimes.com/2018/05/11/opinion/intellectual-dark-web-red-pilled.html). *The New York Times*. Retrieved 2018-07-06.
+
+[^14]: Saunders, George. ["George Saunders's 10 Favorite Books"](http://www.vulture.com/2018/03/george-saunderss-10-favorite-books.html). *Vulture*. [Archived](https://web.archive.org/web/20180706215103/http://www.vulture.com/2018/03/george-saunderss-10-favorite-books.html) from the original on 2018-07-06. Retrieved 2018-07-06.
+
+[^15]: ["Trumpland: Kill All Normies"](https://www.tvguide.com/tvshows/trumpland-kill-all-normies/1155242/). *TV Guide*. 16 January 2018. [Archived](https://web.archive.org/web/20180122121318/http://www.tvguide.com/tvshows/trumpland-kill-all-normies/1155242) from the original on 2018-01-22. Retrieved 2018-01-16.
+
+[^16]: ["Muerte a los normies"](https://www.orcinypress.com/producto/muerte-a-los-normies) (in Spanish). Orciny Press. 16 April 2018.
+
+[^17]: ["Die digitale Gegenrevolution"](https://www.transcript-verlag.de/978-3-8376-4397-8/die-digitale-gegenrevolution/). *www.transcript-verlag.de* (in German). [Archived](https://web.archive.org/web/20190207073924/https://www.transcript-verlag.de/978-3-8376-4397-8/die-digitale-gegenrevolution/) from the original on 2019-02-07. Retrieved 2019-02-05.
