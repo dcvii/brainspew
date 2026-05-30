@@ -1,13 +1,14 @@
 ---
-title: "The Ten Commandments of the New AI Religion"
-source: "https://www.honest-broker.com/p/the-ten-commandments-of-the-new-ai?publication_id=296132&post_id=192890249&isFreemail=false&r=7br8e&triedRedirect=true"
+title: The Ten Commandments of the New AI Religion
+source: https://www.honest-broker.com/p/the-ten-commandments-of-the-new-ai?publication_id=296132&post_id=192890249&isFreemail=false&r=7br8e&triedRedirect=true
 author:
   - "[[Ted Gioia]]"
 published: 2026-04-09
 created: 2026-04-10
-description: "This is the creepy creed of our time"
+description: This is the creepy creed of our time
 tags:
-  - "brain_spew"
+  - brain_spew
+  - artificial_intelligence
 ---
 ### This is the creepy creed of our time
 
