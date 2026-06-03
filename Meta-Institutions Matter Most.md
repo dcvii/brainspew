@@ -1,0 +1,34 @@
+---
+title: "Meta-Institutions Matter Most"
+source: "https://www.overcomingbias.com/p/meta-institutions-matter-most?utm_source=post-email-title&publication_id=1245641&post_id=199909021&utm_campaign=email-post-title&isFreemail=true&r=7br8e&triedRedirect=true&utm_medium=email"
+author:
+  - "[[Robin Hanson]]"
+published: 2026-05-30
+created: 2026-06-02
+description: "This is an essay."
+tags:
+  - "brain_spew"
+---
+This is an essay. Like most of my essays, I write it mostly to strangers. And with it, I hope to influence history. Some influence history via words to strangers that show drama, interestingness, impressiveness, or political and moral evocation and bonding. Alas, my best skill is abstract analysis. But the fact that most other approaches hide behind an appearance of abstract analysis gives some hope for my approach.
+
+To influence history, I want to induce my readers to change key factors that shape history. But if my main tool is abstract argument, I should focus on factors that we better understand abstractly, and also on factors with clear levers that motivated readers might predictably find and influence, if so persuaded. Which suggests that I look to factors other than meaning, motivation, aesthetics, and culture, factors which though quite powerful also seem hard to reason about and predictably influence.
+
+The biggest history-making factor that fits my criteria seems to be: *institutional structures, rules, and mechanisms*. Especially applied to the most important areas of life. I have a [Ph.D. on institutions](https://mason.gmu.edu/~rhanson/dissertation.html), and have spent a career near this topic area, during which I’ve learned many powerful related abstractions, and also the fact that institutional structures do in fact greatly influence history. Also, there are often clear sharp choice points at which we change institutions, via specific concrete decisions that people can organize to influence. And big choices are often greatly influenced by observed results from much smaller prior tests, tests that can be much cheaper and easier to purposely fund, participate in, and influence. Thus I pick institutions.
+
+However, when I follow this logic and write abstractly on institutions, to inflluence history, my words compete with many words that others write on related topics. And they compete within our shared *meta-institutions*, i.e., the institutions that shape who listens to and believes whom on what about abstract topics like the consequences of institution choices. (E.g., universities, journals, peer review, tenure, grant panels, newspapers, think tanks, conferences, blogs, podcasts, and social media.) So the effect on history of my abstract writings may depend greatly on the quality of those meta-institutions. Thus the quality of our institutions plausibly depends strongly on the quality of our meta-institutions. Making those meta-institutions especially promising as targets of abstract analysis.
+
+Now, yes, the effectiveness of abstract writings should also depend on culture and many other factors of the contexts where my writings compete with others’. But again, such other factors seem harder to reason abstractly about and to predictably influence. Tipping me toward writing abstractly on the meta-institutions within which we write abstractly to influence history.
+
+One worry: areas of life may vary in how strongly institutional differences there influence outcomes there. So how much does the insight and effectiveness of the world of abstract arguments actually depend on the quality of our meta institutions? Actually, in my judgement the world of abstract arguments seems to be one of the place where better institutions matter *most*!
+
+First, over the last few centuries our most prestigious intellectuals have steadily pushed away outside accountability, first by replacing prizes with grants, and then by instituting tenure and peer review. They falsely claim that the best institution for their world is a variation on our most ancient human institution of simple gossip and prestige. We are to just trust the most prestigious folks completely by giving them resources to do whatever they want, and letting them pick the new generation of prestigious folks.
+
+Second, this gossip and prestige structure usually results in the folks in each discipline working mainly to look impressive according to local standards. While contributions may be justified in terms of their new insights, the prospect of useful or important insight actually little drives choices of topics or methods. Worse, they tend to belittle those who try to offer insight without meeting their impressiveness standards. Clearly insightful contributions are often assigned no prestige, so that authors gain no extra future influence or attention. As the most prestigious find it hard to judge quality above their own, incentives are weak for quality above this.
+
+Third, this gossip and prestige system is often taken over by political, ideological, and other factions, who insist that candidates for prestige in their world must first pledge allegiance to key dogmas. Also, common dogmas on acceptable topics and methods leave many, even most, topic-method combinations as taboo in their worlds.
+
+Fourth, the space of possible abstract claims and arguments is vast and high dimensional, with relevant connections possible across vast topic scopes. As a result, the cost-effectiveness of clever creative approaches can be many orders of magnitude higher than that of standard predictable methods. This implies unusually large gains from giving people strong freedoms and incentives to achieve the best outcomes, via whatever methods they can find.
+
+Finally, the key outcome that we want society to accumulate over the long run from our abstract talk, i.e., insights into important topics, seems quite measurable. Making it plausible to imagine using powerful mechanisms like [decision markets](http://hanson.gmu.edu/futarchy.html) tied to such aggregate outcomes to make key governance choices about this area of life. It also seems like it might be [possible](https://www.overcomingbias.com/p/more-academic-prestige-futureshtml?utm_source=publication-search) to measure individual contributions to such aggregate outcomes, allowing finer-grain incentives for individuals.
+
+If we would seriously explore the space of possible institutions for our abstract talk, we could plausibly find much better versions, which if widely adopted would let us accumulate abstract insight much faster across most topics, including the topics of institutions for other areas of life. Which could then allow our whole society to run much better, and better understand most important topics. What’s not to like?
