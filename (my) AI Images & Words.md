@@ -1,13 +1,13 @@
 ---
-title: "(my) AI Images & Words"
-source: "https://tessellations.substack.com/p/my-ai-images-and-words"
+title: (my) AI Images & Words
+source: https://tessellations.substack.com/p/my-ai-images-and-words
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-11-24
 created: 2025-11-24
-description: "AI extends to 'my'."
+description: AI extends to 'my'.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### AI extends to 'my'.
 
