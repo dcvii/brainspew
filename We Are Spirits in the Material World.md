@@ -1,13 +1,13 @@
 ---
-title: "We Are Spirits in the Material World"
-source: "https://mdcbowen.substack.com/p/we-are-spirits-in-the-material-world"
+title: We Are Spirits in the Material World
+source: https://mdcbowen.substack.com/p/we-are-spirits-in-the-material-world
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-02-11
 created: 2026-02-11
-description: "Oh what a world! What a world!"
+description: Oh what a world! What a world!
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Oh what a world! What a world!
 

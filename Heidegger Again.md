@@ -2,7 +2,7 @@
 title: Heidegger Again
 source: https://mdcbowen.substack.com/p/heidegger-again?utm_campaign=reaction&utm_medium=email&utm_source=substack&utm_content=post
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-02-05
 created: 2025-02-06
 description: He knew exactly what is wrong with AI.

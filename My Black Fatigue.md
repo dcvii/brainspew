@@ -1,13 +1,13 @@
 ---
-title: "My Black Fatigue"
-source: "https://mdcbowen.substack.com/p/my-black-fatigue"
+title: My Black Fatigue
+source: https://mdcbowen.substack.com/p/my-black-fatigue
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-05-27
 created: 2026-01-25
-description: "And yours"
+description: And yours
 tags:
-  - "clippings"
+  - clippings
 ---
 ### And yours
 

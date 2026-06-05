@@ -1,13 +1,13 @@
 ---
 title: "Consulting Concepts: AI vs IP"
-source: "https://tessellations.substack.com/p/consulting-concepts-ai-vs-ip"
+source: https://tessellations.substack.com/p/consulting-concepts-ai-vs-ip
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-12-25
 created: 2026-02-12
-description: "Off the cuff."
+description: Off the cuff.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Off the cuff.
 

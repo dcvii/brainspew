@@ -1,13 +1,13 @@
 ---
-title: "Class & The Illusion of Shared Sentiment"
-source: "https://mdcbowen.substack.com/p/class-and-the-illusion-of-shared?utm_source=post-email-title&publication_id=61420&post_id=141967941&utm_campaign=email-post-title&isFreemail=false&r=1mt9fp&triedRedirect=true"
+title: Class & The Illusion of Shared Sentiment
+source: https://mdcbowen.substack.com/p/class-and-the-illusion-of-shared?utm_source=post-email-title&publication_id=61420&post_id=141967941&utm_campaign=email-post-title&isFreemail=false&r=1mt9fp&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2024-02-24
 created: 2025-02-10
-description: "The difference between power and jawboning protocol."
+description: The difference between power and jawboning protocol.
 tags:
-  - "clippings"
+  - clippings
 ---
 What if I told you that AI is not for you, but only for the elite?
 

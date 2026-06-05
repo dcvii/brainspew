@@ -1,13 +1,13 @@
 ---
-title: "Big C, Little C"
-source: "https://mdcbowen.substack.com/p/a5e4987a-0571-478e-b6e9-754cb7cb18c3?postPreview=paid&updated=2026-03-07T22%3A46%3A51.430Z&audience=only_paid&free_preview=false&freemail="
+title: Big C, Little C
+source: https://mdcbowen.substack.com/p/a5e4987a-0571-478e-b6e9-754cb7cb18c3?postPreview=paid&updated=2026-03-07T22%3A46%3A51.430Z&audience=only_paid&free_preview=false&freemail=
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-07
 created: 2026-03-07
-description: "What begins with C?"
+description: What begins with C?
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### What begins with C?
 

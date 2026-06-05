@@ -1,13 +1,13 @@
 ---
-title: "A Trustless Society"
-source: "https://mdcbowen.substack.com/p/a-trustless-society"
+title: A Trustless Society
+source: https://mdcbowen.substack.com/p/a-trustless-society
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-10
 created: 2026-01-25
-description: "Doomsaying for 2026"
+description: Doomsaying for 2026
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Doomsaying for 2026
 

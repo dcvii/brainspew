@@ -1,13 +1,13 @@
 ---
-title: "Undercover Feds vs California"
-source: "https://mdcbowen.substack.com/p/undercover-feds-vs-california"
+title: Undercover Feds vs California
+source: https://mdcbowen.substack.com/p/undercover-feds-vs-california
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-04-22
 created: 2026-04-24
-description: "Who is that masked man? Why does he have a rifle?"
+description: Who is that masked man? Why does he have a rifle?
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 In the news today is an injunction imposed by the 9th Circuit against California Governor Newsom’s attempt to force federal agents to identify themselves when they operate in this state.
 

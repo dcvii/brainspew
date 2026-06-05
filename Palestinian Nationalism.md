@@ -2,7 +2,7 @@
 title: Palestinian Nationalism
 source: https://mdcbowen.substack.com/p/palestinian-nationalism?utm_source=publication-search
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-11-13
 created: 2025-12-03
 description: Some geopolitical context.

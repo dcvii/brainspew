@@ -1,13 +1,13 @@
 ---
-title: "The Value of Discernment"
-source: "https://mdcbowen.substack.com/p/the-value-of-discernment?publication_id=61420&post_id=181705198&isFreemail=false&r=7br8e&triedRedirect=true"
+title: The Value of Discernment
+source: https://mdcbowen.substack.com/p/the-value-of-discernment?publication_id=61420&post_id=181705198&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-12-16
 created: 2025-12-16
-description: "Victory over Optics"
+description: Victory over Optics
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Victory over Optics
 

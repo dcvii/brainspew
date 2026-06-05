@@ -1,13 +1,13 @@
 ---
-title: "ODSC AI Week One"
-source: "https://tessellations.substack.com/p/odsc-ai-week-one?publication_id=1655845&post_id=185475266&isFreemail=false&r=7br8e&triedRedirect=true"
+title: ODSC AI Week One
+source: https://tessellations.substack.com/p/odsc-ai-week-one?publication_id=1655845&post_id=185475266&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-22
 created: 2026-01-22
-description: "Whirlwind of practical knowledge."
+description: Whirlwind of practical knowledge.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Whirlwind of practical knowledge.
 

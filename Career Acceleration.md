@@ -1,13 +1,13 @@
 ---
-title: "Career Acceleration"
-source: "https://tessellations.substack.com/p/career-acceleration"
+title: Career Acceleration
+source: https://tessellations.substack.com/p/career-acceleration
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-11-23
 created: 2025-11-24
-description: "Fighting AI fire with fire."
+description: Fighting AI fire with fire.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Fighting AI fire with fire.
 

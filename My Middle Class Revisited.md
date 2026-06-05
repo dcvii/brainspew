@@ -1,13 +1,13 @@
 ---
-title: "My Middle Class Revisited"
-source: "https://mdcbowen.substack.com/p/my-middle-class-revisited"
+title: My Middle Class Revisited
+source: https://mdcbowen.substack.com/p/my-middle-class-revisited
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2020-08-28
 created: 2025-05-13
-description: "Continuing refining observations on citizenship"
+description: Continuing refining observations on citizenship
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Continuing refining observations on citizenship
 

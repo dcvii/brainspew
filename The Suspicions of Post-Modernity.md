@@ -2,7 +2,7 @@
 title: The Suspicions of Post-Modernity
 source: https://mdcbowen.substack.com/p/the-suspicions-of-post-modernity
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-02-27
 created: 2026-03-07
 description: Why we will end up with social credit.

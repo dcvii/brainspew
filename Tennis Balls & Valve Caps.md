@@ -1,13 +1,13 @@
 ---
-title: "Tennis Balls & Valve Caps"
-source: "https://mdcbowen.substack.com/p/tennis-balls-and-valve-caps?publication_id=61420&post_id=174849431&isFreemail=false&r=7br8e&triedRedirect=true"
+title: Tennis Balls & Valve Caps
+source: https://mdcbowen.substack.com/p/tennis-balls-and-valve-caps?publication_id=61420&post_id=174849431&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-10-24
 created: 2025-10-25
-description: "GenX nostalgia."
+description: GenX nostalgia.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### GenX nostalgia.
 

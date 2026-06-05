@@ -1,13 +1,13 @@
 ---
-title: "The Coming American Social Credit Apocalypse"
-source: "https://mdcbowen.substack.com/p/the-coming-american-social-credit"
+title: The Coming American Social Credit Apocalypse
+source: https://mdcbowen.substack.com/p/the-coming-american-social-credit
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-10-30
 created: 2025-11-02
-description: "FRE 403, Antifa and Sustainable Corruption"
+description: FRE 403, Antifa and Sustainable Corruption
 tags:
-  - "clippings"
+  - clippings
 ---
 ### FRE 403, Antifa and Sustainable Corruption
 

@@ -1,13 +1,13 @@
 ---
-title: "The Stoic Observer's VZ Reference"
-source: "https://mdcbowen.substack.com/p/c6b54ee4-3a73-4fd4-b2bb-d7d726327870?postPreview=paid&updated=2026-01-06T17%3A59%3A25.886Z&audience=only_paid&free_preview=false&freemail="
+title: The Stoic Observer's VZ Reference
+source: https://mdcbowen.substack.com/p/c6b54ee4-3a73-4fd4-b2bb-d7d726327870?postPreview=paid&updated=2026-01-06T17%3A59%3A25.886Z&audience=only_paid&free_preview=false&freemail=
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-06
 created: 2026-01-06
-description: "In depth analysis references"
+description: In depth analysis references
 tags:
-  - "clippings"
+  - clippings
 ---
 ### In depth analysis references
 

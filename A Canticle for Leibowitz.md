@@ -1,13 +1,13 @@
 ---
-title: "A Canticle for Leibowitz"
-source: "https://mdcbowen.substack.com/p/a-canticle-for-leibowitz"
+title: A Canticle for Leibowitz
+source: https://mdcbowen.substack.com/p/a-canticle-for-leibowitz
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-22
 created: 2026-01-22
-description: "Christianity with Rigor"
+description: Christianity with Rigor
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Christianity with Rigor
 

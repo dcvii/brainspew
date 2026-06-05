@@ -1,13 +1,13 @@
 ---
-title: "The End of the Islamic Bomb"
-source: "https://mdcbowen.substack.com/p/the-end-of-the-islamic-bomb"
+title: The End of the Islamic Bomb
+source: https://mdcbowen.substack.com/p/the-end-of-the-islamic-bomb
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-06-27
 created: 2025-07-09
-description: "Probably maybe."
+description: Probably maybe.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Probably maybe.
 

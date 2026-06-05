@@ -1,13 +1,13 @@
 ---
-title: "The Black Nationalist Defense of Israel"
-source: "https://mdcbowen.substack.com/p/dd2812c2-0235-445b-afc0-2ca5d5d47477?postPreview=paid&updated=2025-11-07T00%3A44%3A59.121Z&audience=only_paid&free_preview=false&freemail="
+title: The Black Nationalist Defense of Israel
+source: https://mdcbowen.substack.com/p/dd2812c2-0235-445b-afc0-2ca5d5d47477?postPreview=paid&updated=2025-11-07T00%3A44%3A59.121Z&audience=only_paid&free_preview=false&freemail=
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-11-06
 created: 2025-11-06
-description: "Free speech begins at 'fuck you'."
+description: Free speech begins at 'fuck you'.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Free speech begins at 'fuck you'.
 

@@ -1,13 +1,13 @@
 ---
-title: "Southwall Update"
-source: "https://tessellations.substack.com/p/southwall-update"
+title: Southwall Update
+source: https://tessellations.substack.com/p/southwall-update
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-11-06
 created: 2025-11-24
-description: "Sorry I'm late."
+description: Sorry I'm late.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Sorry I'm late.
 

@@ -1,13 +1,13 @@
 ---
-title: "Why I Was Conservative"
-source: "https://mdcbowen.substack.com/p/why-i-was-conservative?r=7br8e&utm_campaign=post&utm_medium=web&triedRedirect=true"
+title: Why I Was Conservative
+source: https://mdcbowen.substack.com/p/why-i-was-conservative?r=7br8e&utm_campaign=post&utm_medium=web&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2024-09-10
 created: 2025-02-09
-description: "And the degree to which I remain."
+description: And the degree to which I remain.
 tags:
-  - "clippings"
+  - clippings
 ---
 [Thomas Chatterton Williams](https://x.com/thomaschattwill/status/1832486891016614108) recently wrote:
 

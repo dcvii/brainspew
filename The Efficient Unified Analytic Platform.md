@@ -1,13 +1,13 @@
 ---
-title: "The Efficient Unified Analytic Platform"
-source: "https://medium.com/full360/the-efficient-unified-analytic-platform-fa779a0c1847"
+title: The Efficient Unified Analytic Platform
+source: https://medium.com/full360/the-efficient-unified-analytic-platform-fa779a0c1847
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2021-02-04
 created: 2026-04-07
-description: "The Efficient Unified Analytic Platform There’s an ironic story about Jeff Bezos. Several years ago at Re:Invent, when he could be counted on to present, I watched him talk about his inability to …"
+description: The Efficient Unified Analytic Platform There’s an ironic story about Jeff Bezos. Several years ago at Re:Invent, when he could be counted on to present, I watched him talk about his inability to …
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 [Sitemap](https://medium.com/sitemap/sitemap.xml)
 

@@ -1,13 +1,13 @@
 ---
-title: "Forty Virtues"
-source: "https://mdcbowen.substack.com/p/forty-virtues?utm_source=publication-search"
+title: Forty Virtues
+source: https://mdcbowen.substack.com/p/forty-virtues?utm_source=publication-search
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2020-09-16
 created: 2025-02-20
-description: "Asked and Answered"
+description: Asked and Answered
 tags:
-  - "virtue"
+  - virtue
 ---
 *Q: Do you think American society (or any other society) brazenly commits the "platonic error" of mistaking knowledge for virtue; and if so, to what value do you think contributes most to this belief system?*
 

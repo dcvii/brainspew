@@ -2,7 +2,7 @@
 title: Southwall Homelab Update
 source: https://tessellations.substack.com/p/southwall-homelab-update
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-10-24
 created: 2025-11-24
 description: A new evolution in my long journey towards mastery.

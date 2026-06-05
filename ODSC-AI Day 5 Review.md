@@ -1,13 +1,13 @@
 ---
-title: "ODSC-AI Day 5 Review"
-source: "https://tessellations.substack.com/p/odsc-ai-day-5-review"
+title: ODSC-AI Day 5 Review
+source: https://tessellations.substack.com/p/odsc-ai-day-5-review
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-02-05
 created: 2026-02-05
-description: "Augmented recap"
+description: Augmented recap
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Augmented recap
 

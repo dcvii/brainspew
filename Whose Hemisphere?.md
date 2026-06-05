@@ -2,7 +2,7 @@
 title: Whose Hemisphere?
 source: https://mdcbowen.substack.com/p/whose-hemisphere
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-03
 created: 2026-01-06
 description: Our hemisphere!

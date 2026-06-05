@@ -1,13 +1,13 @@
 ---
-title: "Progressive Liberals vs Black Conservatives"
-source: "https://mdcbowen.substack.com/p/progressive-liberals-vs-black-conservatives"
+title: Progressive Liberals vs Black Conservatives
+source: https://mdcbowen.substack.com/p/progressive-liberals-vs-black-conservatives
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-04-18
 created: 2026-04-24
-description: "Culture Wars Revisited"
+description: Culture Wars Revisited
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 *This week I am captured by the past, specifically the black past. As Americans are eager to figure out where we go from here, specifically with regard to the questions about the post-peak Woke era, it helps to review where we were before Woke. So from the Wayback Machine, my answer to the question.*
 

@@ -1,13 +1,13 @@
 ---
-title: "June Boxtag Update"
-source: "https://tessellations.substack.com/p/june-boxtag-update"
+title: June Boxtag Update
+source: https://tessellations.substack.com/p/june-boxtag-update
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-06-30
 created: 2025-11-24
-description: "Basic mechanics."
+description: Basic mechanics.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Basic mechanics.
 

@@ -1,13 +1,13 @@
 ---
-title: "Agents!"
-source: "https://tessellations.substack.com/p/agents"
+title: Agents!
+source: https://tessellations.substack.com/p/agents
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-10-30
 created: 2025-11-24
-description: "I think I get it."
+description: I think I get it.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### I think I get it.
 

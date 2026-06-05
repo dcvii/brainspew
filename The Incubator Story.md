@@ -1,13 +1,13 @@
 ---
-title: "The Incubator Story"
-source: "https://tessellations.substack.com/p/the-incubator-story"
+title: The Incubator Story
+source: https://tessellations.substack.com/p/the-incubator-story
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-16
 created: 2026-03-23
-description: "Grass roots are good."
+description: Grass roots are good.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Grass roots are good.
 

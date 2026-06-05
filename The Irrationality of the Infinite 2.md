@@ -1,13 +1,13 @@
 ---
-title: "The Irrationality of the Infinite"
-source: "https://mdcbowen.substack.com/p/the-irrationality-of-the-infinite?publication_id=61420&post_id=191145045&isFreemail=false&r=7br8e&triedRedirect=true"
+title: The Irrationality of the Infinite
+source: https://mdcbowen.substack.com/p/the-irrationality-of-the-infinite?publication_id=61420&post_id=191145045&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-16
 created: 2026-03-16
-description: "When a picture is worth a thousand lies."
+description: When a picture is worth a thousand lies.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### When a picture is worth a thousand lies.
 

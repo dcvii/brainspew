@@ -1,13 +1,13 @@
 ---
-title: "When It Hurts To Be Decent and Smart"
-source: "https://mdcbowen.substack.com/p/when-it-hurts-to-be-decent-and-smart"
+title: When It Hurts To Be Decent and Smart
+source: https://mdcbowen.substack.com/p/when-it-hurts-to-be-decent-and-smart
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-04-06
 created: 2026-04-06
-description: "Social malaise in the upper middle class."
+description: Social malaise in the upper middle class.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Social malaise in the upper middle class.
 

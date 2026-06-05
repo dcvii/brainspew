@@ -1,13 +1,13 @@
 ---
-title: "Theory Behind XR - viz Groupthink"
-source: "https://tessellations.substack.com/p/theory-behind-xr-viz-groupthink"
+title: Theory Behind XR - viz Groupthink
+source: https://tessellations.substack.com/p/theory-behind-xr-viz-groupthink
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-06-12
 created: 2025-11-24
-description: "Tajfel vs Janis"
+description: Tajfel vs Janis
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Tajfel vs Janis
 

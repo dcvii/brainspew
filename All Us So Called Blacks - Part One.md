@@ -1,13 +1,13 @@
 ---
-title: "All Us So Called Blacks - Part One"
-source: "https://mdcbowen.substack.com/p/all-us-so-called-blacks-part-one"
+title: All Us So Called Blacks - Part One
+source: https://mdcbowen.substack.com/p/all-us-so-called-blacks-part-one
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2022-06-10
 created: 2025-12-19
-description: "Disaggregating the Monolith"
+description: Disaggregating the Monolith
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Disaggregating the Monolith
 

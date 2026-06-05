@@ -1,13 +1,13 @@
 ---
-title: "Race Thirsty"
-source: "https://humanraceman.substack.com/p/race-thirsty?publication_id=2159263&post_id=192104429&isFreemail=false&r=7br8e&triedRedirect=true"
+title: Race Thirsty
+source: https://humanraceman.substack.com/p/race-thirsty?publication_id=2159263&post_id=192104429&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-25
 created: 2026-03-25
-description: "Why can't Snape be black?"
+description: Why can't Snape be black?
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Why can't Snape be black?
 

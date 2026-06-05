@@ -1,13 +1,13 @@
 ---
-title: "The Evolution of Data Warehousing in the AWS Cloud"
-source: "https://medium.com/full360/the-evolution-of-data-warehousing-in-the-aws-cloud-cd31638c26e0"
+title: The Evolution of Data Warehousing in the AWS Cloud
+source: https://medium.com/full360/the-evolution-of-data-warehousing-in-the-aws-cloud-cd31638c26e0
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2020-02-04
 created: 2026-04-07
-description: "The Evolution of Data Warehousing in the AWS Cloud Our company has been designing cloud architectures for BI and Data Warehousing for a decade in the Amazon cloud. There are several new features we …"
+description: The Evolution of Data Warehousing in the AWS Cloud Our company has been designing cloud architectures for BI and Data Warehousing for a decade in the Amazon cloud. There are several new features we …
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 [Sitemap](https://medium.com/sitemap/sitemap.xml)
 

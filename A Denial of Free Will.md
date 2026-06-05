@@ -1,13 +1,13 @@
 ---
-title: "A Denial of Free Will"
-source: "https://mdcbowen.substack.com/p/a-denial-of-free-will?utm_source=publication-search"
+title: A Denial of Free Will
+source: https://mdcbowen.substack.com/p/a-denial-of-free-will?utm_source=publication-search
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2020-08-28
 created: 2025-04-30
-description: "A consideration of Sam Harris & friends' definitions."
+description: A consideration of Sam Harris & friends' definitions.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### A consideration of Sam Harris & friends' definitions.
 

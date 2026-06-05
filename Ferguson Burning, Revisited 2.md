@@ -1,13 +1,13 @@
 ---
-title: "Ferguson Burning, Revisited"
-source: "https://mdcbowen.substack.com/p/ferguson-burning-revisited"
+title: Ferguson Burning, Revisited
+source: https://mdcbowen.substack.com/p/ferguson-burning-revisited
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-01-26
 created: 2026-01-26
-description: "The New American Perfidy"
+description: The New American Perfidy
 tags:
-  - "clippings"
+  - clippings
 ---
 ### The New American Perfidy
 

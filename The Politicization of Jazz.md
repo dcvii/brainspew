@@ -1,13 +1,13 @@
 ---
-title: "The Politicization of Jazz"
-source: "https://mdcbowen.substack.com/p/the-politicization-of-jazz"
+title: The Politicization of Jazz
+source: https://mdcbowen.substack.com/p/the-politicization-of-jazz
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-09
 created: 2026-03-10
-description: "Not in my memory of love."
+description: Not in my memory of love.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Not in my memory of love.
 

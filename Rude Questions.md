@@ -1,13 +1,13 @@
 ---
-title: "Rude Questions"
-source: "https://mdcbowen.substack.com/p/rude-questions?publication_id=61420&post_id=176170623&isFreemail=false&r=7br8e&triedRedirect=true"
+title: Rude Questions
+source: https://mdcbowen.substack.com/p/rude-questions?publication_id=61420&post_id=176170623&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-10-14
 created: 2025-10-14
-description: "About Gaza City vs Tokyo"
+description: About Gaza City vs Tokyo
 tags:
-  - "clippings"
+  - clippings
 ---
 ### About Gaza City vs Tokyo
 

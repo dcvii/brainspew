@@ -1,13 +1,13 @@
 ---
-title: "The Stoic Circle"
-source: "https://mdcbowen.substack.com/p/the-stoic-circle?publication_id=61420&post_id=188748980&isFreemail=false&r=7br8e&triedRedirect=true"
+title: The Stoic Circle
+source: https://mdcbowen.substack.com/p/the-stoic-circle?publication_id=61420&post_id=188748980&isFreemail=false&r=7br8e&triedRedirect=true
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-02-21
 created: 2026-02-21
-description: "A work in process."
+description: A work in process.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### A work in process.
 

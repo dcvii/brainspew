@@ -1,13 +1,13 @@
 ---
 title: "Discovery: Rene Girard & Sacrifice"
-source: "https://mdcbowen.substack.com/p/discovery-rene-girard-and-sacrifice"
+source: https://mdcbowen.substack.com/p/discovery-rene-girard-and-sacrifice
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-22
 created: 2026-03-22
-description: "And other Stoic notes."
+description: And other Stoic notes.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### And other Stoic notes.
 

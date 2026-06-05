@@ -1,13 +1,13 @@
 ---
-title: "The New AI God Botherers"
-source: "https://mdcbowen.substack.com/p/the-new-ai-god-botherers"
+title: The New AI God Botherers
+source: https://mdcbowen.substack.com/p/the-new-ai-god-botherers
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-02-14
 created: 2026-03-07
-description: "Neil Gaiman, anyone?"
+description: Neil Gaiman, anyone?
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Neil Gaiman, anyone?
 

@@ -2,7 +2,7 @@
 title: About That Gunfight
 source: https://mdcbowen.substack.com/p/about-that-gunfight?utm_source=activity_item
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2020-10-10
 created: 2025-02-06
 description: Remembering a moment of absolute clarity.

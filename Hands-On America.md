@@ -1,13 +1,13 @@
 ---
-title: "Hands-On America"
-source: "https://mdcbowen.substack.com/p/hands-on-america"
+title: Hands-On America
+source: https://mdcbowen.substack.com/p/hands-on-america
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-04-16
 created: 2026-04-24
-description: "More steel, less silicon"
+description: More steel, less silicon
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 Someone once asked me who were my favorite three Americans. That was some time ago. The three I picked were Joe Rogan, Neal Stephenson and Mike Rowe. I haven’t listened to Rogan in quite some time and now there are more interesting people covering his most interesting subjects. So quite frankly, while I still like Joe, I’m going to replace him with **Bayard Winthrop** or **Palmer Lucky**. I haven’t decided yet. What I don’t like is having too many hands-off people, in other words people who are all digital.
 

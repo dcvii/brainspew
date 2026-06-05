@@ -1,13 +1,13 @@
 ---
-title: "Cultural Appropriation & Privilege"
-source: "https://mdcbowen.substack.com/p/cultural-appropriation-and-privilege"
+title: Cultural Appropriation & Privilege
+source: https://mdcbowen.substack.com/p/cultural-appropriation-and-privilege
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2021-08-13
 created: 2025-02-10
-description: "Obligatory Seriousness"
+description: Obligatory Seriousness
 tags:
-  - "clippings"
+  - clippings
 ---
 Here’s the thing. If ‘cultural appropriation’ were actually something worth debating, it would be because it would be difficult and highly remunerative. But this is something anybody can do. Hey, I can eat curry! Hey I can wear a blue hat backwards! Hey I can do this dance thing with my butt!
 

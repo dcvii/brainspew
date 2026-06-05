@@ -1,13 +1,13 @@
 ---
-title: "A Job Aggregator For You"
-source: "https://tessellations.substack.com/p/a-job-aggregator-for-you"
+title: A Job Aggregator For You
+source: https://tessellations.substack.com/p/a-job-aggregator-for-you
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2026-03-24
 created: 2026-03-24
-description: "Making looking for a job less painful and more efficient."
+description: Making looking for a job less painful and more efficient.
 tags:
-  - "brain_spew"
+  - brain_spew
 ---
 ### Making looking for a job less painful and more efficient.
 

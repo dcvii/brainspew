@@ -1,13 +1,13 @@
 ---
-title: "The Old School"
-source: "https://mdcbowen.substack.com/p/the-old-school-49d"
+title: The Old School
+source: https://mdcbowen.substack.com/p/the-old-school-49d
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-08-23
 created: 2025-09-01
 description: "Part One: Definitions & characterizations"
 tags:
-  - "clippings"
+  - clippings
 ---
 ### Part One: Definitions & characterizations
 

@@ -2,7 +2,7 @@
 title: "Things I'm Actually Doing With AI #01"
 source: https://tessellations.substack.com/p/things-im-actually-doing-with-ai
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-06-13
 created: 2025-11-24
 description: Baldrick, my homelab dogsbody.

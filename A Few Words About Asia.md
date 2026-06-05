@@ -1,13 +1,13 @@
 ---
-title: "A Few Words About Asia"
-source: "https://mdcbowen.substack.com/p/a-few-words-about-asia"
+title: A Few Words About Asia
+source: https://mdcbowen.substack.com/p/a-few-words-about-asia
 author:
-  - "[[Michael David Cobb Bowen]]"
+  - "[[Apple Notes/Michael David Cobb Bowen]]"
 published: 2025-08-02
 created: 2025-08-05
-description: "On the verge of great discovery."
+description: On the verge of great discovery.
 tags:
-  - "clippings"
+  - clippings
 ---
 ### On the verge of great discovery.
 
