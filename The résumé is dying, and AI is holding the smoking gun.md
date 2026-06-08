@@ -1,13 +1,13 @@
 ---
-title: "The résumé is dying, and AI is holding the smoking gun"
-source: "https://arstechnica.com/ai/2025/06/the-resume-is-dying-and-ai-is-holding-the-smoking-gun/?utm_source=nl&utm_brand=ars&utm_campaign=aud-dev&utm_mailing=Ars_Orbital_070225&utm_medium=email&bxid=5bdce29e24c17c3610eca679&cndid=47035322&hasha=52cbe55757d1771cd90780b4b16ca07e&hashb=a42d701e3281b0a14218f41eb8b7ba50ebd8a194&hashc=51312edeef233a5dda516e6876a0a1b94a92e34faef426067d81108e45e0678f&esrc=&utm_content=Final&utm_term=ARS_OrbitalTransmission"
+title: The résumé is dying, and AI is holding the smoking gun
+source: https://arstechnica.com/ai/2025/06/the-resume-is-dying-and-ai-is-holding-the-smoking-gun/?utm_source=nl&utm_brand=ars&utm_campaign=aud-dev&utm_mailing=Ars_Orbital_070225&utm_medium=email&bxid=5bdce29e24c17c3610eca679&cndid=47035322&hasha=52cbe55757d1771cd90780b4b16ca07e&hashb=a42d701e3281b0a14218f41eb8b7ba50ebd8a194&hashc=51312edeef233a5dda516e6876a0a1b94a92e34faef426067d81108e45e0678f&esrc=&utm_content=Final&utm_term=ARS_OrbitalTransmission
 author:
   - "[[Benj Edwards]]"
 published: 2025-06-24
 created: 2025-07-02
-description: "As thousands of applications flood job posts, ‘hiring slop’ is kicking off an AI arms race."
+description: As thousands of applications flood job posts, ‘hiring slop’ is kicking off an AI arms race.
 tags:
-  - "clippings"
+  - fraud
 ---
 Employers are drowning in AI-generated job applications, with LinkedIn now processing 11,000 submissions per minute—a 45 percent surge from last year, according to new data [reported](https://www.nytimes.com/2025/06/21/business/dealbook/ai-job-applications.html) by The New York Times.
 
