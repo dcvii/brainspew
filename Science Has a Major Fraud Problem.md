@@ -1,13 +1,14 @@
 ---
-title: "Science Has a Major Fraud Problem"
-source: "https://www.thefp.com/p/science-has-a-major-fraud-problem?r=7br8e"
+title: Science Has a Major Fraud Problem
+source: https://www.thefp.com/p/science-has-a-major-fraud-problem?r=7br8e
 author:
   - "[[By Joe Nocera]]"
 published:
 created: 2026-03-10
 description:
 tags:
-  - "brain_spew"
+  - brain_spew
+  - fraud
 ---
 ---
 
