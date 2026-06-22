@@ -1,0 +1,70 @@
+---
+title: "Arthur Brooks: Gen Z’s Great Retreat From Risk"
+source: "https://www.thefp.com/p/arthur-brooks-gen-zs-great-retreat?r=7br8e"
+author:
+  - "[[Arthur Brooks]]"
+published: 2026-06-22
+created: 2026-06-22
+description: "Teen drinking has plummeted. So have dating, marriage, childbearing, and other leaps into adulthood. What looks like prudence may signal a dangerous cultural shift, writes Arthur Brooks."
+tags:
+  - "brain_spew"
+---
+![](https://substackcdn.com/image/fetch/$s_!P9q2!,w_750,h_440,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76fc878a-c225-4504-b255-ffaae85153e4_1920x1080.jpeg)
+
+Young Americans show an unwillingness to take risks associated with adult behaviors. (Illustration by The Free Press; images via Getty)
+
+Teen drinking has plummeted. So have dating, marriage, childbearing, and other leaps into adulthood. What looks like prudence may signal a dangerous cultural shift.
+
+Young Americans are drinking a lot less than they used to. That bodes ill for America.
+
+Let me explain. A new report making headlines from the research organization [Monitoring the Future reveals](https://monitoringthefuture.org/wp-content/uploads/2024/12/mtf2025.pdf) that the percentage of teenage Americans who had tried alcohol in 2025 was lower than at any time since the data had been collected. In the mid-1970s, 92 percent of 12th graders had tried at least a sip of alcohol; by 2025, that proportion had fallen almost by half, to 47 percent.
+
+On the one hand, this is good news, given the many problems created by underage drinking—and I include those of my own besotted youth. But the new finding also indicates a trend that is distinctly less cheery: an unwillingness to take risks associated with adult behaviors. This is a point persuasively made by the psychologist Jean Twenge, [who has shown](https://pubmed.ncbi.nlm.nih.gov/28925063/) that among adolescents and young adults, all manner of risk-taking—from having sex to driving a car—has tanked in recent years.
+
+For example: Now that Gen Z is firmly in the workforce, financial researchers have begun to look at these young adults’ investing habits. The conventional wisdom is that young people are piling into crypto and meme stocks—and some certainly are. But on average, members of Gen Z [prefer safer, liquid assets](https://journals.sagepub.com/doi/10.1177/21582440251352342) and avoid high-risk investments, compared with older cohorts.
+
+Lest you think this is simply evidence of prudential wisdom about finances, Gen Z is even more resistant to high-stakes investments in other people. In 1980, 90 percent of 35-year-old men were [married](https://ifstudies.org/blog/1-in-3-a-record-share-of-young-adults-will-never-marry); today, the rate is 60 percent and falling fast. In 1993, 83 percent of 12th-grade girls said they [hoped to marry](https://www.pewresearch.org/short-reads/2025/11/14/12th-grade-girls-are-less-likely-than-boys-to-say-they-want-to-get-married-someday/) at some point; by 2023, only 61 percent said the same.
+
+Some of this stems from a lack of self-confidence: The percentage of 12th-grade girls [who believe](https://journals.sagepub.com/doi/pdf/10.1177/23780231241241035?utm_source=consensus) they would make a “very good spouse” fell by 11 percentage points from 2012 to 2022. (The decrease for boys was 8 points.) But the data generally point to the fact that rising rates of anxiety—which creates risk aversion—are a big reason why members of Gen Z are avoiding real-life relationships. For example, higher anxiety among young people [predicts a preference](https://pubmed.ncbi.nlm.nih.gov/39649460/) for digital messaging over face-to-face interaction. And according to recent [data analysis](https://www.graphsaboutreligion.com/p/gen-z-doesnt-trust-anyone) by the University of Washington’s Ryan Burge, this anxiety extends far beyond a preference for texting. Nearly three-quarters of Gen Z say “you can’t be too careful” in dealing with people—far and away the highest of any age cohort. Depressingly, only 13 percent of Gen Zers say that most people can be trusted. The result is that in pursuit of avoiding risk, Gen Z is avoiding *people*.
+
+We see the same patterns in attitudes and behaviors about having children. The average number of children that young adults [planned to have](https://www.pewresearch.org/short-reads/2025/06/18/us-adults-in-their-20s-and-30s-plan-to-have-fewer-children-than-in-the-past/) fell from 2.3 in 2012 to 1.8 in 2023. That year, only 51 percent of those ages 18 to 34 without kids said they [planned ever to have any](https://www.pewresearch.org/short-reads/2024/02/15/among-young-adults-without-children-men-are-more-likely-than-women-to-say-they-want-to-be-parents-someday/). (Interestingly, there is a significant gender divide on this issue: The proportion of men of this age who wanted to have kids was higher, at 57 percent.) As to why young adults plan not to have any children, [common answers](https://www.pewresearch.org/social-trends/2024/07/25/reasons-adults-give-for-not-having-children/) involve risk: about the state of the world (38 percent), about the money needed to raise a child (36 percent), and about the environment (26 percent). These risk factors all rank higher than the 20 percent who simply say they “don’t really like children” (which I remember saying to my own dad before having my kids—to which he responded, “Join the club.”)
+
+On average, members of Gen Z prefer safer, liquid assets and avoid high-risk investments, compared with older cohorts.
+
+Naturally, this risk aversion is affecting voting and political activity. As researchers at the [Berkeley Initiative for Young Americans show](https://youngamericans.berkeley.edu/risk-generation/), attitudes about risk “are pushing more young people to expect more from the government to intervene in the marketplace, strengthen the social safety net, and address long-term risks like AI, automation, and climate change.” This new “nanny state” preference has been shown dramatically in the election of socialist mayors in, among other places, New York City and Seattle, thanks to strong Gen Z support. Today, 70 percent of Gen Zers think the U.S. gov­ern­ment should pro­vide a [uni­ver­sal basic income](https://genhq.com/the-generations-hub/state-of-gen-z/).
+
+![](https://substackcdn.com/image/fetch/$s_!m62F!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97510cfc-2886-4592-8e22-804c8b557b7d_1320x30.png)
+
+If life were actually more dangerous than in the past, these increases in risk aversion would make perfect sense. But this is not the case. Obviously, drinking is not riskier than it used to be, and activities like [driving are safer](https://www.nhtsa.gov/press-releases/traffic-deaths-2025-early-estimates-2024-annual). Young people frequently argue that modern life (such as the economy or the divorce rate) is worse for their generation than ever before. But the data don’t bear this out: Investing isn’t riskier; [stock-market volatility](https://fred.stlouisfed.org/series/VIXCLS) shows no upward trend. Marriage is less risky: Divorce rates peaked in 1980 and [have been declining](https://www.bgsu.edu/ncfmr/resources/data/family-profiles/FP-24-11.html) ever since. Unemployment has been low for years, and the layoff rate has [gradually fallen](https://usafacts.org/answers/how-many-people-are-laid-off-each-month/country/united-states/) since the turn of the century. In other words, the problem isn’t an increase in *risk*; it’s an increase in *aversion*.
+
+No doubt, this comes in part from older generations, especially the activists among them, who explain to Gen Z that the future will be hopelessly dark. But the increase in aversion is a major cultural change, and one that looks distinctly, well, *European*. In Europe, family formation has been in collapse for decades. Secularized Spain, once a stronghold of Catholic traditionalism, now has some of the [lowest marriage and fertility rates](https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/6790.pdf) in the world. Social-welfare programs, including those for the middle classes, grow and grow, crowding out virtually every other priority (such as national defense). The demand for featherbedding carries over into France, where citizens, including those just starting their careers, [took to the streets in protest](https://www.lemonde.fr/en/france/article/2023/04/06/young-people-re-energize-pension-reform-protests-we-too-have-things-to-say_6021885_7.html) in 2023 when the government suggested moving the retirement age from 62 to 64.
+
+To the Frenchman Alexis de Tocqueville, author of the brilliant *[Democracy in America](https://bookshop.org/a/93116/9780140447606)*, a tolerance for risk is what made the United States great, and different from his native land. Here is how he described an average American in 1835:
+
+> He trusts fearlessly in his own powers, which seem to him sufficient for everything. Suppose that an individual thinks of some enterprise, and that enterprise has a direct bearing on the welfare of society; it does not come into his head to appeal to public authority for its help.
+
+Should we care that this self-reliance is changing across the generations? I believe we should. A growing culture of risk aversion is a harbinger of all manner of bad civilizational choices: ballooning welfare programs, punitive taxes, disappearing economic vitality, class-based activism on the right and left, and demographic collapse. And all of that is *without* Europe’s pleasant distractions of fine architecture, rich history, and good food. We won’t even have the wine, because the young squares don’t drink.
+
+So what are the solutions? Trying to reduce risk through policy measures isn’t the right approach, because, as we have already seen, risk per se isn’t the problem. And complaining about “kids these days” won’t help at all; on the contrary, it will only fuel more unproductive generational conflict. Furthermore, such scolding ignores the fact that the very people most harmed by economic stagnation and falling family formation are today’s young adults. And it is more than plausible—I wrote a [whole book](https://www.arthurbrooks.com/the-meaning-of-your-life) on this—that these trends are already creating the explosion of depression and anxiety among this generation.
+
+On the contrary, the right approach might start with a bit of optimism and encouragement from older adults, especially leaders. This has been in short supply over the last decade, when the only things boomer activists and opportunistic politicians of all stripes seem to agree on is that the future is grim, the world is dangerous, and our country is in decline. Look no further than commencement addresses from the past 10 years from speakers who tell Gen Z that the world is messed up (*sorry!*) and that it’s their job to fix it (*good luck!*). No wonder the generation that will now take the wheel of the American economy is sad and worried. Frankly, the only thing that surprises me is that they *aren’t* turning to alcohol.
+
+Engage
+
+#### QOTD: What's the biggest risk you've ever taken?
+
+The Free Press Forum
+
+In honor of Arthur Brooks' latest article, Gen Z’s Great Retreat From Risk, we'd love to hear from the Forum.
+
+![Ryan (FP Community Manager)'s avatar](https://substackcdn.com/image/fetch/$s_!Whex!,w_64,h_64,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1204aff-b258-4bf1-88a4-3d5e65d074f7_1201x1201.jpeg)
+
+[View original](https://www.thefp.com/forum/the-water-cooler/post/280797900?utm_source=comment_embed)
+
+In scarier moments than these, strong leaders from the past chose to exhort young Americans to live life fully and take risks. And they did so to great effect, whether they believed in big government or shrinking the state. For example, John F. Kennedy’s public-sector approach was optimistic and ambitious. “We choose to go to the moon in this decade and do the other things,” [he said](https://www.jfklibrary.org/learn/about-jfk/historic-speeches/address-at-rice-university-on-the-nations-space-effort) in 1962, “not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills.” My parents’ generation spoke about this for the rest of their lives. It encouraged them.
+
+Ronald Reagan’s [full-throated defense](https://www.reaganfoundation.org/ronald-reagan/quotes/only-when-the-human-spirit-can-dream-create-and-build) of private enterprise in 1984 was similarly aspirational: “Only when the human spirit can dream, create, and build; only when individuals are given a personal stake in deciding economic policies and benefiting from their own success—only then do societies become dynamic, prosperous, progressive, and free.” As someone who came of age at this moment, it was inspiring to have a president who believed in me, and who clearly thought that the nation’s best days lay ahead. By contrast, in today’s world of populism, even politicians who *do* hold power argue that if “the other side” takes the reins, much worse days lie ahead. This leads to a deadening conclusion for young people: Hope and progress are fleeting and short-lived.
+
+Most inspiring of all is Franklin D. Roosevelt’s famous encouragement in his first inaugural address, [advice that is](https://www.fdrlibrary.org/first-inaugural-curriculum-hub) more relevant today than ever: “The only thing we have to fear is fear itself.” I’ll drink to that.
+
+![](https://substackcdn.com/image/fetch/$s_!m62F!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97510cfc-2886-4592-8e22-804c8b557b7d_1320x30.png)
