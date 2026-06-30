@@ -28,6 +28,8 @@ The authors trace the rise of mission command within the People’s Liberation A
 - PLA adoption of mission command could reduce the effectiveness of traditional U.S. concepts of operation, because of more resilient PLA command and control and greater command autonomy.
 - Mission command is unlikely to fix all shortcomings in PLA command, providing opportunities for the joint force to influence Chinese leadership decisions on command.
 
+
+![[RAND_RRA2257-1.pdf]]
 ## Recommendations
 
 ## Topics
