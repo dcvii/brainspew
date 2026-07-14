@@ -8,7 +8,7 @@ description: "Lindsey Graham was a U.S. senator from South Carolina and a leadin
 tags:
   - "brain_spew"
 ---
-## Lindsey Graham
+R## Lindsey Graham
 
 Lindsey Graham was a U.S. senator from South Carolina and a leading figure in Republican foreign policy and judicial proceedings. Graham chaired the Senate Budget Committee and the Senate Judiciary Committee, where he played a pivotal role in the confirmation of federal judges. He also served in the U.S. House of Representatives and was a manager during a presidential impeachment trial.
 
