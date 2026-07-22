@@ -1,0 +1,56 @@
+---
+title: "The Oldest Tradition in Art"
+source: "https://quillette.com/2026/07/21/the-oldest-tradition-in-art/?ref=quillette-daily-newsletter"
+author:
+  - "[[Claire Lehmann]]"
+published: 2026-07-21
+created: 2026-07-21
+description: "Christopher Nolan's Odyssey, shot entirely on IMAX cameras, is the newest chapter in an old story: technological innovation creating new forms of art."
+tags:
+  - "brain_spew"
+---
+![The Oldest Tradition in Art](https://cdn.quillette.com/2026/07/Feature-Images--79-.png)
+
+Matt Damon as Odysseus in Christopher Nolan's The Odyssey (2026). Credit: Syncopy Production / Universal Pictures via Alamy
+
+On a black volcanic beach, Christopher Nolan peers into a wheeled contraption that looks like a portable air-conditioner. The IMAX camera, weighing some 180 kilograms, is encased in a black box—a “blimp”—designed to muffle the camera's sound. Unhoused, the machine is so loud that Matt Damon compared it to ‘ [a blender... in your face](https://deadline.com/2026/01/matt-damon-filming-the-odyssey-loud-imax-cameras-1236675870/?ref=quillette.com) ’. Nolan had used IMAX cameras for action scenes before, but this new casing let him do something he never could: film quiet dialogue, with the huge machine only inches from an actor’s face. *The Odyssey*, Nolan’s thirteenth feature film, is the first narrative feature shot entirely with IMAX cameras.
+
+![](https://x.com/i/status/2079133396190515587)
+
+This might sound like a small technical detail. It is not. Nobody has ever attempted what Nolan has. Yet in another respect, what he has done fits a long tradition in the history of art, where a new machine or technology allows artists to do what they’ve never done before. Art has always worked along two frontiers: the world outside us and the self within. Every new tool has extended the reach of one front or the other; the rarest extend both. To understand this tradition we should look first at painting: the art from which cinema descends.
+
+Walk the halls of almost any great museum and you can watch Western art discover the individual, room by room. Paintings from before the Renaissance show faces with little feeling. Holiness is signalled from the outside—a golden halo, rich embroidered garments—while the faces themselves stay flat. Pre-Renaissance painters were not trying to show anyone’s inner life; their images were sacred icons, and a believer did not need to know what the Virgin was feeling in order to kneel before her.
+
+In the Renaissance, this orientation changes completely. Now we get a three-dimensional exploration of human experience: the mysterious smile of the Mona Lisa, the tranquility of Raphael’s Three Graces, the pain in Christ’s face as Titian portrays it. No longer are sacred subjects icons; they are human—and in them we see ourselves.
+
+Rembrandt takes it further than anyone before him, catching the subtle expressions and ambiguous glances of his sitters—and of himself, across a lifetime of self-portraits. As the art historian [Kenneth Clark wrote](https://www.washingtonpost.com/arts-entertainment/interactive/2022/rembrandt-self-portrait/?ref=quillette.com), Rembrandt saw each sitter “as an individual human soul whose weaknesses and imperfections must not be disguised, because they are the raw material of grace.”
+
+![](https://cdn.quillette.com/2026/07/Feature-Images--80-.png)
+
+Rembrandt van Rijn, Self-Portrait (1659), oil on canvas. National Gallery of Art, Washington, D.C.
+
+As the centuries passed, artists kept being handed new tools—and the next great tool opened the other front: not the face, but the world. For centuries painters mixed their colours in the studio, where the paint dried quickly. Then, in the nineteenth century, someone invented the small collapsible metal tube—the kind we still use for toothpaste. Suddenly painters could carry ready-made paint outdoors and work *en plein air*, capturing light and landscape in ways no one had managed before. “Without paints in tubes,” [Renoir said](https://www.smithsonianmag.com/arts-culture/never-underestimate-the-power-of-a-paint-tube-36637764/?ref=quillette.com), “there would have been no Cézanne, no Monet, no Sisley or Pissarro, nothing of what the journalists were later to call Impressionism.” Industrial chemistry added brand-new colours—vivid yellows and blues and reds that had never existed on a canvas before. "I have new ideas and I have new means of expressing what I want," [Van Gogh wrote to his brother Theo](https://vangoghletters.org/vg/letters/let550/letter.html?ref=quillette.com). “I am really carried away by those two colours, carmine and cobalt.” The Impressionists were doing for nature what Rembrandt had done for the face: using a new instrument to get closer to the real thing.
+
+This is not a tradition that is unique to the visual arts. The same law runs through music. Beethoven pounded the pianos of the 1790s so hard that he snapped their strings and smashed their hammers. The light instruments of the day could not keep up. Only after his death did makers build the sturdy, iron-framed piano that would become the centrepiece of middle-class households, and it was the next generation of composers—Chopin above all—who found a new language in it: delicate music that could still carry across a room. A century later it happened again, when Paul McCartney and his generation traded the acoustic double bass for the harder, faster electric one, and rock and roll became rock. The pattern repeats itself: new instrument, new language, new art.
+
+Art historian Camille Paglia argues that the great artists of our own time are found not in poetry or painting but among those who have embraced technology. The final chapter of her book on the visual arts, [*Glittering Images: A Journey Through Art from Egypt to Star Wars*](https://amzn.to/4pvCvzb?ref=quillette.com)*,* is devoted to George Lucas, who, she writes, fused “ancient hero legends from East and West with futuristic science” to create images that have “entered the dream lives of millions.” She reads the digital fire of the *Star Wars* films—the duel beside a lava river, reaching back through Dante and the Greek Hades—not as empty spectacle but as serious art. Lucas, she insists, “is a master of technology, but he is not its slave.” The machine served his vision, not the other way round.
+
+Paglia is right that the great artists of our age are working in film. But if Lucas was a pioneer, Christopher Nolan is his inheritor. Lucas bet everything on the digital future: computer-generated worlds, digital cameras, digital screens. But Nolan has been more cautious. He has not leaned into CGI, like many other directors, and has instead spent his career using real film—celluloid, practical effects, and the vast IMAX format to push the oldest photographic technology as far as it can physically go. Both Lucas and Nolan marry art and technology, but they ask different things of the marriage. Lucas aimed it at spectacle—the burning planet, the space battle, the event itself. Nolan can match that scale when he chooses: his sacking of Troy is as overwhelming as anything Lucas ever staged. But he turns the same vastness to expression: not just what happened, but what it felt like to be there.
+
+IMAX itself was born on the natural-world front. The format’s first vocation, from the 1970s on, was large-format documentary: films such as *Everest* and *Blue Planet* turned the giant screen into a window on the natural sublime. Nolan inherited that vocation and kept faith with it. Hades was shot on a volcanic beach in Iceland; the Cyclops in a real Greek cave. The film is lit the way the ancient world was lit—by fire, whole scenes playing out in torchlight—and scored the way the ancient world sounded, on [Bronze Age instruments](https://au.rollingstone.com/movies/movie-news/the-odyssey-ludwig-goransson-score-96679/?ref=quillette.com). Even the monsters have weight: the Cyclops is a puppet, a thing of real mass and texture, and his scenes—like Circe’s—veer into genuine body horror.
+
+Only forty-one screens on earth can project *The Odyssey* in the format Nolan shot it in—three of them in Britain—and demand has been such that the BFI IMAX in London has sold out 173 screenings in a row, more than eighty thousand seats, through August and into September. What draws people to cross the world for it is not spectacle but fidelity. One cinephile who flew more than seven thousand kilometres for a seat [called it](https://x.com/kdcloudy/status/2079147227898118166?s=20&ref=quillette.com) “the sharpest projection I’ve ever seen… as sharp as how you’d see yourself in the mirror.” A face on that screen is not so much larger than life as *more present* than life—every flicker of thought rendered at the scale of a building, and as intimate as your own reflection.
+
+![](https://cdn.quillette.com/2026/07/Projectionist.jpeg)
+
+Odysseus (Matt Damon) fills the IMAX screen in Christopher Nolan’s The Odyssey. Photograph: @taylor.umphenour / X.
+
+This is what the blimp is really for. Once the roar of the camera is silenced, the largest, most overwhelming image in cinema can rest on something small and quiet: a face, thinking. And here is where Nolan’s originality takes over. Homer’s Odysseus, famously, has almost no inner life. The poem keeps everything on the surface. Everything is spoken aloud, and shown out in the open. When Nolan takes us inside Odysseus—inside the wooden horse, and inside his memories of past traumas—he is not copying Homer like a Byzantine scribe. He is adapting the mythology as a poet in the oral tradition would. He carries the oldest story in the West across the whole journey we have just traced, from the flat medieval face to Rembrandt’s curious eyes. The IMAX camera on Matt Damon’s face does for Homer what Rembrandt did for the portrait.
+
+The poem itself was born that way: sung and reshaped by generations of oral poets until, around the eighth century BC, [the Greeks adopted the alphabet](https://www.worldhistory.org/Greek_Alphabet/?ref=quillette.com) and wrote it down—among the first things the new script was ever used for. The poem survives because a new technology caught it.
+
+Some have criticised Nolan for giving Odysseus emotions the ancient Greeks would not have felt. But Odysseus has never belonged to the Greeks alone. Dante sent him to hell and Joyce turned him into a Dublin advertising man. Nolan’s inward-looking Odysseus simply joins the lineage—each age retelling the myth of the wanderer for its own time.
+
+We never know at the time whether a new art form has been born; such things are visible only in hindsight, once the work has been digested. What we do know is the pattern. The sturdy piano, the metal tube of paint, the electric bass—each instrument gave artists a language they did not have before. The black box that muffles Nolan’s camera on a black beach in Iceland is the latest instalment in the oldest tradition in art: the reach for the world outside us and the self within.
+
+---
