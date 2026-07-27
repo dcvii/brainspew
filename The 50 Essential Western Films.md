@@ -1,13 +1,14 @@
 ---
-title: "The 50 Essential Western Films"
-source: "https://www.honest-broker.com/p/the-50-essential-western-films?publication_id=296132&post_id=200922348&isFreemail=false&r=7br8e&triedRedirect=true"
+title: The 50 Essential Western Films
+source: https://www.honest-broker.com/p/the-50-essential-western-films?publication_id=296132&post_id=200922348&isFreemail=false&r=7br8e&triedRedirect=true
 author:
   - "[[Ted Gioia]]"
 published: 2026-06-09
 created: 2026-06-09
-description: "I pick the definitive movies in the genre. Here's the first (of three) installments."
+description: I pick the definitive movies in the genre. Here's the first (of three) installments.
 tags:
-  - "brain_spew"
+  - brain_spew
+  - film
 ---
 ![](https://substackcdn.com/image/fetch/$s_!Woy8!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a82d1e3-0b64-42f1-8892-e9b543c763e6_1057x352.png)
 
