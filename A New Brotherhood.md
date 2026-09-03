@@ -1,0 +1,58 @@
+---
+title: "A New Brotherhood"
+source: "https://mdcbowen.substack.com/p/a-new-brotherhood?publication_id=61420&post_id=213897640&isFreemail=false&r=7br8e&triedRedirect=true"
+author:
+  - "[[Michael David Cobb Bowen]]"
+published: 2026-09-02
+created: 2026-09-03
+description: "Where are my people?"
+tags:
+  - "brainspew"
+---
+Over on X the other day, I saw something about a twerk-fest going on at the Caribbean Festival in one of the London neighborhoods. As a weird self-medicating cure for depression I have been watching a lot of violence. Some of it, as many people know had to do with the catastrophic avalanche and flood in Nepal. Some of it consisted of extended graphic videos of deadly animal fights, lions vs hyenas, etc. Some of the violence was MMA fighting compilations of knockouts and submissions. Some of my recent doomscrolling, as you will probably soon witness, is comprised of archive footage of the 9/11 attacks. I still remember where I was and what I said on that fateful day. I’m sure you remember as well. Here’s what I say today.
+
+- We are all animals.
+- Brains are commoditized.
+- Life is not cheap.
+
+**Animals With Thoughts  
+**Recently I heard it said that we are just mammals who happen to think. My acceptance of this concept harkens back to my interest in evolutionary biology and **Donald Hoffman’s** [Case Against Reality](https://www.audible.com/pd/The-Case-Against-Reality-Audiobook/1799709280?ref_pageloadid=9OK5mvTM66EZAgh7&pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&pf_rd_r=Q1WS00SVW9322SBFBEWZ&plink=TNFg1D1aXithA8Hb&pageLoadId=RzXbgUvOng5RbK2V&creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&ref=a_author_Do_c19_lProduct_1_1) It has been something of an age old struggle for me to remove my curiosity from the swirl of the ever-changing zeitgeist when I understand that people are just wrong. We’re rationally wrong but animally right. Better yet to say that we are ***fit***. Every one of us who lives, given thousands of years of Homo Sapiens and billions of years of eukaryote evolution is a chaotic inevitability.
+
+I often think of evolution in terms of Christmas lights in a drawer. If it has any freedom to move it will knot up. Knots have reason. Some are easily reversible under stress. Some tangles cannot be undone. All of our biology and chemistry are combinatorial tangles that have proven their survivability against chaos. The same chaos that evolved us and the same chaos that we face every day of our lives. Our animal selves survive for generations, yet what we think about is fleeting.
+
+![](https://substackcdn.com/image/fetch/$s_!hjwx!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e2cff59-dd55-40d0-963a-6175379e7a74_1400x700.jpeg)
+
+It doesn’t matter how much we think. The overwhelming majority of our thoughts are guesses. We circle around in memetic currents led primarily by the needs of our bodies, compelled by the demands of our vague understandings of ourselves. We convince ourselves by our survivor’s bias. We reason about our rationality, but because we live in economies we are subject to the incentives we are offered. This is why we may have old wives tales, fantasy stories and luxury beliefs. They all exist in a realm of desires that are rewarded. Yet we ignore our own biology at our peril. Still, the right picture is worth a thousand thoughts when properly interpreted. I believe those familiar with Schindler’s List understand the poignant value of the girl in the red coat regardless of her own thoughts or the ideas of the millions in the society in which she may or may not bodily survive.
+
+---
+
+**Volunteer Slavery  
+**I’ll never forget the time I met **[Jill Nelson](https://en.wikipedia.org/wiki/Jill_Nelson)** in 1993. It was on one of my trips to Martha’s Vineyard back when I was a dashing young man. She was a journalist and I was a tech support manager. She hated her corporate world and I loved my career. So when, in that resort town of Oak Bluffs she introduced her new book entitled *Volunteer Slavery*, I felt that the whole idea was more than a little bit shrill. But she was of the Boomer generation and inherited that particular trope of gripes I knew very well. In the end it was tiresome. Yet I had also attended a black professorial meetup at Harvard where the outstanding talents of the day assembled. Much of that same sentiment was plainly in evidence there. Still I compared Nelson to **[Ella Bell](https://www.linkedin.com/in/ella-bell-aa486419/)** who took a contrasting tack. She was a professor of business, optimistic about the plasticity of the corporate world an making her mark with a publication from Harvard University Press.
+
+I don’t recall Ella’s book and had a rather cynical view of academic publishing in general owing to my autodidactic journey (hacker ethos) in the world about to explode on the internet. I was one of those who said “Information wants to be free.” Yes, but how can we make a buck? The irony was our general sentiment that we black standouts in the 1990s wanted to connect with our people. That, back in the days just when hiphop artists of dubious intellectual provenance were making more than star professors like **Skip Gates** and **Cornel West**, two other folks I met during my time in Boston. My professorial friend and expatriate [Kali Tal](https://www.mdcbowen.org/p2/boo/kalis.htm) explained to me with unusual candor that many black professors were running scams, rather in the same way Dave Chappelle tells stories about the ethics of pimps. This understanding made sense when I reflected on my own black professors, one in particular who gave me an instant A in his black studies class way back in 1982.
+
+In retrospect, it’s clear to me that persistent creators eventually get the audiences they deserve, but that everyone is not a good student. There’s always an element of corrupt exploitation in cultural production. The downside of any profession is that you get to see the soft white underbelly, the dirt under the fingernails, the toxic tailings of the production, the products that fail, the politics that coerce. Everything is in competition with everything. You have no choice, you have to offer up your talents to the interests of the state, the aims of management, the politics of the department heads, the demands of the shareholders, the envy of your peers, the pressures of the crowd. Is all work slavery? How much are the bodies subject to the ideas? When brains become a cheap commodity, betrayal is done to the person.
+
+We don’t want to be commodities. We want to trust and we want to be trusted.
+
+![](https://substackcdn.com/image/fetch/$s_!lPP6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b41270b-d646-40ad-b1ee-994d706ef336_1221x733.jpeg)
+
+**The Post-Apocalyptic  
+**We Americans are greatly fortunate to be exposed to dramatic presentations of tragedy. In the end it is tragedy that reminds us, despite our comforts and accommodations, that we are fragile. To experience the traumatic bends us out of shape, a normal shape to which we may never return. And yet this is inherent in us, we adapt. Unlike computers, we do not have a halting problem. We are capable of forgetting, ignoring, repressing, subjugating our will and being ascetic with our desires. We can suffer and survive. Our thoughts may betray us, and the thoughts of the world may betray us, yet here we are.
+
+It is when we exercise our gut instincts in response to that which brings us to tears that we who live in air-conditioned comfort are given a healthy dose of *memento mori*. It is this that makes me want to watch films like [Germany Year Zero](https://www.imdb.com/title/tt0039417/?ref_=mv_close), a true post-apocalyptic drama. It is the consideration of that which I believe makes me more fit to deal with reality. We are looking to horror and science fiction improperly. Anything that engages the supernatural or the magical is a false clue to survival. We must see the good and evil in the hearts of mankind to prepare us for what betrayals may come. The biography of Berlin speaks volumes for the necessity of the precious respect we must retain under all circumstances for the value of human life.
+
+In the [Commune series by](https://www.goodreads.com/series/231655-commune) **[Joshua Gayou](https://www.goodreads.com/series/231655-commune)**, we are told a series of post-apocalyptic tales of an America gone feral. It has nothing to do with zombies. It examines all of the human dynamics. Every combination of terror, courage, family, faith, survival, depravity, ingenuity, cruelty, heroism and barbarity are exemplified. I can’t imagine any prepper that hasn’t read all or part of this work. The first hero of the early books is an absolute Stoic who at a particular moment reminds us that we are to determine the character of justice and whether or not, under the worst of circumstances we give in to the idea that life is cheap.
+
+---
+
+![](https://substackcdn.com/image/fetch/$s_!qY3m!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79ffa0e1-be97-4cf0-8151-e69ec9792580_1404x759.jpeg)
+
+**The New Monastics**  
+There has always been a part of me that wanted to live in a church. I remember the small parish of the Church of the Advent on Longwood in my neighborhood. They had Cub Scouts and Webelos. A good friend of my father’s attended services there regularly and we went through occasionally. It was very small and cozy and there was something about it that made me want to convert the place to a home with a loft. I have often considered the priesthood for myself, but only in the event of some apocalypse. I’m the one telling stories around the campfire. Some aspect of me may likely do this in my elderly future.
+
+What I said on 9/11/01 was this was the beginning of the end of the nation-state. Following the GWOT for many years as a “911 conservative”, I held those two contrasting concepts in tension. On the one hand there is the sacrosanct idea of the rule of law and the sovereignty of the Westphalian state. On the other hand is the asymmetry of human ambition and success, as well as of crime and destruction. I’ve always looked at these dissonances with puzzlement. How do we even get along at all? In the end, I think we appreciate human beauty above all. It’s tied to reproduction and our intimate instincts. We like how people smell. At the same time we have that capacity, bent as we become from trauma and suffering to find human beings as the source of all evil. Joy and pain, like sunshine and rain. We have to find our own people, and hope we are not betrayed.
+
+Life in America is absurdly rich. The luxuries we are afforded are stupendous. We are remarkably bereft of those in our elites who have aspects of memento mori informing their judgement. The war and subsequent peace after WW2 were directed by the generation who suffered in WW1. Both winners and losers were that serious. It is a seriousness we have not sustained against the chaos of our contemporary zeitgeist, feebly borne as it is in social media. So I’m looking for a distributed home that has no geographic boundaries.
+
+We can start here. You are the audience I deserve. This is a circle to be expanded and linked. I am dedicated to the life of the mind and being as careful as possible to see that it respects our evolved biology. Let us be mammals. Let us be friends. Let us be picky and considerate. I promise not to join any mobs, twerking or not.
