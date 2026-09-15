@@ -1,0 +1,22 @@
+---
+title: "The Diversity Hypothesis – A literature Review"
+source: "https://hxstem.substack.com/p/the-diversity-hypothesis-a-literature"
+author:
+  - "[[Zachary Patterson]]"
+published: 2026-09-14
+created: 2026-09-15
+description: "Last week, Jordan Beck, Sam Wilson and I had a paper published in Theory and Society entitled “The diversity hypothesis: A rapid scoping review of diversity and scientific output and impact in the natural and social sciences.” The goal of the paper was to examine the published scientific literature to test what we call the “Diversity Hypothesis.” The hypothesis is stated in different ways but is generally of the form that “diversity” improves science."
+tags:
+  - "brainspew"
+---
+Last week, Jordan Beck, Sam Wilson and I had a paper published in *Theory and Society* entitled “ [The diversity hypothesis: A rapid scoping review of diversity and scientific output and impact in the natural and social sciences.](https://link.springer.com/article/10.1007/s11186-026-09714-x)” The goal of the paper was to examine the published scientific literature to test what we call the “Diversity Hypothesis.” The hypothesis is stated in different ways but is generally of the form that “diversity” improves science. We operationalized “improvement” to science as scientific output and impact, primarily number of publications and indicators of impact such as citations, h-index, etc. Diversity was operationalized as whatever the authors of the papers in the studies chose to consider diversity. Diversity is used by authors in the literature to characterize both individuals and groups. Individuals are considered “diverse” for the most part if they are not male, white or cisgendered. Groups (e.g. research groups or authors on a paper) are typically considered diverse if they include anyone apart from male, white, cisgendered members.
+
+To undertake the study we followed an internationally recognized methodology (Joanna Briggs Institute or JBI) widely used for systematic literature reviews in the health and social sciences. We searched the scientific databases (Web of Science, Scopus, and Ovid PsycInfo) for papers found related to keywords such as diversity, science, h-index, etc. This resulted in over 6,000 papers. The papers were then narrowed down to a final consideration set of 104. This is not an atypical result for Systematic Literature Reviews, although 104 from over 6,000 can be considered a lot.
+
+Each paper was analyzed for findings relating diversity and output/impact. Each such finding is referred to as “a result.” Papers could have more than one result. For example, a paper might look at both number of publications and number of citations. A paper could also look at multiple types of diversity, e.g. female-vs-male and black-vs-white. Each of these (and their combinations) could produce “a result.” There were almost two results per paper on average.
+
+![](https://substackcdn.com/image/fetch/$s_!M8SF!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F894a468a-bbec-4a22-b872-f99cff259da3_1428x594.png)
+
+The key results of the paper are found in Figure 5 attached here. The figures show bar graphs with the number of results organized according to type of diversity (sex, nationality, race, etc.). Each bar also breaks down results according to what they imply for the Diversity Hypothesis. Considering the left panel, we can see that the first bar shows results relating to sex. In green is the number of results that could support the hypothesis. This includes results that clearly support (e.g. women found to have higher h-index than men) or that could be interpreted as evidence in support of it (e.g. inverted u-shape result). The second panel characterizes results as simply being hypothesis consistent (e.g. women found to have higher h-index than men) or not - 16% of results are unambiguously hypothesis consistent. The paper also analyzes results according to the quality of studies, which affects the proportion of results that are hypothesis consistent. This gives a range of between 16% and 28% consistency.
+
+We conclude that there is little evidence to support the Diversity Hypothesis (with the possible exception of disciplinary diversity) and that as a hypothesis it should be rejected. We also conclude, based on this, that the Diversity Hypothesis should not be used to justify policies to “diversify” science or scientific research.
