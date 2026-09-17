@@ -1,0 +1,114 @@
+---
+title: "Niall Ferguson: Is Peace at Hand in Ukraine?"
+source: "https://www.thefp.com/p/niall-ferguson-is-peace-at-hand-in-ukraine-russia-war?r=7br8e"
+author:
+  - "[[Niall Ferguson]]"
+published: 2026-09-17
+created: 2026-09-17
+description: "“This week, my train in Ukraine was almost hit by a Russian drone,” writes Niall Ferguson. “It sent the same message that aggressors have been sending since the earliest days of siege warfare: Be afraid.”"
+tags:
+  - "brainspew"
+---
+![](https://substackcdn.com/image/fetch/$s_!mboA!,w_750,h_440,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15686b5f-6108-42f5-ad1f-8fd3df7c3540_1024x683.jpeg)
+
+I don’t think the Russians intended to hit our train. I do think they intended to send us all a message. (Kostiantyn Liberov/Libkos/Getty Images)
+
+This week, my train in Ukraine was almost hit by a Russian drone. It sent the same message that aggressors have been sending since the earliest days of siege warfare: Be afraid.
+
+*KYIV, Ukraine* — I did not take it personally that a Russian drone destroyed the train behind ours as we neared the Polish border with Ukraine on Sunday. Indeed, I wasn’t aware of what had happened until a few hours later. I had taken it for granted that going to Ukraine amid a relentless aerial bombardment would have its risks. But I had also assumed that I’d probably be all right if I was traveling with such luminaries as the former UK prime minister Boris Johnson, the former director of the CIA David Petraeus, and multiple current or former leaders of Scandinavian and Baltic states—not forgetting the editor of *The Economist*.
+
+I don’t think the Russians intended to hit our train. I do think they intended to send us all a message. And it is the same message that aggressors have been sending since the earliest days of siege warfare: Be afraid. It says much about the war in Ukraine that President Vladimir Putin believes he can send such a message to eminent Westerners with impunity. He is probably right about that. It dovetails with his current strategy of drone incursions, sabotage, and cyberattacks directed at multiple NATO (North Atlantic Treaty Organization) members.
+
+My annual visit to Kyiv for the Yalta European Strategy (YES) meeting was faintly encouraging about the chances of some diplomatic progress, but grimly sobering about Ukraine’s economic and political situation. Just over a week ago, President Donald Trump’s diplomatic representatives, his son-in-law Jared Kushner, and his friend Steve Witkoff, visited Moscow and Kyiv for meetings with the leaders of Russia and Ukraine, President Putin, and President Volodymyr Zelensky. This was not long after Director of Central Intelligence John Ratcliffe had also visited Moscow on August 26.
+
+Contrary to generally negative media coverage, some progress was made. Speaking via video link at the opening of the YES conference in Kyiv on Friday, Kushner said that the key elements of a peace agreement were largely in place, with the exception of “territory,” an allusion to the Donbas region.The other elements—security guarantees for Ukraine and a “deconfliction mechanism”—had been in place since the last trilateral meeting of Russian, Ukrainian, and U.S. representatives in Abu Dhabi in January.“If Ukraine were willing to move back to Putin’s desired line,” Kushner said, “the rest of the deal would be ready.”
+
+---
+
+That is, of course, a very big “if,” given the consistent refusal of the Ukrainian government to accept territorial cessions. Kushner said he expected there to be new trilateral talks, again in Abu Dhabi, later this month or in early October, following the Russian Duma elections on September 18 to 20. He elicited incredulous laughter when he said Putin was sincere about peace talks. However, he responded: “Everything looks impossible until right before it’s achieved.”
+
+I have no illusions that Zelensky is eager to cede the remaining 21 to 22 percent of Donetsk that Ukraine still controls. This is not out of sentimentality about square miles. The territory in question includes the so-called “Fortress Belt,” anchored by the key cities of Sloviansk, Kramatorsk, Druzhkivka, and Kostyantynivka. On the other hand, both sides do appear to have stronger incentives to end their war than at any time since late 2022, the nadir of Russia’s fortunes, when Western leaders misguidedly urged Ukraine to keep fighting rather than seek peace.
+
+A year ago, I was quite concerned about Ukraine’s thinly stretched armed forces. However, Ukraine’s advances in military technology have more than compensated for these vulnerabilities. The evidence is visible in Russian casualty figures, running at more than 40,000 in July and August according to the Ukrainian General Staff, as well as in the minimal territorial gains Russia made this spring and summer, compared with March through August last year. It is also apparent in the damage done by Ukrainian deep strikes on Russian energy infrastructure, especially oil refineries.
+
+![](https://substackcdn.com/image/fetch/$s_!hZ1m!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb44f0b9d-e3e9-4ad5-954d-424a51f07a29_1024x683.jpeg)
+
+A year ago, I was quite concerned about Ukraine’s thinly stretched armed forces. (Diego Herrera Carcedo/Anadolu via Getty Images)
+
+On September 9, Ukrainian forces struck the Novy Urengoy Gas Condensate Treatment Plant and the Purovsky Gas Processing Plant in Yamalo-Nenets Autonomous Okrug—both more than 2,700 kilometers from the Ukrainian border. On the same night, Ukraine hit Russian ports along the Black and Caspian Sea coasts. Ukrainian successes have been partly due to assistance from U.S. intelligence in targeting. However, the principal credit goes to the speed and creativity with which the Ukrainian Armed Forces have innovated in their use of drones, software, and artificial intelligence. Asked if Ukraine already had autonomous AI weapons systems in which no human decision-maker played a part, Artem Martynenko, deputy commander in chief of Armed Forces of Ukraine, conspicuously avoided giving a reply.
+
+Nevertheless, Russia has responded in ways that dispel any notion of a Ukrainian victory. Russia continues to strike Ukrainian cities every day with drones and missiles, while Ukraine’s air defenses are much less effective than a year ago. Not only is there a shortage of Patriot interceptors; Russia has also switched to jet-powered strike drones that are much harder to intercept. Moreover, the Ukrainians are fearful that Russia is close to deploying its own version of Starlink. At the same time, Russian attacks on Ukraine’s biggest port on the Danube and on cargo ships in the Black Sea have brought Ukrainian agricultural exports from its Black Sea ports to a standstill.
+
+![](https://substackcdn.com/image/fetch/$s_!a9GK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27811fe-da1b-4acb-91e6-f35616112bb7_1320x30.png)
+
+Both the Ukrainian and Russian economies are showing signs of strain, but the strain is greater in Ukraine.
+
+From the outset, this war has been a contest between David and Goliath. The International Monetary Fund estimates that the Russian population is 4.4 times larger than Ukraine’s and the Russian economy is 11.8 times larger (on a current dollar basis). Ukraine’s growth has stalled this year. The Black Sea escalation began in July. According to Ukraine’s Infrastructure Ministry, in July, Russia carried out 67 attacks on port infrastructure, 35 attacks on civilian vessels in ports, and 22 attacks on vessels using Ukraine’s maritime corridor. The result has been an effective commercial blockade of Ukraine’s Black Sea ports. Ukraine is trying to reroute agricultural exports to the Danube, but capacity is far lower. Russia has also started attacking Ukraine’s overland export routes. At the same time, Russian air raids on power infrastructure and commercial distribution nodes are causing severe disruption to both the manufacturing and the retail sectors. Last winter was bitter in Ukraine. This one will be worse.
+
+As in Ukraine, the costs of war have caused an economic slowdown in Russia. High interest rates are the main reason for the slowdown. Fixed capital investment declined sharply in the first half of the year. Overall industrial production flatlined. Preliminary estimates suggest Russian seaborne grain exports fell 62 percent in August compared with a year ago. However, the decline in agricultural exports is far less significant for Russia than for Ukraine.
+
+Russia’s fiscal situation is ugly but workable. Despite higher oil prices from the Gulf crisis, oil and gas revenues are down. But the budget deficit is currently 2.5 percent of GDP. Unemployment was just 2.3 percent in July. Inflation peaked at 10.3 percent in March 2025 and is now 6.3 percent. Real wage growth remains robust. Although there are signs of financial stress (e.g., signs of trouble at VTB Bank; the sharp decline of Gazprom’s share price), those who continue to talk about the outcome of the war being determined by a Russian economic crisis are missing the point. It is Ukraine that is much closer to a crisis.
+
+Both sides appear to have stronger incentives to end their war than at any time since late 2022.
+
+Both combatants rely on foreign support, though it takes different forms. Calculating all aid allocations (financial, humanitarian, and military) to Ukraine by the EU and its member states since 2022, the total comes to €195 billion ($224 billion)—52 percent of the amount from all donors—compared with the U.S. figure of €115.4 billion ($132.6 billion). Including committed (but not yet allocated) aid, the EU’s contribution is €326.5 billion ($375 billion)—59 percent of the total—compared with a U.S. figure of €119 billion ($136.7 billion). In other words, total EU aid to Ukraine is now nearly three times more than U.S. aid to Ukraine. And that gap will only widen as U.S. aid to Ukraine effectively ceased early last year, following President Trump’s second inauguration.
+
+Europe will continue to prop up Ukraine’s budget through at least the first half of next year. The EU’s main financing vehicle, the €90 billion ($103.4 billion) Ukraine Support Loan, runs through 2027 but will need to be front-loaded to cover Ukraine’s faster-than-anticipated spending. Thereafter, Ukraine will be at the mercy of European politics.
+
+By contrast, Russia’s war effort relies increasingly on China, but it is made available on commercial terms, not as aid. Bilateral trade between Moscow and Beijing is on track to hit an all-time high of roughly $280 billion this year. Russia now relies on China for roughly 57 percent of its total imports, compared with 13 to 14 percent before the war. China supplies around 90 percent of Russia’s sanctioned tech imports. While Beijing stops short of sending finished military hardware, it provides billions in dual-use goods—microchips, drones, and tools. And China buys about 50 percent of all Russian crude oil exports, 37 percent of its exported coal, and 31 percent of its pipeline gas. It has even defied U.S. sanctions by ramping up imports from Russia’s newer Arctic LNG 2 project. Over the last two decades, Russia has also accumulated $169.3 billion in total debt to China.
+
+To an extent that is underappreciated, the war in Ukraine is now a proxy war between the EU and China. The difference is that China makes a profit from backing Russia.
+
+![](https://substackcdn.com/image/fetch/$s_!a9GK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27811fe-da1b-4acb-91e6-f35616112bb7_1320x30.png)
+
+Intertwined with Ukraine’s deteriorating economic situation is the unraveling of wartime political unity. This is a war between a fledgling democratic nation-state and a fascist empire. In this regard, too, it is not a fair fight. Putin’s opposition is either dead, in jail, or in exile. Not so Zelensky’s.
+
+Russia’s full-scale invasion came roughly halfway through Volodymyr Zelensky’s first term, several months after his party, Servant of the People (*Sluha Narodu*), lost its parliamentary majority. The invasion prevented a rebalancing of parliamentary power. The war has also postponed the next presidential election. The result has been a narrowing political upper echelon, growing friction between its more powerful members, and a series of conflicts that are impossible to solve without an election. Yet holding an election in wartime is legally and logistically extremely difficult.
+
+The main opposition to Zelensky is now the Anti-Corruption Bloc, a coalition of disparate elements that includes Ukraine’s anti-corruption institutions, civil-society activists, and individual members of parliament. Last November they claimed the scalp of Andriy Yermak, the head of the Office of the President of Ukraine (OPU). As Zelensky’s right-hand man, Yermak was feared, not loved. But his system ensured all key decisions were taken, delegated, and executed quite effectively. That system collapsed when Zelensky was forced to remove Yermak after he became implicated in the widening corruption investigation known as Operation Midas.
+
+![](https://substackcdn.com/image/fetch/$s_!89n0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb07561d5-6eb3-4e45-b27d-fe88fd9a56ca_1024x683.jpeg)
+
+As Zelensky’s right-hand man, Andriy Yermak was feared, not loved. (Ivan Antypenko/Suspilne Ukraine/JSC “UA:PBC”/Global Images Ukraine via Getty Images)
+
+Following Yermak’s removal, Zelensky tried to create a team of rivals. Kyrylo Budanov came from the Main Directorate of Intelligence (HUR) to OPU. Denys Shmyhal moved from defense to energy. Rustem Umerov, Yermak’s last surviving protégé, moved to the Ukrainian National Security Council. And the mercurial Mykhailo Fedorov went from minister for digital transformation to defense minister. However, Fedorov had wanted to run the OPU, aspiring to take over Yermak’s old role—and perhaps even to replace Zelensky. He repeatedly pressed for elections, even in wartime, during multiple strategy meetings in the early summer. His removal from government in July and his subsequent attack on Zelensky has created a situation of extreme tension.
+
+Earlier this week, allegations of money laundering surfaced against Budanov. If Ukraine’s anti-corruption institutions were to release evidence of Zelensky’s direct knowledge of the corruption scheme exposed by Midas over the winter, there could be protests. Kyiv mayor Vitali Klitschko and former president Petro Poroshenko would likely support them.
+
+Ordinary Ukrainians are thoroughly sick of this war and filled with foreboding as winter approaches. The government continues to insist that Ukraine will fight on to victory. In the words of Yuri Fedorenko, the handsome, decorated commander of the Brigade Achilles, “The war will continue as long as Russia exists.” But I heard very different views at a rehabilitation center for war wounded at one of Kyiv’s municipal hospitals.
+
+One officer—a big, bearded, powerful man, his body covered in tattoos—had lost a leg when he stepped on a Russian land mine. He said the war would end only when “they” (meaning the Ukrainian oligarchs) could make no more money out of it. And yet he said he would return to the army after his rehabilitation was complete. A second younger man, whose foot had been severely damaged by a mine, said the war would only end when Putin decided to end it. A third, who had lost an arm to a Russian drone and was confined to a wheelchair by his leg injuries, said the war would be ended with negotiation, and Ukraine would have to make concessions.
+
+Ukraine has never published credible statistics on its military casualties. As Russia’s now likely exceed 1.5 million, of which roughly one-third were killed in action or died of wounds, a reasonable estimate would put Ukraine’s *mutilés de guerre* at above 200,000. Mass bereavement and disability are the less obvious costs of a large-scale conventional war such as this.
+
+![](https://substackcdn.com/image/fetch/$s_!a9GK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27811fe-da1b-4acb-91e6-f35616112bb7_1320x30.png)
+
+Under these circumstances, the obvious path for Putin is simply to press on through the winter, waging total war against Ukraine and exploiting his advantages, as [Eric Schmidt](https://www.washingtonpost.com/opinions/2026/09/09/how-russia-is-erasing-ukraines-battlefield-advantage/) has recently warned. However, there are other forces at work.
+
+First, as the situation in the Gulf deteriorates—with exchanges of fire between U.S. and Iranian forces disrupting the Strait of Hormuz, and Houthi attacks compromising the Red Sea route for Saudi oil—the Trump administration is casting around for any kind of relief for energy markets.
+
+Second, progress toward ending the Russia-Ukraine conflict, no matter how tentative, could be presented by Trump as a major diplomatic breakthrough—a modest October surprise ahead of the November midterms.
+
+Third, the U.S. has worked out a better way of involving European countries in the Russia-Ukraine peace process. Rather than being exposed to the divergent arguments of all the various EU member states, which derailed diplomatic efforts last year, Washington now appears to be dealing only with Berlin, London, and Paris. National security advisers from those capitals, France’s Emmanuel Bonne, the UK’s Jonathan Powell, and Germany’s Günter Sautter, were directly involved in the recent U.S.-led talks in Kyiv. How far they were working alongside Kushner and Witkoff and how far they were merely “props” was unclear.
+
+![](https://substackcdn.com/image/fetch/$s_!HumU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb9cadb6-4897-4088-b773-19297b22bb96_1024x683.jpeg)
+
+How far France and Germany were working alongside Kushner and Witkoff in negotiations was unclear. (Yan Dobronosov/Global Images Ukraine via Getty Images)
+
+This is a striking turn of events. Now that they are the principal source of aid and lending to Ukraine, the Europeans ought to have much more diplomatic leverage. In practice, however, the British, French, and German governments prefer to let the U.S. take the lead in negotiations. Other European governments may well view this development with unease, as Kersti Kaljulaid, the former president of Estonia, pointed out—especially if they find themselves committed by the “E3” to security guarantees for Ukraine as part of a trilateral peace deal. The problem is that European initiatives such as the “Coalition of the Willing”—an Anglo-French initiative launched last year—lack the military resources to make credible commitments to the proposed postwar multinational force in Ukraine.
+
+Moreover, the trends in European politics are not friendly to Ukraine. In France, Rassemblement National leader Marine Le Pen is the favorite to succeed Emmanuel Macron as French president. In Germany, the chancellorship of Friedrich Merz is crumbling as the Alternative für Deutschland gains ground in regional elections. In Italy, Giorgia Meloni risks being outflanked by the neo-fascist Roberto Vannacci’s Futuro Nazionale. All the European populist parties are skeptical about the war in Ukraine, if not overtly pro-Russian.
+
+The recent U.S. visitors to Moscow offered Putin a stark choice: “Press on with the war and we will continue to provide the Ukrainians with targeting intelligence; or settle this diplomatically and we can give you the kind of economic rehabilitation you will not get from anyone else.” As usual, the Kushner-Witkoff team approaches a classic diplomatic problem—how to end a war—with the techniques of the New York real estate market. In effect, the Ukrainians are being told to sell the remaining territory they control in Donetsk at an attractive price in the form of postwar funding for reconstruction and investment. Note that much of this is supposed to come from private-sector entities such as Blackrock, whose CEO, Larry Fink, has not been reticent in pledging to invest in Ukraine.
+
+The Russians, meanwhile, will get sanctions relief if they renounce their earlier demands for regime change in Ukraine. The presence of a representative of the U.S. Treasury in Moscow and Kyiv was significant in this regard: Gene Lange, who accompanied Kushner and Witkoff, is the acting head of the U.S. Treasury Department’s sanctions unit.
+
+---
+
+The Americans believe Putin is more open to this argument than previously. They are also hoping to secure European support for a compromise peace by offering a path to lower natural gas prices. At least some in Kyiv share his assessment. Davyd Arakhamia, who was Ukraine’s negotiator in Istanbul early in the war, stated confidently at YES that the Russians would come to the negotiating table after their Duma elections.
+
+The backdrop for the YES stage this year was a Banksy mural of a David versus Goliath judo contest, with the heroic boy easily tossing the giant over his shoulder. Certainly, Ukraine has done some serious defense-technology judo to Russia in the past year. But the sheer economic preponderance of Russia, and its leader’s seeming readiness to ramp up his military mobilization, are exerting strong pressure on Ukraine to negotiate a compromise peace. The Americans seem to think Putin is finally ready for serious talks in which he would effectively concede the rump Ukraine’s right to a continued independent existence, minus Crimea and Donbas.
+
+I remain doubtful that such a compromise peace can be signed and successfully implemented. Putin may play along, but he will continue to hammer the Ukrainians in the belief that further battlefield gains are achievable. Zelensky may need a ceasefire, but he would surely not survive politically if he relinquished territory Ukraine has succeeded in defending. Nevertheless, I would not be surprised by an announcement that “peace is at hand.” As my train made it across the Polish border, I recollected that Henry Kissinger used that phrase in October 1972—about Vietnam.
+
+![](https://substackcdn.com/image/fetch/$s_!a9GK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27811fe-da1b-4acb-91e6-f35616112bb7_1320x30.png)
