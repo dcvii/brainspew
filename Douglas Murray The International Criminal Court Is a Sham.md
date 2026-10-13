@@ -1,0 +1,49 @@
+---
+title: "Douglas Murray: The International Criminal Court Is a Sham"
+source: https://www.thefp.com/p/douglas-murray-international-criminal-court-us-sanctions?r=7br8e
+author:
+  - "[[Douglas Murray]]"
+published: 2026-10-13
+created: 2026-10-13
+description: Marco Rubio just announced that the United States is sanctioning the International Criminal Court. It’s about time, writes Douglas Murray.
+tags:
+  - brainspew
+  - geopolitics
+---
+![](https://substackcdn.com/image/fetch/$s_!QTVK!,w_750,h_440,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ab03da8-ffc5-401a-9c08-6eb21e06dba1_1900x1069.jpeg)
+
+Douglas Murray argues the ICC has become an obstacle to the very values the free world should be defending. (Illustration by The Free Press )
+
+Marco Rubio just announced that the United States is sanctioning the International Criminal Court. It’s about time.
+
+Recent years have seen a flourishing of BS institutions. There is the International Association of Genocide Scholars, an organization that suddenly leaped to prominence last year when it was reactivated in order to accuse Israel of “genocide” in Gaza; there is the International Court of Justice (ICJ), a politicized pseudo-court that seems determined to fast-track that same genocide allegation; there is the United Nations Human Rights Council, whose only standing agenda item devoted to a single country is, yes, about the Jewish state; and the list goes on.
+
+But the institution that must win any and all awards for not being what it says on the tin is the International Criminal Court (ICC). Founded in 2002, the ICC has served as a political tool for a quarter century. In the 2000s, European signatories routinely criticized the George W. Bush administration for not signing up the U.S. to be a member of the new institution. But the Bush administration took the view that all Democrat and Republican administrations have taken before and since: No American statesman or soldier should ever find his actions judged under the jurisdiction of a foreign court. American justice is enough.
+
+Many Europeans count this as evidence of American barbarism. Why would the U.S. refuse to recognize the jurisdiction of something as noble-sounding as the ICC? The reasons, in the years since, have become quite clear. To take only one notable example, in 2002, when the court was being established, Spanish judge Baltasar Garzón sought to call former secretary of state Henry Kissinger as a witness for an investigation into human rights abuses by South American military dictatorships. Garzón wanted to question Kissinger about what the U.S. government knew about these alleged abuses. Authorities in Britain, where Kissinger was staying at the time, denied the request. But the incident served as an important reminder: If the U.S. ever submitted to a foreign court, international or foreign criminal jurisdiction could and would be used against America and her allies.
+
+That is why, at the end of last week, Secretary of State Marco Rubio took American opposition to the ICC to a [new level](https://thehill.com/policy/international/6138693-rubio-imposes-icc-sanctions-nobel-prize/): sanctioning American individuals or businesses that transact with the court. As Rubio said in a [statement posted](https://x.com/SecRubio/status/2108565647667904647?s=20) to social media, “We will ban transactions with this rogue court, cutting off their resources and crippling their ability to operate against us because our message is clear: The United States and the American people are not subject to the jurisdiction of this fake ICC.”
+
+---
+
+This is the correct step. The ICC has proven its illegitimacy time and again—including in recent days. Indeed, the latest act to have outraged the Trump administration was the Friday decision to award the Nobel Peace Prize to a South African judge, Navanethem “Navi” Pillay, who previously served as a judge on the ICC and is now on the ICJ. In its statement justifying the award, the Norwegian Nobel Committee said that it had chosen Pillay because “institutions of international law are under political attack.” What it declined to say is that they are under political attack because these are deeply political institutions.
+
+One need only examine Pillay’s record to understand what I mean. Within days of the October 7 attacks on Israel, Pillay—then the chair of the United Nations’ Independent International Commission of Inquiry on the Occupied Palestinian Territory—declared that she would be investigating Israel’s “right to defense” and stated that the country’s response to the Hamas-led massacre was “much more retaliation and revenge.” This was before Israeli troops had even entered Gaza. Unsurprisingly, Pillay spent the succeeding months attempting to put together a case to find Israel guilty of crimes she’d already all but declared it had committed.
+
+Just yesterday, Pillay [visited the ICC](https://www.icc-cpi.int/news/nobel-peace-prize-laureate-navi-pillay-visits-international-criminal-court), paid tribute to its work, and noted that its members’ “compassion and courage continue to ensure that impunity will not be allowed to reign.” For evidence of what that supposed “compassion and courage” looks like, take what the ICC did in the wake of October 7. Within seven months of Gaza’s invasion of Israel, ICC prosecutor Karim Khan, a British Muslim, put himself before a camera alongside two faceless bureaucrats and, in a fantastic piece of cheap theater, announced that the ICC was issuing arrest warrants for Israeli prime minister Benjamin Netanyahu and Defense Minister Yoav Gallant, along with two Hamas leaders.
+
+The institution that must win any and all awards for not being what it says on the tin is the International Criminal Court.
+
+Leaving aside the fact that it’s ludicrous to place leaders of a sovereign state on the same plane as murderous terrorists responsible for the worst massacre of Jews since the Holocaust, all four men were beyond the jurisdiction of the court. The Israeli leaders, because—like America—Israel is not a signatory to the ICC, and the Hamas leaders because they were first in hiding and then swiftly dead. This removed Khan’s pretense that he was issuing these warrants because both sides had committed crimes and must be brought to justice. Only one side was ever in Khan’s sights.
+
+Moreover, at the same time that Khan made his intervention, there was some bemusement about his timing. By his own admission, he and the ICC had not completed an investigation into the war crimes they were alleging. Within months of the announcement, the reason for the rush became clear: Not only was Khan deeply politically biased, but he was also under investigation for allegedly sexually assaulting a female colleague. As of earlier this year, Khan has been removed from the ICC.
+
+If there are still Americans who believe that the ICC is what it says it is, then they should consider not only the outrageously political and biased work of Pillay and Khan, but notice that when it comes to the ICC, the ICJ, and other such institutions, the world falls into several distinct categories.
+
+Firstly, there are the countries like America and Israel that believe that their sovereignty matters and do not want to see their soldiers or leaders judged by some South African pseudo-expert or a British sex pest. Secondly, there are countries that are beyond the interest of the court because, for some reason, the highly political court has no interest in them. The ICC, for example, has yet to make any meaningful intervention in bringing to justice Vladimir Putin of Russia for his invasion of Ukraine. It issued one of its “arrest warrants” against the Russian leader in 2023, but this was mere theater; the likelihood of President Putin being brought to justice in The Hague is exactly nil, and the ICC knows that. And it moved on from the Russian theater long ago to continue its obsessive-compulsive disorder activities against the world’s only Jewish state.
+
+Those who defend the ICC point to the many trials of dictators and rogue military commanders that have taken place in The Hague. But what they ignore is that these trials are almost exclusively of people from impoverished and war-torn countries in Africa. The reason is simple: African countries rely on substantial amounts of international aid. By offering up a deposed leader or two to these courts, they can kill two birds with one stone: Remove a political rival at home and continue to drink from the hose of international aid. The Europeans see this as a win; the African nations that submit to the ICC see it as a win-win.
+
+European nations will continue to see American opposition to the ICC as evidence of American backwardness. But the reality is that America and Israel know that no army can fight a war in this era without having to fight a parallel war against politicized international institutions. But these two nations, the last major fighting powers of today’s West, are the ones that are actually moving the world toward the values for which Europe’s utopians claim to stand: freedom from terrorism and tyranny, defense of the weak, the protection of human rights, and an unbending standard of justice. The international bureaucracy is a hindrance in the pursuit of those virtues, on the wrong side of nearly every urgent moral question of our time. The ICC and its ilk could not be sanctioned enough.
+
+![](https://substackcdn.com/image/fetch/$s_!CAzo!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d820426-0acd-4a79-9aee-8115c3a41d0d_1320x30.png)
