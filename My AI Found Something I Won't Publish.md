@@ -8,7 +8,6 @@ created: 2026-11-05
 description: They hadn’t broken into anything. Every tile was public. The picture wasn’t.
 tags:
   - brainspew
-  - ThreatIntelligence
 ---
 ![](https://substackcdn.com/image/fetch/$s_!rack!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe22e3a0c-9882-487f-9b35-71b7b80fa888_1672x941.png)
 
