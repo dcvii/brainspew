@@ -9,6 +9,8 @@ description: Intelligence, consciousness, altruism, rationality, and the differe
 tags:
   - brainspew
   - AI_Skeptic
+  - reference
+  - T50
 ---
 ![A riveted metal robot with a geometric face stands against a wall, surrounded by a crowd of shoppers in hats](https://cdn.quillette.com/2026/11/selfridges-robot-1934.jpg)
 
